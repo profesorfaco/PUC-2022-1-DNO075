@@ -6,11 +6,11 @@ Hoy corresponde tomar el boceto grupal final de [la clase recién pasada](https:
 
 Ambos bocetos deben incluirse en el README.md de un nuevo repositorio, en donde deben subirse un avance resuelto, en:
 
-50% con HTML, CSS, SVG y JavaScript, 
+- 50% con HTML, CSS, SVG y JavaScript, 
 
-50% con imágenes que se recorten del boceto grupal. 
+- 50% con imágenes que se recorten del boceto grupal. 
 
-En las imágenes recortadas del boceto grupal, cuide el peso usando: 
+En las imágenes recortadas del boceto grupal corresponde cuidar el peso, usando: 
 
 - https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
 
@@ -18,7 +18,7 @@ En las imágenes recortadas del boceto grupal, cuide el peso usando:
 
 - https://squoosh.app/
 
-A tales usos, puede sumar algunas ideas: 
+No olvidar:
 
 - https://bluekea.com/blog/fotografia/cual-es-la-resolucion-correcta-para-fotografia-en-web 
 
@@ -42,7 +42,6 @@ En el avance de la clase de hoy se revisará cómo logran:
 2. definir la redacción linear de su infografía digital;
 3. incluir títulos y textos originales en HTML; y
 4. aprovechar recortes del boceto.
-
 
 - - - - - - - - - - -
 
