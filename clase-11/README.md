@@ -2,17 +2,16 @@
 
 ###  Clase 11 → 25/10/2021
 
-En la clase 9 hay vínculos a trabajos de tres versiones anteriores de este OPR, y también vínculos a trabajos de estudiantes del Diplomado en Infografía de Diseño UC, versión 2021-2022.
+En la [clase 9](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-09) hay vínculos a trabajos de tres versiones anteriores de este OPR, y también vínculos a trabajos de estudiantes del Diplomado en Infografía de Diseño UC, versión 2021-2022.
 
-Allí las temáticas fueron: 
+Las temáticas definidas en tales trabajos fueron las siguientes:
 
 1. VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE
 2. FAUNA ENDÉMICA DE CHILE
-3. CONFLICTOS SOCIOAMBIENTALES
+3. CONFLICTOS SOCIOAMBIENTALES CHILENOS
 4. ANIMALES EN PELIGRO DE EXTINSIÓN, QUE SE PUEDEN ENCONTRAR EN EL BUIN ZOO.
 
-
-En esta clase, que abre una tercera y última etapa en este Optativo, corresponde:
+En esta clase, que abre una tercera y última etapa en este Optativo. Hoy corresponde:
 
 - Formar grupos, evitando que estén compuestos 100% por estudiantes de diseño con intereses y habilidades similares, porque necesitamos que se complementen en tareas de investigación, redacción, bocetaje, dibujo y programación (si cada integrante es fuerte y débil en lo mismo, el grupo queda cojo).
 
