@@ -38,6 +38,14 @@ Dominar un lenguaje de programación toma tiempo de estudio y práctica, pero el
 - un *framework* es una cocina dispuesta para que prepares un tipo de comida específica, con eficacia y eficiencia (una cocina de restaurant que ofrece sushi es distinta de una de restaurant de pasas o parrilladas).
 
 
+ - - - - - - - 
+ 
+#### TAREA
+
+Revisar en YouTube el primer video de HTML y CSS curso práctico 💪 Desde cero [Tutorial Español]
+
+https://youtu.be/rr2H086z16s
+
 - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-05) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-07) 
