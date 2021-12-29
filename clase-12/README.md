@@ -14,6 +14,18 @@ Para poder inspirarnos, yendo un poco más allá de lo evidente: Cada grupo debe
 2. **analizar los colores** en uso en la misma infografía (pueden aprovechar el mismo pantallazo, meterlo a Photoshop para transofarlo con un desenfoque exagerado, que haga imposible distinguir más que colores, y con ello puede [extraer un tema con Adobe Color](https://color.adobe.com/es/create/image))
 3. **anotar las tipografías** usadas en la misma infografía digital (si está navegando con Google Chrome, aproveche la extensión [What Font?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)) 
 
+- - - - - - - - - - -
+
+En la clase de hoy, el trabajo grupal será evaluado con 4 puntos: 
+
+| CRITERIO | PTS.  |
+|:---------|:-----:|
+| Avance del texto en la investigación | 1 pto. |
+| Selección de antecedentes | 1 pto. |
+| Paletas cromáticas | 1 pto. |
+| Apuntes de tipografías | 1 pto. |
+
+- - - - - - - - - - - -
 
 - - - - - - - -
 
