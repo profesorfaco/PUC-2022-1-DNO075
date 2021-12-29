@@ -6,15 +6,13 @@ En esta clase, que abre una tercera y última etapa en este Optativo, correspond
 
 - Formar grupos, evitando que estén compuestos 100% por estudiantes de diseño con intereses y habilidades similares, porque necesitamos que se complementen en tareas de investigación, redacción, bocetaje, dibujo y programación (si cada integrante es fuerte y débil en lo mismo, el grupo queda cojo).
 
-- Definir un tema que pueda tratarse desde sub-temas. Por ejemplo:
+- Definir una temática de curso que pueda tratarse desde sub-temas. Por ejemplo:
 
 > Chile es un país expuesto de manera permanente a amenazas de origen tanto natural como antrópicas, entre las que destacan los **terremotos, tsunamis, erupciones volcánicas, inundaciones, incendios forestales**, entre otras, por lo que la formulación de una política y su posterior promulgación, va a contribuir a contar con un **país más preparado y resiliente frente a los desastres** - http://bcn.cl/2qkaz
 
-En este caso el tema son los desastres socionaturales en Chile. El sub-tema de cada grupo podría ser una amenaza de origen tanto natural como antrópico: grupo terremotos, grupo tsuamis, grupo erupciones volcánicas, grupo sequías y grupo incendios forestales.
+En este caso la temática son los desastres socionaturales en Chile. El sub-tema de cada grupo podría ser una amenaza de origen tanto natural como antrópico: grupo terremotos, grupo tsuamis, grupo erupciones volcánicas, grupo sequías y grupo incendios forestales.
 
-- - - - - - - - - -
-
-Desde esta clase los avances grupales se publicarán en **repositorios creado dentro de una organización de GitHub**. Y en los nuevos repositorios, el `README.md` tendrá mayor protagonismo. Para este cambio, podrían ser útiles las siguientes referencias:
+Para facilitar el trabajo grupal, desde esta clase usaremos **repositorios creados dentro de una organización de GitHub**. Y en estos repositorios, cada `README.md` tendrá mayor protagonismo. Para este cambio, podrían ser útiles las siguientes referencias:
 
 - https://git-scm.com/book/es/v2/GitHub-Gesti%C3%B3n-de-una-organizaci%C3%B3n
 
@@ -22,8 +20,7 @@ Desde esta clase los avances grupales se publicarán en **repositorios creado de
 
 - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-
-Para lo que se escriba en el README.md, consideren:
+Para lo que se escriba en cada README.md, consideren:
 
 - Moran, K. (2016) [How to Present Scientific Findings Online](https://www.nngroup.com/articles/scientific-findings-online/)
 
