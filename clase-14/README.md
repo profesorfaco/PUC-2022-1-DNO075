@@ -45,7 +45,7 @@ No olvidar:
 | Títulos y textos originales ya incluidos en HTML | 1 pto. |
 | Uso de recortes del boceto con resolución y peso optimizados | 1 pto. |
 
-La evaluación de esta clase, se sumará sus evaluaciones de las dos clases anteriores para obtener nota máxima de 7 ((12/2)+1).
+La evaluación de esta clase se sumará sus evaluaciones de las dos clases anteriores, así obtendrán nota máxima de 7 ((12/2)+1).
 
 - - - - - - - - - - -
 
