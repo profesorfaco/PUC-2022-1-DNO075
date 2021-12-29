@@ -22,7 +22,7 @@ La página creada, debe quedar [en línea con GitHub Pages](https://docs.github.
 
 - - - - - - - 
 
-#### Tarea
+#### TAREA
 
 Revisar en YouTube una ponencia del [Dr. Mario García](http://garciamedia.com/), especialista en storytelling móvil y transformación de redacciones para el mundo digital.
 
