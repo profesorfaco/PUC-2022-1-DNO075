@@ -32,9 +32,12 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html), [G
 
 #### Tarea
 
-Revisar en YouTube el primer video de HTML y CSS curso práctico 💪 Desde cero [Tutorial Español]
+Revisar las siguientes páginas web: 
 
-https://youtu.be/rr2H086z16s
+- https://datavizcatalogue.com/
+- https://www.visual-literacy.org/periodic_table/periodic_table.html
+- https://www.data-to-viz.com/
+- https://datavizproject.com/
 
 - - - - - - - 
 
