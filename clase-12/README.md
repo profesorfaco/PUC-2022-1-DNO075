@@ -27,8 +27,6 @@ En la clase de hoy, el trabajo grupal será evaluado con 4 puntos:
 | Paletas cromáticas | 1 pto. |
 | Apuntes de tipografías | 1 pto. |
 
-- - - - - - - - - - - -
-
 - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-11) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) 
