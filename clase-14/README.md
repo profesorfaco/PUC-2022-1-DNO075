@@ -45,6 +45,8 @@ En la clase de hoy, el trabajo grupal será evaluado con 4 puntos:
 | Títulos y textos originales ya incluidos en HTML | 1 pto. |
 | Uso de recortes del boceto con resolución y peso optimizados | 1 pto. |
 
+Esta es la última evaluación con 4 puntos, que junto a las dos anteriores suman 12 puntos con los que cada grupo podría obtener nota 7 ((12/2)+1).
+
 - - - - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-17)
