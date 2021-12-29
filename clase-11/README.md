@@ -44,4 +44,10 @@ Para lo que se escriba en el README.md, consideren:
 
 - - - - - - - -
 
+#### TAREA
+
+Avanzar en la investigación; tal avance será clave para las evaluaciones que siguen.
+
+- - - - - - - - 
+
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12) 
