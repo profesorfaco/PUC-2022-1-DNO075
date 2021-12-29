@@ -20,7 +20,7 @@ La presentación de la clase de hoy la pueden encontrar en carpeta Drive ya comp
 
 - - - - - - - 
 
-#### Ejercicio
+#### EJERCICIO
 
 **Para identificar ejemplos de lo que abordamos en la clase**, cada estudiante debe descargar de 6 a 10 imágenes de distintos trabajos de un mismo *transformer* mencionado en clase o que haya trabajado para la revista Fortune. 
 
