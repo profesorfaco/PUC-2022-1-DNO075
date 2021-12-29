@@ -30,7 +30,7 @@ Para el desarrollo del curso, cada estudiante debería contar con:
 ### Clase a Clase
 
 
-**Según [Calendario de Actividades Académicas y Estudiantiles 2022](https://admisionyregistros.uc.cl/noticias-alumnos/1711-calendario-academico-5), las clases del primer período comienzan el día lunes 7 de marzo y finalizan el viernes 24 de junio**. Después del cierre de clases, está el período de evaluación académica final entre los días mertes 28 de junio y viernes 8 de julio. 
+**Según [Calendario de Actividades Académicas y Estudiantiles 2022](https://admisionyregistros.uc.cl/noticias-alumnos/1711-calendario-academico-5), las clases del primer período comienzan el día lunes 7 de marzo y finalizan el viernes 24 de junio**. Después viene el período de evaluación académica final, entre los días mertes 28 de junio y viernes 8 de julio. 
 
 Considerando los días lunes entre 7 de marzo y 4 de julio, conviene apuntar que:
 
@@ -40,7 +40,7 @@ Considerando los días lunes entre 7 de marzo y 4 de julio, conviene apuntar que
 - el **27 de junio** es feriado legal-religioso (San Pedro y San Pablo).
 
 
-**Con todas las fechas recién mencionadas, organizamos el siguiente clase a clase:**
+**Con todas las fechas recién mencionadas, tenemos el siguiente clase a clase:**
 
 
 [Clase 01 → 07/03/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-01) → Infografía e infografistas
