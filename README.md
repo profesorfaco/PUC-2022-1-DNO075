@@ -32,7 +32,7 @@ Para el desarrollo del curso, cada estudiante debería contar con:
 ### Clase a Clase
 
 
-**Según [Calendario de Actividades Académicas y Estudiantiles 2022](https://admisionyregistros.uc.cl/noticias-alumnos/1711-calendario-academico-5), las clases del primer período comienzan el día lunes 7 de marzo y finalizan el viernes 24 de junio**. Después viene el período de evaluación académica final, entre los días mertes 28 de junio y viernes 8 de julio. 
+**Según [Calendario de Actividades Académicas y Estudiantiles 2022](https://admisionyregistros.uc.cl/noticias-alumnos/1711-calendario-academico-5), las clases del primer período comienzan el día lunes 7 de marzo y finalizan el viernes 24 de junio**. Después viene el período de evaluaciones finales, entre los días mertes 28 de junio y viernes 8 de julio. 
 
 Considerando los días lunes entre 7 de marzo y 4 de julio, conviene apuntar que:
 
@@ -41,9 +41,7 @@ Considerando los días lunes entre 7 de marzo y 4 de julio, conviene apuntar que
 - el **20 de junio** se suspenden actividades académicas y administrativas.
 - el **27 de junio** es feriado legal-religioso (San Pedro y San Pablo).
 
-
-**Con todas las fechas recién mencionadas, tenemos el siguiente clase a clase:**
-
+**Por todas las fechas recién mencionadas, resulta el siguiente clase a clase:**
 
 [Clase 01 → 07/03/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-01) → Infografía e infografistas
 
@@ -63,7 +61,7 @@ Considerando los días lunes entre 7 de marzo y 4 de julio, conviene apuntar que
 
 [Clase 09 → 09/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-09) → Infografía digital: HTML, SVG, CSS y JavaScript
 
-[Clase 10 → 16/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10) → Evaluación individual
+[Clase 10 → 16/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10) → Trabajo de aplicación
 
 [Clase 11 → 23/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-11) → Definición de temática y subtemáticas para una infografía digital grupal
 
@@ -86,13 +84,13 @@ Considerando los días lunes entre 7 de marzo y 4 de julio, conviene apuntar que
 
 La calificación final de asignatura se basa en:
 
-- **Trabajos de aplicación rápida, a desarrollarse entre clases 1 y 7** → Puntaje acumulativo. Equivalente al 25% de la calificación final. 
+- **Ejercicios a desarrollarse (desde clases 1 hasta clase 9)** → Puntaje acumulativo. Equivalente al 25% de la calificación final. 
 
-- **Trabajo práctico en clase 8** → A evaluarse con pauta de cotejo. Equivale al 25% de la calificación final.
+- **Trabajo de aplicación ([clase 10](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10))** → A evaluarse con pauta de cotejo. Equivale al 25% de la calificación final.
 
-- **Proceso de implementación de infografía digital, entre las clases 14 y 16** → Puntaje acumulativo. Equivalente al 25% de la calificación final. 
+- **Proceso de implementación de infografía digital (clases [11](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-11), [12](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12), [13](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) y [14](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-14))** → Puntaje acumulativo. Equivalente al 25% de la calificación final. 
 
-- **Resultado de trabajo final** → A evaluarse con pauta de cotejo. Equivale al 25% de la calificación final.
+- **Entrega final de infografía digital ([clase 17](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-17))** → A evaluarse con pauta de cotejo. Equivale al 25% de la calificación final.
 
 
 - - - - - - - - - - 
