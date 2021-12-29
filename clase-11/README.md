@@ -11,7 +11,7 @@ Las temáticas definidas en tales trabajos fueron las siguientes:
 3. CONFLICTOS SOCIOAMBIENTALES CHILENOS
 4. ANIMALES EN PELIGRO DE EXTINSIÓN, QUE SE PUEDEN ENCONTRAR EN EL BUIN ZOO.
 
-En esta clase, que abre una tercera y última etapa en este Optativo. Hoy corresponde:
+En esta clase, que abre una tercera y última etapa en este Optativo, corresponde:
 
 - Formar grupos, evitando que estén compuestos 100% por estudiantes de diseño con intereses y habilidades similares, porque necesitamos que se complementen en tareas de investigación, redacción, bocetaje, dibujo y programación (si cada integrante es fuerte y débil en lo mismo, el grupo queda cojo).
 
