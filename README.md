@@ -71,7 +71,7 @@ Considerando los días lunes entre 7 de marzo y 4 de julio, conviene apuntar que
 
 [Clase 14 → 13/06/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-14) → Pre-Entrega de infografía digital grupal
 
-**Clase 15 → 20/06/2022** → Suspensión actividades académicas y administrativas.
+**Clase 15 → 20/06/2022** → Suspensión actividades académicas y administrativas
 
 **Clase 16 → 27/06/2022** → Feriado Religioso → San Pedro y San Pablo
 
