@@ -38,7 +38,7 @@ Hagamos algo como eso, sin alejarnos muchos del pequeño programa (o *script*) e
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Muy simple</title>
+        <title>Un poquito de JavaScript</title>
     </head>
     <body>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200"><g id="aqui"></g></svg>
