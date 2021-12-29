@@ -2,8 +2,11 @@
 
 ### Clase 10 → 16/05/2022
 
-Copiaremos parte de una infografía digital publicada en el South China Morning Post. En la copia, usted debe rescatar la mayor cantidad de elementos posibles desde el código fuente original, haciendo traducción de cada información, para dejar su copia en castellano.
+En esta clase se cierra la segunda etapa del Optativo con un ejercicio práctico e individual. 
 
+Cada estudiante debe copiar parte de una infografía digital publicada en el South China Morning Post. 
+
+En la copia, usted debe rescatar la mayor cantidad de elementos posibles desde el código fuente original, haciendo traducción de cada información, para dejar su copia en castellano.
 
 - - - - - - - - - - - - -
 
