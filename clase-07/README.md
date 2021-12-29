@@ -31,10 +31,7 @@ Los dos lenguajes (HTML y CSS) y el dialecto (SVG) se pueden combinar para obten
 </html>
 ```
 
-- - - - - - - - - - - -
-
-
-A continuación, pueden encontrar vínculo a 3 trabajos de cada versión pasada de este OPR:
+Pero se pueden hacer cosas mucho más complejas, tales como los siguientes trabajos realizados en versión pasada de este OPR:
 
 VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 
@@ -60,7 +57,7 @@ A los trabajos recién vinculados, podemos agregar algunos trabajos de estudiant
 - https://hipopotamo-pigmeo.github.io/final/
 - https://orangutan-borneo-uc.github.io/final/
 
-**En los 12 trabajos vinculados, los estudiantes usaron HTML, SVG, CSS y JavaScript, apoyándose en Bootstrap.**
+**En los 12 trabajos vinculados, los estudiantes usaron HTML, SVG y CSS, apoyándose en Bootstrap.**
 
 Así como [Foundations](https://get.foundation/) y [Semantic UI](https://semantic-ui.com/), **[Bootstrap](https://getbootstrap.com/) es un marco de trabajo  que simplifica la creación de páginas responsivas**; escogemos Bootstrap por su popularidad y constante desarrollo.
 
@@ -131,7 +128,7 @@ Lo que queda pendiente es revisar más a fondo al tercero en el trío HTML, CSS 
 
 Si revisan la página donde se despliega cada *icon* de manera independiente, encontrarán un botón que les permite descargarlo como SVG. 
 
-Es necesario que descarguen 5 pictogramas que les permitan informar de algo en 5 partes o pasos, [basándose en el documento HTML compartido en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2022-1/clase-04/).
+Es necesario que descarguen 5 pictogramas que les permitan informar de algo en 5 partes o pasos, [basándose en el documento HTML compartido en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2022-1/clase-07/).
 
 Completen la información con título y texto introductorio, además de los textos que acompañarán a cada SVG. E intenten resolver dos desafíos:
 
