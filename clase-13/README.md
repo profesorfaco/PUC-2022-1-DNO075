@@ -27,10 +27,8 @@ De esta manera:
 Corresponde tener copia digital de cada boceto. El peso de cada copia debe cuidarse; **la suma de los pesos de todos los bocetos debe ser menor a 3000 Kb**. Para ajustar el peso de cada copia, aprovechen:
 
 - https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
-
-- https://tinypng.com/
-
 - https://squoosh.app/
+- https://tinypng.com/
 
 **Los 9, 11 o 13 bocetos (depende del número de integrantes del grupo) debe incluirse en [la plantilla preparada para la clase](https://profesorfaco.github.io/dno075-2022-1/clase-13/)**.
 
@@ -46,7 +44,17 @@ Pero no sufran por su habilidad en el dibujo; si muestra algo comprensible, es s
 
 También se recomienda que las partes textuales de mayor jerarquía puedan leerse en cada boceto, mientras aquellas menores quedan como líneas paralelas que representan párrafos, tal como en [Infographics: The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch).
 
-
 - - - - - - - - - - -
+
+En la clase de hoy, el trabajo grupal será evaluado con 4 puntos: 
+
+| CRITERIO | PTS.  |
+|:---------|:-----:|
+| Integración de sus [antecedentes](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12) | 1 pto. |
+| Calidad de los bocetos en su primera iteración | 1 pto. |
+| Calidad de los bocetos en su segunda iteración | 1 pto. |
+| Acuerdo grupal para el diseño del boceto final | 1 pto. |
+
+- - - - - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-14)
