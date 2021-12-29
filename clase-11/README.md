@@ -48,7 +48,7 @@ Para lo que se escriba en el README.md, consideren:
 
 Avanzar en la investigación del tema de curso y sub-tema grupal; tal avance será clave para las evaluaciones que siguen.
 
-Se recomienda que guarden registro de su avance en el README.md de un repositorio de organización.
+Se recomienda que guarden registro de su avance en el `README.md de un repositorio de organización.
 
 - - - - - - - - 
 
