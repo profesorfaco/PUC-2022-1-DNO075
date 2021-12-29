@@ -128,7 +128,7 @@ Completen la información con título y texto introductorio, además de los text
 
 - - - - - - - 
 
-#### Tarea
+#### TAREA
 
 Revisar la página web JavaScript Para Gatos :cat:  
 
