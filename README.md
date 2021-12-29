@@ -84,7 +84,7 @@ Considerando los días lunes entre 7 de marzo y 4 de julio, conviene apuntar que
 
 La calificación final de asignatura se basa en:
 
-- **Ejercicios a desarrollarse (desde clases 1 hasta clase 9)** → Puntaje acumulativo. Equivalente al 25% de la calificación final. 
+- **Ejercicios a desarrollarse en clases ([1](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-01), [2](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-02), [3](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-03), [4](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-04), [5](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-05), [6](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-06), [7](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-07), [9](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-09))** → Puntaje acumulativo. Equivalente al 25% de la calificación final. 
 
 - **Trabajo de aplicación ([clase 10](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10))** → A evaluarse con pauta de cotejo. Equivale al 25% de la calificación final.
 
