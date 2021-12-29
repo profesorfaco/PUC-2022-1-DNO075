@@ -32,7 +32,7 @@ La página creada, debe quedar [en línea con GitHub Pages](https://docs.github.
 
 - - - - - - - 
 
-#### Tarea
+#### TAREA
 
 Revisar en YouTube una ponencia de [Isabel Meirelles](http://isabelmeirelles.com/), investigadora cuyo libro *Design for Information* es parte de nuestra bibliografía mínima.
 
