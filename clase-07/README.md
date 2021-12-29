@@ -31,7 +31,7 @@ Los dos lenguajes (HTML y CSS) y el dialecto (SVG) se pueden combinar para obten
 </html>
 ```
 
-Pero se pueden hacer cosas mucho más complejas, tales como los siguientes trabajos realizados en versión pasada de este OPR:
+Pero se pueden hacer cosas mucho más complejas, tales como los siguientes trabajos realizados en versiones pasadas de este OPR:
 
 VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 
