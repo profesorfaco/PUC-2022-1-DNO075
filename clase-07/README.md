@@ -33,26 +33,47 @@ Los dos lenguajes (HTML y CSS) y el dialecto (SVG) se pueden combinar para obten
 
 - - - - - - - - - - - -
 
-**Existen marcos de trabajo de código abierto que nos pueden ayudar a avanzar más rápido en la construcción de una infografía digital desde relaciones predefinidas de HTML y CSS**. Por su popularidad, corresponde mencionar a:
 
-- [Bootstrap](https://getbootstrap.com/): *The world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.*
+A continuación, pueden encontrar vínculo a 3 trabajos de cada versión pasada de este OPR:
 
-- [Foundations](https://get.foundation/): *The most advanced responsive front-end framework in the world* 
+VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 
-- [Semantic UI](https://semantic-ui.com/): *A development framework that helps create beautiful, responsive layouts using human-friendly HTML*
+- https://infodigitalgrupo.github.io/infografia-final/
+- https://fallasanramon-infografiadigital.github.io/entrega_final/
+- https://infografia-digital.github.io/rinihuazo-final/
 
-Hemos trabajado todas clases con [Bootstrap](https://getbootstrap.com/) y esta no será la excepción.
+FAUNA ENDÉMICA DE CHILE:
 
-La clave para sacarle un poco más de provecho a [Bootstrap](https://getbootstrap.com/) es relacionarnos con su lógica de clases que se basa en la idea de 12 columnas (`col`) en las que se puede dividir una fila (`row`) que se va ajustando dentro de un contenedor (`container`), una lógica con la que podemos hacer páginas web responsivas.
+- https://arana-pollito.github.io/Implementacion/
+- https://aves-de-juan-fernandez.github.io/Picaflor-Entrega-Final/
+- https://zorrodechiloe-infodigital.github.io/Zorro_de_Chiloe/
 
-Digamos que en un contenedor (`container`) quiero dividir la fila (`row`) en dos partes del mismo ancho, para que una se muestre al lado de la otra. Para lograrlo debo tomar 6 y 6 columnas (`col`). Dentro del cuerpo del documento HTML, esto se vería así:
+CONFLICTOS SOCIOAMBIENTALES:
+
+- https://personas-de-sacrificio.github.io/examen/
+- https://paltorcas.github.io/examen/
+- https://litidos.github.io/Examen/
+
+A los trabajos recién vinculados, podemos agregar algunos trabajos de estudiantes del diplomado de infografía en Diseño UC, versión 2021-2022.
+
+- https://siamang-infografia.github.io/final/
+- https://hipopotamo-pigmeo.github.io/final/
+- https://orangutan-borneo-uc.github.io/final/
+
+**En los 12 trabajos vinculados, los estudiantes usaron HTML, SVG, CSS y JavaScript, apoyándose en Bootstrap.**
+
+Así como [Foundations](https://get.foundation/) y [Semantic UI](https://semantic-ui.com/), **[Bootstrap](https://getbootstrap.com/) es un marco de trabajo  que simplifica la creación de páginas responsivas**; escogemos Bootstrap por su popularidad y constante desarrollo.
+
+Para sacarle un mejor provecho a [Bootstrap](https://getbootstrap.com/), lo primero es relacionarse con la lógica de las 12 columnas (`col`) en las que se puede dividir una fila (`row`) que se va ajustando dentro de un contenedor (`container`), porque esta es la lógica con la que [Bootstrap](https://getbootstrap.com/) se adapta a distintos tamaños de pantalla.
+
+Digamos que en este contenedor (`container`) quiero dividir la fila (`row`) en dos partes del mismo ancho, para que una se muestre al lado de la otra. Para lograrlo debo tomar 6 y 6 columnas (`col`). Dentro del cuerpo del documento HTML, esto se vería así:
 
 ```
 <div class="container">
- <div class="row">
-  <div class="col-6">Primera división</div>
-  <div class="col-6">Segunda división</div>
- </div>
+    <div class="row">
+        <div class="col-6">Primera división</div>
+        <div class="col-6">Segunda división</div>
+    </div>
 </div>
 ```
 
@@ -60,58 +81,51 @@ Ahora, quiero hacer la misma división pero sólo desde una pantalla mediana ([m
 
 ```
 <div class="container">
- <div class="row">
-  <div class="col-md-6">Primera división</div>
-  <div class="col-md-6">Segunda división</div>
- </div>
+    <div class="row">
+        <div class="col-md-6">Primera división</div>
+        <div class="col-md-6">Segunda división</div>
+    </div>
 </div>
 ```
 
-La indicación es que desde mediano (a mayor tamaño), tome 6 y 6 columnas. Por defecto, en un tamaño menor se tomarán las 12.
+Cambiemos de ejemplo, considerando que Robert Bringhurst (2008) escribe:
+
+> La cantidad que se considera satisfactoria como longitud de línea para una página de una sola columna compuesta en una fuente con remates va entre 45 u 75 caracteres. La línea de 66 caracteres (contando tanto las letras como los espacios en blanco) se considera ideal. Para un trabajo de varias columnas, 40 a 50 caracteres es un buen promedio.
+
+Podríamos necesitar una imagen a todo lo ancho de la fila dentro del contenedor, y bajo ella un párrafo centrado que utilice menos columnas en la medida que éstas se ensanchan junto a la pantalla, así mantener una anchura de párrafo cómoda a la lectura. El código del documento completo debería verse así:
+
+```
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
+        <title>Hola mundo</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <img src="https://picsum.photos/1600/900?grayscale" class="w-100 my-4" alt="esta es una imagen random" />
+                </div>
+                <div class="col-11 col-sm-10 col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto">
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla in molestie felis, eget egestas lacus. Etiam orci magna, dignissim at dolor eu, finibus molestie mi. Suspendisse fringilla sem magna, eget pharetra orci
+                        faucibus sit amet.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+```
+
+En cada ejercicio desarrollado hasta esta clase, nos hemos aprovechado de esta misma lógica, sin prestarle tanta atención.
 
 - - - - - - - 
 
-Cuando utilizamos [Bootstrap](https://getbootstrap.com/) nos aprovechamos de [una hoja de estilos CSS](https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.css) que pesa originalmente más de 200 KB (aunque lo común es usar la versión *minified*, que pesa cerca de 160 KB)
-
-Se trata de una hoja de estilo relativamente pesada, que contiene muchísimas definiciones que podríamos llegar a ocupar. Pero, a veces, terminamos utilizando muy pocas. Por ello, si al publicar una infografía digital necesitamos hacer más rápida su carga, podríamo reducir el peso de la hoja de estilos CSS de Boostrap con alguna de las alternativas propuestas en este artículo: https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/
-
-La hoja de estilo de [Bootstrap](https://getbootstrap.com/) también puede complementarse con reglas entre etiquetas `<style></style>`, o en una segunda hoja de estilos independiente, vinculada mediante `<link rel="stylesheet" href="…" />`. 
-
-La primera opción, de incluir nuestras reglas entre `<style></style>` la hemos usado en las clases anteriores, con lo que la cabeza del `index.html` se ve más o menos así:
-
-```
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- Primero vinculamos Bootstrap CSS -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-<!-- Luego incrustamos el CSS complementario -->
-<style>
-header p { text-align: justify; }
-header p.lead { line-height: 1.6; }
-.card, .card-img-top { border: none; border-radius: 0 0; }
-</style>
-<title>Escribo acá el título que se muestra en la pestaña del navegador</title>
-</head>
-```
-
-Pero usando la segunda opción, de una hoja de estilo independiente a la que podríamos llamar `style.css`, la cabeza del `index.html` se vería así:
-
-```
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- Primero vinculamos Bootstrap CSS -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-<!-- Luego vinculamos el CSS complementario -->
-<link href="style.css" rel="stylesheet">
-<title>Escribo acá el título que se muestra en la pestaña del navegador</title>
-</head>
-```
-
-- - - - - - - 
-
-#### Ejercicio
+#### EJERCICIO
 
 Lo que queda pendiente es revisar más a fondo al tercero en el trío HTML, CSS y SVG. Para hacerlo, nos aprovecharemos de https://www.guemil.info/icons/
 
