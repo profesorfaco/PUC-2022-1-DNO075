@@ -46,7 +46,7 @@ Para lo que se escriba en el README.md, consideren:
 
 #### TAREA
 
-Avanzar en la investigación; tal avance será clave para las evaluaciones que siguen.
+Avanzar en la investigación del tema de curso y sub-tema grupal; tal avance será clave para las evaluaciones que siguen.
 
 - - - - - - - - 
 
