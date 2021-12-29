@@ -30,7 +30,7 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html), [G
 
 - - - - - - - 
 
-#### Tarea
+#### TAREA
 
 Revisar las siguientes páginas web: 
 
