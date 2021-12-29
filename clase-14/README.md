@@ -36,11 +36,11 @@ No olvidar:
 
 - - - - - - - - - - - 
 
-En el avance de la clase de hoy será evaluado con 4 puntos: 
+En la clase de hoy, el trabajo grupal será evaluado con 4 puntos: 
 
 | CRITERIO | PTS.  |
 |:---------|:-----:|
-| Integración del aporte de sus [antecedentes](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12) | 1 pto. |
+| Integración de sus [antecedentes](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12) | 1 pto. |
 | Redacción linear de su infografía digital | 1 pto. |
 | Títulos y textos originales ya incluidos en HTML | 1 pto. |
 | Uso de recortes del boceto con resolución y peso optimizados | 1 pto. |
