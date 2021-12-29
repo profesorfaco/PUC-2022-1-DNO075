@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;600&display=swap');
+
+
+:root {
+    --bs-font-sans-serif: 'Space Grotesk', sans-serif;
+}
+
+:hover {
+    transition: all ease 0.5s;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 600;
+}
+
+.card,
+.card-img-top {
+    border: none;
+    border-radius: 0 0;
+}
+.carousel-item h4,
+.carousel-item p {
+    letter-spacing: 0.05rem;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
