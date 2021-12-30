@@ -6,7 +6,7 @@
 
 Un documento SVG puede contener, entre etiquetas `<style></style>`, a tal lenguaje.
 
-Cuando usamos Illustrator para guardar un SVG, el programa genera, automáticamente, tantas reglas como sean necesarias para describir el aspecto de los distintos elementos gráficos que contiene el SVG. Estas reglas tienen selectores de clase st + número, como en: `.st0{…}`, `.st1{…}`, `.st2{…}`, etc.
+Cuando usamos Illustrator para guardar un SVG, el programa genera, automáticamente, tantas reglas como sean necesarias para describir el aspecto de los distintos elementos gráficos que contiene el SVG. Estas reglas tienen selectores de clase `st+n`, como en: `.st0{…}`, `.st1{…}`, `.st2{…}`, etc.
 
 Así, por ejemplo, podemos obtener el siguiente código:
 
