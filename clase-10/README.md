@@ -14,7 +14,7 @@ En cada copia se debe rescatar la mayor cantidad de elementos posibles desde el 
 
 Volver a revisar los vínculos compartidos en la [clase 9](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-09), que les permiten revisar trabajos de versiones anteriores de este OPR, y trabajos de estudiantes del Diplomado en Infografía de Diseño UC, versión 2021-2022.
 
-Note que las temáticas definidas en tales trabajos fueron las siguientes:
+Noten que las temáticas definidas en tales trabajos fueron las siguientes:
 
 1. VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE
 2. FAUNA ENDÉMICA DE CHILE
