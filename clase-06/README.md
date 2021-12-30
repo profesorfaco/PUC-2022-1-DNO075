@@ -104,7 +104,11 @@ Copia y pega el código en un nuevo documento dentro de tu editor. Guárdalo com
 
 #### EJERCICIO
 
-Hay un documento [compartido en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-06/) de repositorio, es un `index.html` que contiene parte del código que recién pudiste editar. Adapta tales cambios que hiciste en `censo.html` a la estructura de `index.html`, y aprovecha de revisar fuentes de datos más recientes, para hacer cambios en cifras de habitantes.
+**Hay un documento [compartido en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-06/) de repositorio, es un `index.html` que contiene parte del código que recién pudiste editar**. 
+
+Primero adapta los cambios que hiciste en `censo.html` a la estructura de `index.html`, y luego crea un segundo gráfico, usando la misma estructura y otro dato de [la sínstesis de resultados del Censo 2017](https://www.censo2017.cl/descargas/home/sintesis-de-resultados-censo2017.pdf).
+
+¡Ten cuidado con la duplicación de identidades!
 
 - - - - - - - 
  
