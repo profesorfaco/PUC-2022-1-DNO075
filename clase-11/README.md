@@ -32,11 +32,23 @@ Para lo que se escriba en cada README.md, consideren:
 
 - - - - - - - -
 
+#### EJERCICIO
+
+Crear cuenta de organización en GitHub, con un nombre breve y que refiera a la subtemática del grupo. 
+
+Crear un repositorio en tal organización, y en el `README.md` de reposiotior creado: 
+
+- Presentar al grupo como un equipo de trabajo, donde cada integrante responsabilidades acorde a sus habilidades.
+- Describir, con sus palabras, el subtema del grupo. 
+- Describir, con sus palabras, el tema del curso.
+
+- - - - - - - -
+
 #### TAREA
 
 Avanzar en la investigación del tema de curso y sub-tema grupal; tal avance será clave para las evaluaciones que siguen.
 
-Se recomienda que guarden registro de su avance en el `README.md de un repositorio de organización.
+Se recomienda que guarden registro de su avance en el `README.md` de un repositorio de organización.
 
 - - - - - - - - 
 
