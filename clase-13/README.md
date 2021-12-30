@@ -59,4 +59,16 @@ También se recomienda que las partes textuales de mayor jerarquía puedan leers
 
 - - - - - - - - - - - -
 
+#### TAREA
+
+Revisar los artículos en:
+
+- https://bluekea.com/blog/fotografia/cual-es-la-resolucion-correcta-para-fotografia-en-web 
+
+- https://nbadiola.com/peso-ideal-fotografia-para-web/
+
+- https://www.adslzone.net/como-se-hace/photoshop/guardar-imagen-para-web/
+
+- - - - - - - - - - - -
+
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-14)
