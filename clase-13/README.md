@@ -30,10 +30,6 @@ Corresponde tener copia digital de cada boceto. El peso de cada copia debe cuida
 - https://squoosh.app/
 - https://tinypng.com/
 
-**Los 9, 11 o 13 bocetos (depende del número de integrantes del grupo) debe incluirse en [la plantilla preparada para la clase](https://profesorfaco.github.io/dno075-2022-1/clase-13/)**.
-
-- - - - - - - -
-
 Ideal es que el último boceto, el grupal, se confunda con uno producido para una infografía que ha de ser publicada por el South China Morning Post o en Reuters Graphics, y bajo ninguna circunstancia se confunda con el *wireframe* de una *landing page*:
 
 🙂  👍  https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch
@@ -47,6 +43,8 @@ También se recomienda que las partes textuales de mayor jerarquía puedan leers
 - - - - - - - - - - -
 
 #### EJERCICIO
+
+**Los 9, 11 o 13 bocetos (depende del número de integrantes del grupo) debe incluirse en [la plantilla preparada para la clase](https://profesorfaco.github.io/dno075-2022-1/clase-13/)**.
 
 **En la clase de hoy, el trabajo grupal será evaluado con un máximo de 4 puntos** 
 
