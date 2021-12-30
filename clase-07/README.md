@@ -129,7 +129,7 @@ Lo que queda pendiente es revisar más a fondo al tercero en el trío HTML, CSS 
 
 Si revisan la página donde se despliega cada *icon* de manera independiente, encontrarán un botón que les permite descargarlo como SVG. 
 
-Es necesario que descarguen 5 pictogramas que les permitan informar de algo en 5 partes o pasos, [basándose en el documento HTML compartido en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2022-1/clase-07/).
+**Es necesario que descarguen 5 pictogramas que les permitan informar de algo en 5 partes o pasos, [basándose en el documento HTML compartido en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2022-1/clase-07/)**.
 
 Completen la información con título y texto introductorio, además de los textos que acompañarán a cada SVG. E intenten resolver dos desafíos:
 
