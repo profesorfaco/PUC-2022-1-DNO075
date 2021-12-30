@@ -2,9 +2,9 @@
 
 ### Clase 04 → 28/03/2022
 
-En esta clase se abre la segunda etapa del Optativo, donde dependeremos más de lo que se presente aquí, en el README.md. Con esto, el énfasis de las clases se hace más práctico. 
+En esta clase se abre la segunda etapa del Optativo, donde dependeremos más de lo que se presente aquí, en el README.md. El énfasis de las clases será más práctico.
 
-Desde esta perspectiva práctica partiremos explorando **SVG (Scalable Vector Graphics)**.
+A través de la práctica partiremos explorando **SVG (Scalable Vector Graphics)**.
 
 **SVG es un dialecto, muy parecido al lenguaje HTML**. Tiene elementos descritos por `<etiqueta atributo="…"></etiqueta>`. Estos elementos son descripciones geométricas, basadas en posiciones en un plano cuya coordenadas 0,0 se encuentran en su esquina superior izquierda.
 
