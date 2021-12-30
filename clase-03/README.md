@@ -32,12 +32,10 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html), [G
 
 #### TAREA
 
-Revisar las siguientes páginas web: 
+Revisar dos sitios web: 
 
 - https://datavizcatalogue.com/
 - https://www.visual-literacy.org/periodic_table/periodic_table.html
-- https://www.data-to-viz.com/
-- https://datavizproject.com/
 
 - - - - - - - 
 
