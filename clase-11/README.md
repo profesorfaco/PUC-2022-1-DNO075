@@ -36,7 +36,7 @@ Para lo que se escriba en cada README.md, consideren:
 
 Crear cuenta de organización en GitHub, con un nombre breve y que refiera a la subtemática del grupo. 
 
-Crear un repositorio en tal organización, y en el `README.md` de reposiotior creado: 
+Crear un repositorio en tal organización, y en el `README.md` de repositorio creado: 
 
 - Presentar al grupo como un equipo de trabajo, donde cada integrante responsabilidades acorde a sus habilidades.
 - Describir, con sus palabras, el subtema del grupo. 
@@ -48,7 +48,7 @@ Crear un repositorio en tal organización, y en el `README.md` de reposiotior cr
 
 Avanzar en la investigación del tema de curso y sub-tema grupal; tal avance será clave para las evaluaciones que siguen.
 
-Se recomienda que guarden registro de su avance en el `README.md` de un repositorio de organización.
+Se recomienda que guarden registro de su avance en el `README.md` del repositorio ya creado.
 
 - - - - - - - - 
 
