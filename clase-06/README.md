@@ -22,7 +22,7 @@ retinal.forEach(element => console.log(element));
 
 En las tres línea del pequeño programa (o *script*) tenemos: 
 
-1. Una declaración de variable de nombre `retina`, que contiene un arreglo con 6 cadenas de caracteres.
+1. Una declaración de variable de nombre `retina`, que se inicia conteniendo un arreglo con 6 cadenas de caracteres.
 
 2. Una reorganización alfabética del arreglo contenido por la variable de nombre `retina`, mediante el [método `sort()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 
