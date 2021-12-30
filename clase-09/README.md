@@ -2,7 +2,12 @@
 
 ### Clase 09 → 09/05/2022
 
-Esta clase de propone como resumen y preparación para la evaluación de la clase 10.
+
+
+#### EJERCICIO
+
+**Revisemos [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-09/) de repositorio**.
+
 
 - - - - - - - - - - - - -
 
