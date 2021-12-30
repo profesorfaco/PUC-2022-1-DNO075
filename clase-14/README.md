@@ -30,6 +30,8 @@ No olvidar que en las imágenes recortadas del boceto grupal corresponde cuidar 
 
 #### EJERCICIO
 
+Con base en el boceto grupal final de [la clase recién pasada](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) se genera una plantilla de base diferenciada para cada grupo.
+
 **En la clase de hoy, el trabajo grupal será evaluado con un máximo de 4 puntos** 
 
 | CRITERIO | PTS.  |
