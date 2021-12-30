@@ -54,6 +54,7 @@ Los tres gráficos deben referir a un único asunto, el que tendrán que despleg
 
 #### TAREA
 
+Revisar este artículo (en inglés): https://css-tricks.com/using-svg/
 
 
 - - - - - - - 
