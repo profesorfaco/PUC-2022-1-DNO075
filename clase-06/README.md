@@ -69,7 +69,7 @@ Podemos trabajar con datos distintos de cadenas de caractres dentro de un arregl
     </head>
     <body>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
-            <g id="aqui"></g>
+            <g id="grafico"></g>
         </svg>
         <script>
             var censo = [
@@ -91,7 +91,7 @@ Podemos trabajar con datos distintos de cadenas de caractres dentro de un arregl
                 { region: "Magallanes", poblacion: 166533 },
             ];
             censo.forEach(function (dato, i) {
-                document.querySelector("#aqui").innerHTML += '<g transform="translate(10, '+ 17 * (i + 1) +')"><rect x="0" y="0" width="'+ (dato.poblacion/25000) +'" height="10"></rect><text x="'+((dato.poblacion/25000)+5)+'" y="7" font-size="9">'+dato.region+'</text></g>';
+                document.querySelector("#grafico").innerHTML += '<g transform="translate(10, '+ 17 * (i + 1) +')"><rect x="0" y="0" width="'+ (dato.poblacion/25000) +'" height="10"></rect><text x="'+((dato.poblacion/25000)+5)+'" y="7" font-size="9">'+dato.region+'</text></g>';
             });
         </script>
     </body>
