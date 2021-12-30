@@ -22,7 +22,7 @@ Considerando que:
 
 - **los gráficos no figurativos** presentan fenómenos abstractos, y al presentarlos por primera vez no pueden operar con la semejanza sino la convención.
 
-Busque 4 ejemplos de uso de los primeros y 4 de uso de los segundos entre infografías digitales publicadas en [Reuteurs Graphics](https://graphics.reuters.com/), [SCMP Infographics](https://www.scmp.com/infographic/) e [Infografías El Mercurio](http://infografias.elmercurio.com/).
+Busque 4 ejemplos de uso de los primeros y 4 de uso de los segundos entre infografías publicadas en [Reuteurs Graphics](https://graphics.reuters.com/), South China Morning Post ([SCMP Infographics](https://www.scmp.com/infographic/), [SCMP Print arcade](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/)) o [Infografías El Mercurio](http://infografias.elmercurio.com/).
 
 Con los 8 ejemplos, arme una página web aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-03/) de repositorio.
 
