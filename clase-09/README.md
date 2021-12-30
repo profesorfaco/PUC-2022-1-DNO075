@@ -2,7 +2,7 @@
 
 ### Clase 09 → 09/05/2022
 
-
+Esta clase de propone como resumen de lo visto y preparación para la evaluación de la clase 10.
 
 - - - - - - - - - - - - -
 
