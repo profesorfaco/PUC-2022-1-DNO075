@@ -10,14 +10,6 @@ Ambos bocetos deben incluirse en el README.md de un nuevo repositorio, en donde 
 
 - 50% con imágenes que se recorten del boceto grupal. 
 
-En las imágenes recortadas del boceto grupal corresponde cuidar el peso, usando: 
-
-- https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
-
-- https://tinypng.com/
-
-- https://squoosh.app/
-
 No olvidar:
 
 - https://bluekea.com/blog/fotografia/cual-es-la-resolucion-correcta-para-fotografia-en-web 
