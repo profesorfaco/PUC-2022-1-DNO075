@@ -10,7 +10,7 @@ Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de e
 
 - un *framework* es una cocina dispuesta para que prepares un tipo de comida específica, con eficacia y eficiencia (una cocina de restaurant que ofrece sushi es distinta de una de restaurant de pasas o parrilladas).
 
-Pero si no sabes hervir agua ni diferenciar sal de azúcar, difícilmente podrás sacar provecho de cualquier ayuda para cocinar.
+Pero si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente podemos sacar provecho de cualquier ayuda para cocinar.
 
 Por eso vamos a partir con un pequeño programa (o *script*), el que debes copiar y pegar en la consola de JavaScript de tu navegador:
 
