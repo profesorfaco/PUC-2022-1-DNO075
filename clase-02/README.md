@@ -16,7 +16,7 @@ La presentación de la clase de hoy la pueden encontrar en carpeta Drive ya comp
 
 #### EJERCICIO
 
-**Para conocer más infografistas**, cada estudiante debe replicar la actividad de la clase recién pasada, pero con un infografista contemporáneo. Esto se hace [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-02/). 
+**Para conocer más infografistas**, cada estudiante debe replicar la actividad de la clase recién pasada, pero con un infografista contemporáneo. Esto se hace [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2022-1/clase-02/). 
 
 La página creada, debe quedar [en línea con GitHub Pages](https://docs.github.com/es/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
