@@ -2,9 +2,11 @@
 
 ### Clase 03 → 21/03/2022
 
-**En esta clase, el material de consulta principal es:**
+**En esta clase, el material de consulta principal es**:
 
 - Cairo, A. (2011) El Arte funcional. Madrid: Alamut.
+
+**Y el material complementario**:
  
 - Boehm, G. (2020). ¿Más allá del lenguaje? Apuntes sobre la lógica de las imágenes. En: Ana García Varas (Ed.) Filosofía de la imagen (pp.87-106). Ediciones Universidad Salamanca.
 
