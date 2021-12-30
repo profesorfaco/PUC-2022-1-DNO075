@@ -98,8 +98,13 @@ Podemos trabajar con datos distintos de cadenas de caractres dentro de un arregl
 </html>
 ```
 
-Copia y pega el código en un nuevo documento dentro de tu editor. Guárdalo como censo.html y aprovecha lo aprendido sobre CSS para editarlo.
+Copia y pega el código en un nuevo documento dentro de tu editor. Guárdalo como censo.html y aprovecha lo aprendido sobre CSS para editarlo. Una vez lo tengas editado, pasa al ejercicio. 
 
+- - - - - - - 
+
+#### EJERCICIO
+
+Hay un documento [compartido en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-06/) de repositorio, es un `index.html` que contiene parte del código que recién pudiste editar. Adapta tales cambios que hiciste en `censo.html` a la estructura de `index.html`, y aprovecha de revisar fuentes de datos más recientes, para hacer cambios en cifras de habitantes.
 
 - - - - - - - 
  
