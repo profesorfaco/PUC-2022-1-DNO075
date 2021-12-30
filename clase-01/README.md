@@ -26,7 +26,7 @@ La presentación de la clase de hoy la pueden encontrar en carpeta Drive ya comp
 
 En un editor de gráficos rasterizados ([Adobe Photoshop](https://www.adobe.com/la/products/photoshop.html), [GIMP](https://www.gimp.org/), [Photoshopea](https://www.photopea.com/)) o con la [App Squoosh](https://squoosh.app/) corresponde igualar la relación de lados de todas las imágenes descargadas (cuadradas, rectangulares más anchas o rectangulares más altas) y guardarlas con un peso ligero sin pérdida de calidad. Para asegurar el mejor peso, puede utilizar [TinyPNG](https://tinypng.com/)
 
-Con tales imágenes y un poco de texto introductorio, podrá crear una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2022-1/clase-01/). 
+**Con tales imágenes y un poco de texto introductorio, podrá crear una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2022-1/clase-01/)**. 
 
 La página creada, debe quedar [en línea con GitHub Pages](https://docs.github.com/es/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
