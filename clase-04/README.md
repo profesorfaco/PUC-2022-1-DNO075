@@ -50,6 +50,8 @@ Para aplicar lo aprendido, implementaremos tres gráficos:
 
 Los tres gráficos deben referir a un único asunto, el que tendrán que desplegar aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-04/) de repositorio.
 
+El gráfico no figurativo debe ser incluido en la página como si se tratara de un objeto. El gráfico figurativo debe ser incluido en la página como si se tratara de una imagen. Y el código del SVG del gráfico mixto debe incrustar directamente en el documento HTML.
+
 - - - - - - - - 
 
 #### TAREA
