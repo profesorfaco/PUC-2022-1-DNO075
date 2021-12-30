@@ -16,7 +16,7 @@ La presentación de la clase de hoy la pueden encontrar en carpeta Drive ya comp
 
 - - - - - - - - - - - - - 
 
-#### Ejercicio
+#### EJERCICIO
 
 Considerando que:
 
@@ -24,9 +24,11 @@ Considerando que:
 
 - **los gráficos no figurativos** presentan fenómenos abstractos, y al presentarlos por primera vez no pueden operar con la semejanza sino la convención.
 
-Busque 4 ejemplos de uso de los primeros y 4 de uso de los segundos en infografía digital, y complete una página web aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-03/) de repositorio.
+Busque 4 ejemplos de uso de los primeros y 4 de uso de los segundos entre infografías digitales publicadas en [Reuteurs Graphics](https://graphics.reuters.com/), [SCMP Infographics](https://www.scmp.com/infographic/) e [Infografías El Mercurio](http://infografias.elmercurio.com/).
 
-Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html), [GIMP](https://www.gimp.org/), [Squoos](https://squoosh.app/) y/o [TinyPNG](https://tinypng.com/), para ajustar formato, peso y resolución de las imágenes seleccionadas.
+Con los 8 ejemplos, arme una página web aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-03/) de repositorio.
+
+Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html), [GIMP](https://www.gimp.org/), [Squoos](https://squoosh.app/) y/o [TinyPNG](https://tinypng.com/), para ajustar formato, peso y resolución de sus 8 ejemplos seleccionados.
 
 - - - - - - - 
 
