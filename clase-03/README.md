@@ -5,12 +5,8 @@
 **En esta clase, el material de consulta principal es:**
 
 - Cairo, A. (2011) El Arte funcional. Madrid: Alamut.
-
-**Y el material complementario:**
-
-- A Periodic Table of Visualization Methods. En línea: https://www.visual-literacy.org/periodic_table/periodic_table.html
-
-- Catálogo de Visualización de Datos. En línea: https://datavizcatalogue.com/ES/buscar.html
+ 
+- Boehm, G. (2020). ¿Más allá del lenguaje? Apuntes sobre la lógica de las imágenes. En: Ana García Varas (Ed.) Filosofía de la imagen (pp.87-106). Ediciones Universidad Salamanca.
 
 La presentación de la clase de hoy la pueden encontrar en carpeta Drive ya compartida.
 
