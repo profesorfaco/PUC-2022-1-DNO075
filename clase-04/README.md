@@ -32,7 +32,7 @@ Un SVG puede inscrustarse en el cuerpo del documento HTML entre etiquetas `<svg>
 
 #### EJERCICIO
 
-Pasemos a comprender lo dicho implementando tres gráficos:
+Pasemos a práctica implementando tres gráficos:
 
 1. Gráfico no figurativo, con [RAWGraphs](https://app.rawgraphs.io/).
 
