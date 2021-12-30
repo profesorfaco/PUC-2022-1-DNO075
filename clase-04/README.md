@@ -38,7 +38,7 @@ Un SVG puede inscrustarse en el cuerpo del documento HTML entre etiquetas `<svg>
 
 - - - - - - - - 
 
-#### Ejercicio
+#### EJERCICIO
 
 Para aplicar lo aprendido, implementaremos tres gráficos:
 
@@ -47,6 +47,12 @@ Para aplicar lo aprendido, implementaremos tres gráficos:
 2. Gráfico figurativo con [Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [Inkscape](https://inkscape.org/es/).
 
 3. Gráfico mixto que utilice en un capa un gráfico figurativo rasterizado y en otra un gráfico no figurativo vectorizado.
+
+- - - - - - - - 
+
+#### TAREA
+
+
 
 - - - - - - - 
 
