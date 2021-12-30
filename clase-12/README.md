@@ -18,6 +18,8 @@ Allí encontrarán varias páginas enlazadas, donde corresponde:
 
 - - - - - - - - - - -
 
+#### EJERCICIO
+
 **En la clase de hoy, el trabajo grupal será evaluado con un máximo de 4 puntos** 
 
 | CRITERIO | PTS.  |
