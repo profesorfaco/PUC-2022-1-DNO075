@@ -10,13 +10,13 @@ Ambos bocetos deben incluirse en el README.md de un nuevo repositorio, en donde 
 
 - 50% con imágenes que se recorten del boceto grupal. 
 
-No olvidar:
+No olvidar que en las imágenes recortadas del boceto grupal corresponde cuidar el peso, usando: 
 
-- https://bluekea.com/blog/fotografia/cual-es-la-resolucion-correcta-para-fotografia-en-web 
+- https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
 
-- https://nbadiola.com/peso-ideal-fotografia-para-web/
+- https://tinypng.com/
 
-- https://www.adslzone.net/como-se-hace/photoshop/guardar-imagen-para-web/
+- https://squoosh.app/
 
 **Es que si ustedes incluye en su infografía recursos de peso excesivo: Están abusando de la transferencia de datos en la conexión a Internet de cada visitante**. Esta transferencia puede demorar, y en la demora el recurso no se carga. Luego, quien visita su infografía se decepciona porque no ve nada y en cosa de segundos puede dirigirse a otro lugar:
 
