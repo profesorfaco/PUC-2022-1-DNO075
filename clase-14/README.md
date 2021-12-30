@@ -41,6 +41,12 @@ No olvidar que en las imágenes recortadas del boceto grupal corresponde cuidar 
 
 La evaluación de esta clase se sumará sus evaluaciones de las dos clases anteriores, así obtendrán nota máxima de 7 ((12/2)+1).
 
+- - - - - - - - - - - 
+
+#### TAREA
+
+Terminar su infografía digital.
+
 - - - - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-17)
