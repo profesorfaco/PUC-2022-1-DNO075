@@ -48,6 +48,8 @@ Para aplicar lo aprendido, implementaremos tres gráficos:
 
 3. Gráfico mixto que utilice en un capa un gráfico figurativo rasterizado y en otra un gráfico no figurativo vectorizado.
 
+Los tres gráficos deben referir a un único asunto, el que tendrán que desplegar aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-04/) de repositorio.
+
 - - - - - - - - 
 
 #### TAREA
