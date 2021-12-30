@@ -46,6 +46,8 @@ También se recomienda que las partes textuales de mayor jerarquía puedan leers
 
 - - - - - - - - - - -
 
+#### EJERCICIO
+
 **En la clase de hoy, el trabajo grupal será evaluado con un máximo de 4 puntos** 
 
 | CRITERIO | PTS.  |
