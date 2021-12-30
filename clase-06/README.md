@@ -41,7 +41,9 @@ Hagamos algo como eso, sin alejarnos muchos del pequeño programa (o *script*) e
         <title>Un poquito de JavaScript</title>
     </head>
     <body>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200"><g id="aqui"></g></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+            <g id="aqui"></g>
+        </svg>
         <script>
             var retinal = ["size", "value", "texture", "color", "orientation", "shape"];
             retinal.sort();
@@ -53,7 +55,50 @@ Hagamos algo como eso, sin alejarnos muchos del pequeño programa (o *script*) e
 </html>
 ```
 
-Si revisan el `ejemplo.html` en su navegador, verán cada string dentro de un `<text></text>`. Todos ellos están, a su vez, dentro del grupo de identidad aqui `<g id="aqui"></g>`. Esto es algo que puedes ver dentro de la ventana del navegador, y también lo puedes ver al [**inspeccionar elementos**](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web), pero no lo encontrarás al "Ver el código fuente". Porque JavaScript no modifica lo escrito por el programador, sino la "comprensión de lectura" del navegador web.
+Si revisan el `ejemplo.html` en su navegador, verán cada cadena de caracteres del arreglo dentro de un `<text></text>` de SVG. Todos ellos están, a su vez, dentro del grupo de identidad aqui (`<g id="aqui"></g>`). Esto es algo que puedes ver dentro de la ventana del navegador y al [**inspeccionar elementos**](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web), pero no lo encontrarás al "Ver el código fuente". Porque JavaScript no modifica lo escrito por el programador, sino la "comprensión de lectura" del navegador web.
+
+Podemos trabajar con datos distintos de cadenas de caractres dentro de un arreglo. Puede ser, por ejemplo, objetos dentro de un arreglo, y dentro de cada objeto puedo tener, nuevamente, cadena de caracteres y, además, números enteros:
+
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Censo 2017</title>
+    </head>
+    <body>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+            <g id="aqui"></g>
+        </svg>
+        <script>
+            var censo = [
+                { region: "Arica y Parinacota", poblacion: 226068 },
+                { region: "Tarapacá", poblacion: 330558 },
+                { region: "Antofagasta", poblacion: 607534 },
+                { region: "Atacama", poblacion: 286168 },
+                { region: "Coquimbo", poblacion: 757586 },
+                { region: "Valparaíso", poblacion: 1815902 },
+                { region: "Metropolitana", poblacion: 7112808 },
+                { region: "O'Higgins", poblacion: 914555 },
+                { region: "Maule", poblacion: 1044950 },
+                { region: "Ñuble", poblacion: 480609 },
+                { region: "Biobío", poblacion: 1556805 },
+                { region: "La Araucanía", poblacion: 957224 },
+                { region: "Los Ríos", poblacion: 384837 },
+                { region: "Los Lagos", poblacion: 828708 },
+                { region: "Aysén", poblacion: 103158 },
+                { region: "Magallanes", poblacion: 166533 },
+            ];
+            censo.forEach(function (dato, i) {
+                document.querySelector("#aqui").innerHTML += '<g transform="translate(10, '+ 17 * (i + 1) +')"><rect x="0" y="0" width="'+ (dato.poblacion/25000) +'" height="10"></rect><text x="'+((dato.poblacion/25000)+5)+'" y="7" font-size="9">'+dato.region+'</text></g>';
+            });
+        </script>
+    </body>
+</html>
+```
+
+Copia y pega el código en un nuevo documento dentro de tu editor. Guárdalo como censo.html y aprovecha lo aprendido sobre CSS para editarlo.
 
 
 - - - - - - - 
