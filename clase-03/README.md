@@ -24,9 +24,9 @@ Considerando que:
 
 Busque 4 ejemplos de uso de los primeros y 4 de uso de los segundos entre infografías publicadas en [Reuteurs Graphics](https://graphics.reuters.com/), South China Morning Post ([SCMP Infographics](https://www.scmp.com/infographic/), [SCMP Print arcade](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/)) o [Infografías El Mercurio](http://infografias.elmercurio.com/).
 
-Con los 8 ejemplos, arme una página web aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-03/) de repositorio.
-
 Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html), [GIMP](https://www.gimp.org/), [Squoos](https://squoosh.app/) y/o [TinyPNG](https://tinypng.com/), para ajustar formato, peso y resolución de sus 8 ejemplos seleccionados.
+
+**Con los 8 ejemplos, arme una página web aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-03/) de repositorio**.
 
 - - - - - - - 
 
