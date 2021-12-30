@@ -29,6 +29,13 @@ Allí encontrarán varias páginas enlazadas, donde corresponde:
 | Paletas cromáticas | 1 pto. |
 | Apuntes de tipografías | 1 pto. |
 
+
+- - - - - - - 
+
+#### TAREA
+
+Volver a revisar en YouTube la ponencia del [Dr. Mario García](http://garciamedia.com/): [Transformando el periodismo para la era del móvil](https://youtu.be/iEB3oILm-qQ?t=1301)
+
 - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-11) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) 
