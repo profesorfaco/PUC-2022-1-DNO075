@@ -2,19 +2,11 @@
 
 ### Clase 04 → 28/03/2022
 
-En esta clase se abre la segunda etapa del Optativo, donde dependeremos más de lo que se presente aquí, en GitHub y no tanto lo que se presente en una clase lectiva. Con esto el énfasis de las clases se hace más práctico. 
+En esta clase se abre la segunda etapa del Optativo, donde dependeremos más de lo que se presente aquí, en el README.md. Con esto, el énfasis de las clases se hace más práctico. 
 
-El material de consulta principal:
+Desde esta perspectiva práctica partiremos explorando **SVG (Scalable Vector Graphics)**.
 
-- Cairo, A. (2011). El arte funcional. Infografía y visualización de información. Alamut.
-
-Y el material complementario:
-
-- Boehm, G. (2020). ¿Más allá del lenguaje? Apuntes sobre la lógica de las imágenes. En: Ana García Varas (Ed.) Filosofía de la imagen (pp.87-106). Ediciones Universidad Salamanca.
-
-A tal manterial corresponde agregar todo lo que sigue sobre **SVG (Scalable Vector Graphics)**. 
-
-**SVG es un dialecto, muy parecido al lenguaje HTML**. Tiene elementos descritos por `<etiqueta atributo="…"></etiqueta>`. Estos elementos son descripciones de gráficos vectoriales.
+**SVG es un dialecto, muy parecido al lenguaje HTML**. Tiene elementos descritos por `<etiqueta atributo="…"></etiqueta>`. Estos elementos son descripciones geométricas, basadas en posiciones en un plano cuya coordenadas 0,0 se encuentran en su esquina superior izquierda.
 
 Entre los gráficos vectoriales podemos encontrarnos con lineas rectas, líneas quebradas, círculos, elipses, rectángulos, polígonos simples y trazados complejos, formas que serán descritas con los atributos correspondientes a su geometría:
 
@@ -40,7 +32,7 @@ Un SVG puede inscrustarse en el cuerpo del documento HTML entre etiquetas `<svg>
 
 #### EJERCICIO
 
-Para aplicar lo aprendido, implementaremos tres gráficos:
+Pasemos a comprender lo dicho implementando tres gráficos:
 
 1. Gráfico no figurativo, con [RAWGraphs](https://app.rawgraphs.io/).
 
@@ -48,7 +40,7 @@ Para aplicar lo aprendido, implementaremos tres gráficos:
 
 3. Gráfico mixto que utilice en un capa un gráfico figurativo rasterizado y en otra un gráfico no figurativo vectorizado.
 
-Los tres gráficos deben referir a un único asunto, el que tendrán que desplegar aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-04/) de repositorio.
+Los tres gráficos que ustedes implementen deben referir a un único asunto, el que tendrán que desplegar aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-04/) de repositorio.
 
 El gráfico no figurativo debe ser incluido en la página como si se tratara de un objeto. El gráfico figurativo debe ser incluido en la página como si se tratara de una imagen. Y el código del SVG del gráfico mixto debe incrustar directamente en el documento HTML.
 
@@ -57,7 +49,6 @@ El gráfico no figurativo debe ser incluido en la página como si se tratara de 
 #### TAREA
 
 Revisar este artículo (en inglés): https://css-tricks.com/using-svg/
-
 
 - - - - - - - 
 
