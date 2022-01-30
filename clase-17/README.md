@@ -20,6 +20,7 @@ También se solicitará a cada integrante de grupo una autoevaluación y una eva
 - Integrante D desapareció, así que 0.
 
 200 + 150 + 50 + 0 = 400
+
 400 / 4 = 100 
 
 Las diferencias están exageradas para que se comprenda lo del 100%. Esperamos no encontrarnos con tales diferencias. Ideal sería 100% para cada integrante en el mismo grupo, o algunas diferencias pequeñas, tipo 110%, 100%, 100% y 90%.
