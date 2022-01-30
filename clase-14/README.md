@@ -39,7 +39,7 @@ Con base en el boceto grupal final de [la clase recién pasada](https://github.c
 | Integración de sus [antecedentes (clase 12)](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12) | 1 pto. |
 | Redacción linear de su infografía digital | 1 pto. |
 | Títulos y textos originales ya incluidos en HTML | 1 pto. |
-| Uso de recortes del boceto con resolución y peso optimizados | 1 pto. |
+| Uso de recortes del [boceto (clase 13)](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) con resolución y peso optimizados | 1 pto. |
 
 La evaluación de esta clase se sumará sus evaluaciones de las dos clases anteriores, así obtendrán nota máxima de 7 ((12/2)+1).
 
