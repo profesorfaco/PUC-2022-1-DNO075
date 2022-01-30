@@ -4,7 +4,7 @@
 
 #### [Infografía Digital](http://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=dno075) es un Optativo de Profundización (OPR) a cargo de los profesores [Jorge Cortés](https://cargocollective.com/jorgelcortes/) y [Felipe Cortez](http://faco.cl/).
 
-Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que se interesen en la representación gráfica digital, interactiva y dinámica como medio de transmisión del conocimiento, con especial atención a los recientes avances de la narración visual, impulsados desde el periodismo.
+Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que se interesen en la representación gráfica digital, interactiva y dinámica como medio de transmisión del conocimiento, con especial atención a los recientes avances de la narración visual impulsados desde el periodismo.
 
 Si la variante Omicrón lo permite, esta sería la primera versión presencial del optativo, después de tres versiones remotas.
 
