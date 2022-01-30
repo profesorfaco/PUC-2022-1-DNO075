@@ -12,9 +12,13 @@ Vamos a aprovechar la barra de progreso que ofrece Bootstrap.
 
 Y también vamos a usar la *library* de JavaScript que ofrece Bootstrap, y todo eso lo vamos a revisar en el ejercicio. 
 
+- - - - - - - - - - - - 
+
 #### EJERCICIO
 
 **Revisemos [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-09/) de repositorio**.
+
+- - - - - - - - - - - - 
 
 #### TAREA
 
