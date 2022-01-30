@@ -4,7 +4,7 @@
 
 En esta clase se cierra la segunda etapa del Optativo, con un ejercicio práctico e individual. 
 
-Cada estudiante debe copiar parte de una infografía digital publicada en el South China Morning Post. 
+Cada estudiante debe copiar parte de una infografía digital publicada en el [South China Morning Post](https://www.scmp.com/infographic/). 
 
 En cada copia se debe rescatar la mayor cantidad de elementos posibles desde el código fuente original, haciendo traducción al castellano de cada información.
 
