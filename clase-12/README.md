@@ -27,9 +27,9 @@ Varias veces hemos referido a trabajos publicados en [SCMP Infographics](https:/
 | CRITERIO | PTS.  |
 |:---------|:-----:|
 | Avance en `README.md` | 1 pto. |
-| Selección de antecedentes | 1 pto. |
-| Paletas cromáticas | 1 pto. |
-| Apuntes de tipografías | 1 pto. |
+| Selección de 4 antecedentes | 1 pto. |
+| 4 paletas cromáticas | 1 pto. |
+| 8 apuntes sobre tipografías en uso | 1 pto. |
 
 - - - - - - - 
 
