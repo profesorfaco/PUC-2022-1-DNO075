@@ -22,9 +22,9 @@ Para el desarrollo del curso, cada estudiante debería contar con:
 
 - Un editor de código fuente ([Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/))
 
-- Un editor de gráficos rasterizados ([Adobe Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/).
+- Un editor de gráficos rasterizados ([Adobe Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/))
 
-- Un editor de gráficos vectoriales ([Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [InkScape](https://inkscape.org/es/).
+- Un editor de gráficos vectoriales ([Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [InkScape](https://inkscape.org/es/))
 
 
 - - - - - - - - - -
