@@ -34,7 +34,7 @@ La página creada, debe quedar [en línea con GitHub Pages](https://docs.github.
 
 | NOMBRE   | CUENTA EN GITHUB                | GITHUB PAGE EJERCICIO NRO. 1          |
 |:---------|:--------------------------------|:--------------------------------------|
-| VICTORIA | https://github.com/VicBalbontin | https://vicbalbontin.github.io/1class |
+| VICTORIA | https://github.com/VicBalbontin | https://vicbalbontin.github.io/1class/ADOLF-DEHN/ |
 | MARIANE | Pendiente (trabaja con Vicente) | https://vicentemunozenr.github.io/Infografia-digital/ |
 | ISIDORA PAZ | Pendiente | — |
 | IRENE | Pendiente | — |
