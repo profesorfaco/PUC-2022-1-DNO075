@@ -30,6 +30,43 @@ En un editor de gráficos rasterizados ([Adobe Photoshop](https://www.adobe.com/
 
 La página creada, debe quedar [en línea con GitHub Pages](https://docs.github.com/es/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
+**Resultados**
+
+| NOMBRE   | CUENTA EN GITHUB                | GITHUB PAGE EJERCICIO NRO. 1          |
+|:---------|:--------------------------------|:--------------------------------------|
+| VICTORIA | https://github.com/VicBalbontin | https://vicbalbontin.github.io/1class |
+| MARIANE | Pendiente (trabaja con Vicente) | https://vicentemunozenr.github.io/Infografia-digital/ |
+| ISIDORA PAZ | Pendiente | — |
+| IRENE | Pendiente | — |
+| JOSÉ | https://github.com/josecueto9/ | https://josecueto9.github.io/Clase01/ |
+| JOSEFINA PAZ | https://github.com/jzespinosa | https://jzespinosa.github.io/clase-01/ |
+| JOSÉ | Pendiente | — |
+| NICOLÁS | https://github.com/nicogaona | https://nicogaona.github.io/clase-1/ |
+| CATALINA  | https://github.com/catalinaho | https://catalinaho.github.io/id-clase-01/ |
+| VALENTINA  | https://github.com/vale-herrera | https://vale-herrera.github.io/id-clase-01/ |
+| TERESITA | https://github.com/terila | https://terila.github.io/id-clase-01/ |
+| ISAÍAS  | https://github.com/isaiaslpez | https://isaiaslpez.github.io/Clase-1/ |
+| NICOLE  | https://github.com/nclun | https://nclun.github.io/infografia-digital-clase-01/ |
+| SOFÍA | Pendiente | — |
+| MARJORIE  | https://github.com/marjoriemartinez | https://marjoriemartinez.github.io/infografia-digital-clase-01/ |
+| MARÍA FERNANDA | https://github.com/mfmatusc | https://mfmatusc.github.io/clase-01/ |
+| DANIEL | https://github.com/dmj3300 | https://dmj3300.github.io/Info_Digital_C01/ |
+| DANIELA | Pendiente | — |
+| CONSTANZA  | https://github.com/cpmontero/ | https://cpmontero.github.io/id_01/ |
+| VICENTE | https://github.com/vicentemunozenr | https://vicentemunozenr.github.io/Infografia-digital/ |
+| BELEN | Pendiente | — |
+| CHRISTINE | Pendiente | — |
+| VICENTE | Pendiente | https://vicentepuig.github.io/clase01/clase-01/ |
+| MARÍA IGNACIA | https://github.com/nacharaffo | https://nacharaffo.github.io/id-clase-01/ |
+| KARINA | Pendiente | — |
+| MARÍA PAZ | https://github.com/pacita99 | https://pacita99.github.io/id-clase01-07-03-22/ |
+| FLORENCIA | https://github.com/flojaa | https://flojaa.github.io/clase01/ |
+| FRANCISCA | https://github.com/froher | https://froher.github.io/clase_01/ |
+| MACARENA | Pendiente | https://macaruiz.github.io/id-clase-01/ |
+| OLIVIA | https://github.com/oliviasistek | https://oliviasistek.github.io/ID-clase01/ |
+| CELESTE | https://github.com/celestesomervell | https://celestesomervell.github.io/Primera-Clase/ |
+| CARLA | Pendiente | — |
+
 - - - - - - - 
 
 #### TAREA
