@@ -12,6 +12,9 @@
 
 La [presentación de la clase de hoy](https://docs.google.com/presentation/d/1ZApg8dXgdtMIn3joViGHkOBC52nc4cNZs4HDRbpnmw0/edit?usp=sharing) la pueden encontrar en carpeta Drive ya compartida.
 
+¡Hicimos un enroque! La clase 3 la vimos en el día de la clase 2, y [hoy veremos la clase 2](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-02).
+
+
 - - - - - - - - - - - - - 
 
 #### EJERCICIO
