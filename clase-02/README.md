@@ -10,7 +10,7 @@
 
 - The Eyeo Festival (2011-2020): http://eyeofestival.com/
 
-La presentación de la clase de hoy la pueden encontrar en carpeta Drive ya compartida.
+La [presentación de la clase de hoy](https://docs.google.com/presentation/d/1NG0Kr2BKRQwyizxx8UW-W7c_hJtEYWGbM9_nUqVon04/edit?usp=sharing) la pueden encontrar en carpeta Drive ya compartida.
 
 - - - - - - - 
 
