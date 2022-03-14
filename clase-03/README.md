@@ -10,7 +10,7 @@
  
 - Boehm, G. (2020). ¿Más allá del lenguaje? Apuntes sobre la lógica de las imágenes. En: Ana García Varas (Ed.) Filosofía de la imagen (pp.87-106). Ediciones Universidad Salamanca.
 
-La presentación de la clase de hoy la pueden encontrar en carpeta Drive ya compartida.
+La [presentación de la clase de hoy](https://docs.google.com/presentation/d/1ZApg8dXgdtMIn3joViGHkOBC52nc4cNZs4HDRbpnmw0/edit?usp=sharing) la pueden encontrar en carpeta Drive ya compartida.
 
 - - - - - - - - - - - - - 
 
