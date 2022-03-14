@@ -16,7 +16,7 @@
 
 - Meirelles, I. (2015). *Data Meets Viz Workshop*. En línea: http://rosuda.org/DMVslides-f/IsabelMeirelles_dataMeetViz.pdf
 
-La presentación de la clase de hoy la pueden encontrar en carpeta Drive ya compartida.
+La [presentación de la clase de hoy](https://docs.google.com/presentation/d/1OtQAFa_0O7-IZ0z_A5zW436tSTwXnjELVacj-UjrYgY/edit?usp=sharing) la pueden encontrar en carpeta Drive ya compartida.
 
 - - - - - - - 
 
