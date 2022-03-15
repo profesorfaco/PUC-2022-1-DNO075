@@ -8,19 +8,25 @@
 
 **Y el material complementario**:
 
-- The Eyeo Festival (2011-2020): http://eyeofestival.com/
+- The Eyeo Festival (2011-2020): https://eyeofestival.com/
 
 La [presentación de la clase de hoy](https://docs.google.com/presentation/d/1NG0Kr2BKRQwyizxx8UW-W7c_hJtEYWGbM9_nUqVon04/edit?usp=sharing) la pueden encontrar en carpeta Drive ya compartida.
 
-**¡Haremos un enroque! La clase 2 la veremos en el día de la clase 3. [Hoy veremos la clase 3](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-03).**
+**¡Hicimos un enroque! La semana recién pasada adelantamos la [clase 03](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-03), ahora sí vamos a reviar la [clase 02](https://docs.google.com/presentation/d/1NG0Kr2BKRQwyizxx8UW-W7c_hJtEYWGbM9_nUqVon04/edit?usp=sharing)**
 
 - - - - - - - 
 
 #### EJERCICIO
 
-**Para conocer más infografistas**, cada estudiante debe replicar la actividad de la clase recién pasada, pero con un infografista contemporáneo; **esto se hace [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2022-1/clase-02/)**. 
+**Para conocer más infografistas**, cada estudiante debe buscar imágenes de sus trabajos publicados, redactar una presentación y **[aprovechar los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2022-1/clase-02/)**.
 
-La página creada, debe quedar [en línea con GitHub Pages](https://docs.github.com/es/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
+Es necesario insistir: Busquen imágenes de sus trabajos publicados. Evitemos llegar al mínimo de 6 imágenes echando manos a su foto de pasaporte y el frontis de la casa donde vivió su primera infancia. El máximo de imágenes es 10; teniendo más de 6 trabajos, sí podría sumar retratos, bocetos y otros recursos que sean pertinentes a la presentación.
+
+Como ya se ha hecho en cada clase, corresponde:
+
+- [crear un repositorio](https://docs.github.com/es/get-started/quickstart/create-a-repo) y
+
+- activar [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site) para el repositorio creado.
 
 - - - - - - - 
 
