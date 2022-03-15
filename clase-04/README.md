@@ -38,7 +38,7 @@ Pasemos a práctica implementando tres gráficos:
 
 2. Gráfico figurativo con [Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [Inkscape](https://inkscape.org/es/).
 
-3. Gráfico mixto que utilice en un capa un gráfico figurativo rasterizado y en otra un gráfico no figurativo vectorizado.
+3. Gráfico figurativo que utilice dos capas, una rasterizada y otra vectorizada.
 
 **Los tres gráficos que ustedes implementen deben referir a un único asunto, el que tendrán que desplegar aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-04/) de repositorio.**
 
@@ -46,7 +46,7 @@ Pasemos a práctica implementando tres gráficos:
 
 2. El gráfico figurativo debe ser incluido en la página como si se tratara de una imagen. 
 
-3. El código del SVG del gráfico mixto debe incrustarse directamente en el documento HTML.
+3. El código del SVG del gráficos de dos capas debe incrustarse directamente en el documento HTML.
 
 - - - - - - - - 
 
