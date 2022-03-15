@@ -12,7 +12,7 @@
 
 La [presentación de la clase de hoy](https://docs.google.com/presentation/d/1NG0Kr2BKRQwyizxx8UW-W7c_hJtEYWGbM9_nUqVon04/edit?usp=sharing) la pueden encontrar en carpeta Drive ya compartida.
 
-**¡Hicimos un enroque! La semana recién pasada adelantamos la [clase 03](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-03), ahora sí vamos a reviar la [clase 02](https://docs.google.com/presentation/d/1NG0Kr2BKRQwyizxx8UW-W7c_hJtEYWGbM9_nUqVon04/edit?usp=sharing)**
+**¡Hicimos un enroque! La semana recién pasada adelantamos la [clase 03](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-03), ahora sí vamos a revisar la [clase 02](https://docs.google.com/presentation/d/1NG0Kr2BKRQwyizxx8UW-W7c_hJtEYWGbM9_nUqVon04/edit?usp=sharing)**
 
 - - - - - - - 
 
