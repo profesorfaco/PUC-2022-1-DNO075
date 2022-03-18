@@ -36,8 +36,8 @@ La página creada, debe quedar [en línea con GitHub Pages](https://docs.github.
 |:---------|:--------------------------------|:--------------------------------------|
 | VICTORIA | https://github.com/VicBalbontin | https://vicbalbontin.github.io/1class/ADOLF-DEHN/ |
 | MARIANE | Pendiente (trabaja con Vicente) | https://vicentemunozenr.github.io/Infografia-digital/ |
-| ISIDORA PAZ | Pendiente | — |
-| IRENE | Pendiente | — |
+| ISIDORA | Pendiente | — |
+| IRENE | https://github.com/ireneari/ | https://ireneari.github.io/info01/ |
 | JOSÉ | https://github.com/josecueto9/ | https://josecueto9.github.io/Clase01/ |
 | JOSEFINA PAZ | https://github.com/jzespinosa | https://jzespinosa.github.io/clase-01/ |
 | JOSÉ | Pendiente | — |
@@ -57,7 +57,7 @@ La página creada, debe quedar [en línea con GitHub Pages](https://docs.github.
 | BELEN | Pendiente | — |
 | CHRISTINE | Pendiente | — |
 | VICENTE | Pendiente | https://vicentepuig.github.io/clase01/clase-01/ |
-| MARÍA IGNACIA | https://github.com/nacharaffo | https://nacharaffo.github.io/id-clase-01/ |
+| IGNACIA | https://github.com/nacharaffo | https://nacharaffo.github.io/id-clase-01/ |
 | KARINA | Pendiente | — |
 | MARÍA PAZ | https://github.com/pacita99 | https://pacita99.github.io/id-clase01-07-03-22/ |
 | FLORENCIA | https://github.com/flojaa | https://flojaa.github.io/clase01/ |
