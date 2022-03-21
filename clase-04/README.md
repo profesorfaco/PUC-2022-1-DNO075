@@ -26,7 +26,22 @@ En los gráficos vectoriales podemos encontrarnos con lineas rectas, líneas que
 <path d="M150 0 L75 200 L225 200 Z" />
 ```
 
-Un SVG puede inscrustarse en el cuerpo del documento HTML entre etiquetas `<svg></svg>` o también vincularse en el cuerpo del documento HTML como si se tratara de un objeto `<object type="image/svg+xml" data="…"></object>` o una imagen `<img src="…">`.
+Un SVG completo puede contener una o varias formas, simples o complejas, por lo que puede tener muchas líneas o pocas. El que sigue es un ejemplo de pocas líneas:
+
+```
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<path d="M30.76,94.7,5.36,69.29A1.9,1.9,0,0,1,4.83,68V32a1.9,1.9,0,0,1,.53-1.25L30.76,5.3A2,2,0,0,1,32,4.78H68a2,2,0,0,1,1.26.52l25.4,25.41A1.9,1.9,0,0,1,95.17,32V68a1.9,1.9,0,0,1-.53,1.25L69.24,94.7a2,2,0,0,1-1.26.52H32A2,2,0,0,1,30.76,94.7Z"></path>
+</svg>
+```
+Noten que comienza y termina con `svg`. Noten también que contiene una única forma, que es un trazado de varios puntos.
+
+Un SVG como el recién presentado puede:
+
+- inscrustarse en el cuerpo del documento HTML entre sus etiquetas `<svg></svg>`; 
+- vincularse como si se tratara de un objeto `<object type="image/svg+xml" data="…"></object>`; o 
+- vincularse como si se tratara de una imagen `<img src="…">`.
+
+Los puntos suspensivos ocupan el lugar de la ruta al archivo independiente con extensión `svg`.
 
 - - - - - - - - 
 
