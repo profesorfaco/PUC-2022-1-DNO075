@@ -30,18 +30,19 @@ Un SVG completo puede contener una o varias formas, simples o complejas, por lo 
 
 ```
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<title>81_Contain_octagon_v15</title>
 <path d="M30.76,94.7,5.36,69.29A1.9,1.9,0,0,1,4.83,68V32a1.9,1.9,0,0,1,.53-1.25L30.76,5.3A2,2,0,0,1,32,4.78H68a2,2,0,0,1,1.26.52l25.4,25.41A1.9,1.9,0,0,1,95.17,32V68a1.9,1.9,0,0,1-.53,1.25L69.24,94.7a2,2,0,0,1-1.26.52H32A2,2,0,0,1,30.76,94.7Z"></path>
 </svg>
 ```
-Noten que comienza y termina con `svg`. Noten también que contiene una única forma, que es un trazado de varios puntos.
+Noten que el ejemplo comienza y termina con `svg`. Noten también que contiene una única forma, que es un trazado de varios puntos.
 
 Un SVG como el recién presentado puede:
 
-- inscrustarse en el cuerpo del documento HTML entre sus etiquetas `<svg></svg>`; 
+- inscrustarse en el cuerpo del documento HTML, anunciándose con sus etiquetas `<svg></svg>`; 
 - vincularse como si se tratara de un objeto `<object type="image/svg+xml" data="…"></object>`; o 
 - vincularse como si se tratara de una imagen `<img src="…">`.
 
-Los puntos suspensivos ocupan el lugar de la ruta al archivo independiente con extensión `svg`.
+Los puntos suspensivos ("…") ocupan el lugar de la ruta al archivo independiente con extensión `svg`.
 
 - - - - - - - - 
 
@@ -51,7 +52,7 @@ Pasemos a práctica implementando tres gráficos:
 
 1. Gráfico no figurativo, con [RAWGraphs](https://app.rawgraphs.io/).
 
-2. Gráfico figurativo con [Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [Inkscape](https://inkscape.org/es/).
+2. Gráfico figurativo con [Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [Inkscape](https://inkscape.org/es/), partiendo desde algún gráfico que podrían tomar de https://visualpharm.com/ o https://www.guemil.info/icons/
 
 3. Gráfico figurativo que utilice dos capas, una rasterizada y otra vectorizada.
 
