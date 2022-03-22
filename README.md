@@ -43,11 +43,11 @@ Considerando los días lunes entre 7 de marzo y 4 de julio, conviene apuntar que
 
 **Por todas las fechas recién mencionadas, resulta el siguiente clase a clase:**
 
-[Clase 01 → 07/03/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-01) → Infografía e infografistas
+[Clase 01 → 07/03/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-01) → Infografía e infografistas ✓
 
-[Clase 02 → 14/03/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-02) → Infografistas y nuevas tecnologías
+[Clase 02 → 14/03/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-02) → Infografistas y nuevas tecnologías ✓
 
-[Clase 03 → 21/03/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-03) → Infografía actual
+[Clase 03 → 21/03/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-03) → Infografía actual ✓
 
 [Clase 04 → 28/03/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-04) → Gráficos con SVG
 
