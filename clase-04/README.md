@@ -44,6 +44,34 @@ Un SVG como el recién presentado puede:
 
 Los puntos suspensivos ("…") ocupan el lugar de la ruta al archivo independiente con extensión `svg`.
 
+Para poder verlo funcionar, podemos partir incrustando el SVG en un HTML:
+
+```
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <title>¡Hola SVG!</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-7 mx-auto">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+            <title>81_Contain_octagon_v15</title>
+            <path d="M30.76,94.7,5.36,69.29A1.9,1.9,0,0,1,4.83,68V32a1.9,1.9,0,0,1,.53-1.25L30.76,5.3A2,2,0,0,1,32,4.78H68a2,2,0,0,1,1.26.52l25.4,25.41A1.9,1.9,0,0,1,95.17,32V68a1.9,1.9,0,0,1-.53,1.25L69.24,94.7a2,2,0,0,1-1.26.52H32A2,2,0,0,1,30.76,94.7Z"></path>
+          </svg>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+```
+
+Luego podríamos tomar lo que hay entre etiquetas `<svg>…</svg>`, incluyéndolas, para llevarlas a un nuevo documento que podemos guardar con la extensión `.svg`. Y podríamos vincularlo como objeto y como imagen.
+
 - - - - - - - - 
 
 #### EJERCICIO
