@@ -6,7 +6,7 @@ En esta clase se abre la segunda etapa del Optativo, donde dependeremos más de 
 
 A través de la práctica partiremos explorando **SVG (Scalable Vector Graphics)**.
 
-**SVG es un dialecto, muy parecido al lenguaje HTML**. Tiene [sus propios elementos](https://developer.mozilla.org/es/docs/Web/SVG/Element) descritos por `<etiqueta atributo="…"></etiqueta>`. Estos elementos son descripciones basadas en posiciones dentro de un plano cuya coordenadas 0,0 se encuentran en su esquina superior izquierda.
+**SVG es un dialecto, muy parecido al lenguaje HTML**. Tiene [sus propios elementos](https://developer.mozilla.org/es/docs/Web/SVG/Element#elementos_svg_por_categor%C3%ADas) descritos por `<etiqueta atributo="…"></etiqueta>`. Estos elementos son descripciones basadas en posiciones dentro de un plano cuya coordenadas 0,0 se encuentran en su esquina superior izquierda.
 
 En los gráficos vectoriales podemos encontrarnos con lineas rectas, líneas quebradas, círculos, elipses, rectángulos, polígonos simples y trazados complejos, formas que se describen, respectivamente, como sigue:
 
