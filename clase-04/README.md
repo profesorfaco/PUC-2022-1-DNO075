@@ -26,7 +26,7 @@ En los gráficos vectoriales podemos encontrarnos con lineas rectas, líneas que
 <path d="M150 0 L75 200 L225 200 Z" />
 ```
 
-Un SVG completo puede contener una o varias formas, simples o complejas, por lo que puede tener muchas líneas o pocas. El que sigue es un ejemplo de pocas líneas, un [contenedor octagonal de **Guemil** Icons for Emergency](https://www.guemil.info/81_contain_octagon_v15/):
+Un SVG completo puede contener una o varias formas, simples o complejas, por lo que puede tener muchas líneas o pocas. El que sigue es un ejemplo de pocas líneas, se trata de un [contenedor octagonal de **Guemil** Icons for Emergency](https://www.guemil.info/81_contain_octagon_v15/):
 
 ```
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
