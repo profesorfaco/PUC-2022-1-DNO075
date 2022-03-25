@@ -57,7 +57,7 @@ En un principio, todas las clases definen un relleno gris. Pero cuando se ponga 
 
 #### EJERCICIO
 
-Pasemos a práctica implementando dos gráficos, ambos deben ser gráficos mixto que utilicen en un capa un gráfico figurativo rasterizado y en otra un gráfico no figurativo vectorizado; ahora bien, parte de los elementos deben cambiar con clases y pseudoclases.
+Pasemos a práctica implementando dos gráficos, ambos deben ser gráficos figurativos que utilicen una imagen rasterizado y gráfico vectorizado.
 
 **Los dos gráficos que se implementen deben referir a un único asunto, el que tendrán que desplegar aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-05/) de repositorio**.
 
