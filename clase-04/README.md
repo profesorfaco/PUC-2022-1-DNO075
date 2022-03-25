@@ -70,7 +70,7 @@ Para poder verlo funcionar, podemos partir incrustando el SVG en un HTML:
 </html>
 ```
 
-Luego podríamos tomar lo que hay entre etiquetas `<svg>…</svg>`, incluyéndolas, para llevarlas a un nuevo documento que podemos guardar con la extensión `.svg`. Y podríamos vincularlo como objeto y como imagen.
+Luego podríamos tomar lo que hay entre etiquetas `<svg>…</svg>`, incluyéndolas, para llevarlas a un nuevo documento que podemos guardar con la extensión `.svg`. Y podríamos vincularlo al documento `.html` como objeto y como imagen.
 
 - - - - - - - - 
 
