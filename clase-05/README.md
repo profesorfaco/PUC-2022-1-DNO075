@@ -105,7 +105,7 @@ Hay otras maneras de hacer animación con SVG que no se hacen con CSS (Cascading
 
 Pasemos a práctica implementando dos gráficos, ambos pueden ser figurativos. 
 
-En uno de ellos habrá que usar un `:hover` y en otro una [animación](https://developer.mozilla.org/es/docs/Web/CSS/animation) de iteración [infinta](https://developer.mozilla.org/es/docs/Web/CSS/animation-iteration-count). 
+En uno de ellos habrá que usar un `:hover` y en otro una [animación](https://developer.mozilla.org/es/docs/Web/CSS/animation) de iteración [infinita](https://developer.mozilla.org/es/docs/Web/CSS/animation-iteration-count). 
 
 **Ambos usos deben aportar algo significativo (que signifique o aporte algo relevante a la lectura; que no sea animar por animar), y ambos gráficos deben referir a un único asunto, el que tendrán que desplegar aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-05/) de repositorio**.
 
