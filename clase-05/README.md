@@ -2,15 +2,19 @@
 
 ### Clase 05 → 04/04/2022
 
-**[CSS](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics)** (Cascading Style Sheets) es un lenguaje descriptivo que podemos reconocer por sus **reglas**, que se estructuran con `selector{propiedad:valor;}`. 
+**[CSS](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics)** (Cascading Style Sheets) es un lenguaje descriptivo que podemos reconocer por sus **reglas**, que se estructuran con: 
 
-Un documento SVG puede contener, entre etiquetas `<style></style>`, a tal lenguaje.
+```
+selector{propiedad:valor;}
+```
 
-Cuando usamos Illustrator para guardar como un SVG, el programa genera, automáticamente, tantas reglas como sean necesarias para describir el aspecto de los distintos elementos gráficos que contiene el SVG.
+Un documento SVG puede contener a tal lenguaje, entre etiquetas `<style></style>`.
 
-Los selectores de las reglas generadas son [selectores de clase](https://developer.mozilla.org/es/docs/Web/CSS/Class_selectors). Estos comienzan con un punto `st`, a lo que se agregar un número: `.st0{…}`, `.st1{…}`, `.st2{…}`, etc.
+Cuando usamos Illustrator para guardar una gráfica (figurativa, no figurativa o mixta) como un SVG, el programa genera, automáticamente, tantas reglas como sean necesarias para describir el aspecto de los elementos gráficos que contiene el SVG.
 
-El selector de clase se identificar por el punto inmediatamente anterior al nombre. Así como Illustrator nombre a algo `.st0{}`, nosotros podríamos llamarle `.primero{}`, o `.como_se_nos_ocurra{}`, nunca iniciando tal nombre con un número ni usando palabras separadas. Luego, cuando necesitemos que un elemento sea afectado por tal regla, el elemento debe utilizar la clase que lo selecionaría (por eso selector).
+Los selectores de las reglas de CSS generadas por Illustrator son [selectores de clase](https://developer.mozilla.org/es/docs/Web/CSS/Class_selectors). Estos comienzan con un punto pegado a un `st`, a lo que se agregar un número: `.st0{…}`, `.st1{…}`, `.st2{…}`, etc.
+
+Es que el selector de clase se identificar por el punto inmediatamente anterior al nombre. Y así como Illustrator nombre a algo `.st0{}`, nosotros podríamos llamarle `.primero{}`, o `.como_se_nos_ocurra{}`, NUNCA iniciando tal nombre con un número ni usando palabras separadas. Luego, cuando necesitemos que un elemento sea afectado por tal regla, el elemento debe utilizar la clase que lo seleccionará para ser afectado (por eso selector).
 
 Revisemos lo recién presentado en el siguiente código:
 
