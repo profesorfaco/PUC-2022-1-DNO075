@@ -103,7 +103,9 @@ Hay otras maneras de hacer animación con SVG que no se hacen con CSS (Cascading
 
 #### EJERCICIO
 
-Pasemos a práctica implementando dos gráficos, uno no figurativo y otro figurativo, y aprovechemos en ambos el uso de CSS para presentar un efecto significativo (que signifique o aporte algo relevante a la lectura).
+Pasemos a práctica implementando dos gráficos, ambos pueden ser figurativos. 
+
+En uno de ellos habrá que un `:hover` y en otro una [animación](https://developer.mozilla.org/es/docs/Web/CSS/animation). Ambos usos deben aportar algo significativo (que signifique o aporte algo relevante a la lectura; que no sea animar por animar).
 
 **Los dos gráficos que se implementen deben referir a un único asunto, el que tendrán que desplegar aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-05/) de repositorio**.
 
