@@ -2,13 +2,15 @@
 
 ### Clase 05 → 04/04/2022
 
-**[CSS](https://github.com/profesorfaco/dno075-2021-2/wiki/CSS)** es un lenguaje descriptivo que podemos reconocer por sus **reglas** que se estructuran con `selector{propiedad:valor;}`. 
+**[CSS](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics)** (Cascading Style Sheets) es un lenguaje descriptivo que podemos reconocer por sus **reglas**, que se estructuran con `selector{propiedad:valor;}`. 
 
 Un documento SVG puede contener, entre etiquetas `<style></style>`, a tal lenguaje.
 
-Cuando usamos Illustrator para guardar un SVG, el programa genera, automáticamente, tantas reglas como sean necesarias para describir el aspecto de los distintos elementos gráficos que contiene el SVG. Estas reglas tienen selectores de clase `st+n`, como en: `.st0{…}`, `.st1{…}`, `.st2{…}`, etc.
+Cuando usamos Illustrator para guardar como un SVG, el programa genera, automáticamente, tantas reglas como sean necesarias para describir el aspecto de los distintos elementos gráficos que contiene el SVG.
 
-El selector de clase se identificar por el punto inmediatamente anterior al nombre. Así como Illustrator nombre a algo `.st0{}`, nosotros podríamos llamarle `.primero{}`, o `.como_se_nos_ocurra{}`, nunca iniciando tal nombre con un número ni usando palabras separadas. Luego, cuando necesitemos que un elemento utilice la clase, debemos sumarle el atributo `class="…"`, con el nombre de la clase entre comillas, sin el punto antecesor.
+Los selectores de las reglas generadas son [selectores de clase](https://developer.mozilla.org/es/docs/Web/CSS/Class_selectors). Estos comienzan con un punto `st`, a lo que se agregar un número: `.st0{…}`, `.st1{…}`, `.st2{…}`, etc.
+
+El selector de clase se identificar por el punto inmediatamente anterior al nombre. Así como Illustrator nombre a algo `.st0{}`, nosotros podríamos llamarle `.primero{}`, o `.como_se_nos_ocurra{}`, nunca iniciando tal nombre con un número ni usando palabras separadas. Luego, cuando necesitemos que un elemento sea afectado por tal regla, el elemento debe utilizar la clase que lo selecionaría (por eso selector).
 
 Revisemos lo recién presentado en el siguiente código:
 
@@ -31,7 +33,7 @@ Primero leamos lo que está entre de las etiquetas `<style></style>`. La regla c
 
 Fuera y seguido de las etiquetas `<style></style>`, tenemos tres circulos, cuyo centro está en distintas posiciones en la horizontal. Al primer círculo se le asigna la clase `st0`, al segundo la `st1` y al tercer la `st2`. Con esto, los círculos se verán rojo, amarillo y verde. 
 
-A las clases de CSS se pueden agregar las pseudoclases, que son palabras clave que se añaden inmediatamente después de los selectores, y que especifican un estado especial del elemento seleccionado. Por ejemplo, `:hover` aplicará un estilo cuando el usuario pose el mouse sobre el elemento correspondiente.
+A las clases de CSS se pueden agregar las [pseudoclases](https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes), que son palabras clave que se añaden inmediatamente después de los selectores, y que especifican un estado especial del elemento seleccionado. Por ejemplo, `:hover` aplicará un estilo cuando el usuario haga rondar el puntero del mouse sobre el elemento correspondiente.
 
 Aplicando las pseudoclases podemos hacer lo siguiente:
 
@@ -51,7 +53,7 @@ Aplicando las pseudoclases podemos hacer lo siguiente:
 </svg>
 ```
 
-En un principio, todas las clases definen un relleno gris. Pero cuando se ponga el mouse encima, se mostrará algo distinto.
+En un principio, los elementos con clase `st0`, `st1` y `st2` tienen un mismo relleno gris. Pero cuando se ponga el mouse encima, se mostrará algo distinto. Para un caso será rojo, para otro amarillo y para otro más será verde (como un semáforo).
 
 Con el mouse encima (`:hover`) también puedo gatillar algunas [transformaciones de CSS](https://developer.mozilla.org/es/docs/Web/CSS/transform):
 
@@ -67,17 +69,37 @@ Con el mouse encima (`:hover`) también puedo gatillar algunas [transformaciones
 </svg>
 ```
 
-Para que una transformación resuelte más natural, puedo aprovechar las [transiciones de CSS](https://developer.mozilla.org/es/docs/Web/CSS/transition).
+Para ver una transformación, puedo aprovecharme de las [transiciones de CSS](https://developer.mozilla.org/es/docs/Web/CSS/transition). Con una transición que demora 1 segundo, tengo 1 segundo para ver cómo se traslada 300 pixeles a la derecha lo que tiene clase `st0`
 
-Algo más complejo, puede ser creado mediante [animaciones de CSS](https://developer.mozilla.org/es/docs/Web/CSS/animation):
+Algo más complejo puede ser creado mediante [animaciones de CSS](https://developer.mozilla.org/es/docs/Web/CSS/animation):
 
+```
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 200" style="enable-background: new 0 0 500 200;" xml:space="preserve">
+    <style type="text/css">
+    	circle {
+    		animation: nombre 5s linear 0s infinite;
+    	}
+    	@keyframes nombre {
+    		0%   {fill:#FF0000;}
+    		25%  {fill:#FFFF00; transform: translate(300px,0);}
+    		50%  {fill:#00FFFF; transform: translate(300px,100px);}
+    		75%  {fill:#0000FF; transform: translate(0px,100px);}
+    		100%  {fill:#FF0000; transform: translate(0px,0px);}
+    	}
+    </style>
+    <circle class="st0" cx="100" cy="50" r="50" />
+</svg>
+```
 
+Hay otras maneras de hacer animación con SVG que no se hacen con CSS (Cascading Style Sheets) sino SMIL (Synchronized Multimedia Integration Language), pero conviene revisar el aviso que nos entrega MDN: https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL
 
 - - - - - - - - 
 
 #### EJERCICIO
 
-Pasemos a práctica implementando dos gráficos, ambos deben ser gráficos figurativos que utilicen una imagen rasterizado y gráfico vectorizado.
+Pasemos a práctica implementando dos gráficos, uno no figurativo y otro figurativo, y aprovechemos en ambos el uso de CSS para presentar un efecto significativo (que signifique o aporte algo relevante a la lectura).
 
 **Los dos gráficos que se implementen deben referir a un único asunto, el que tendrán que desplegar aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-05/) de repositorio**.
 
