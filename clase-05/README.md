@@ -66,8 +66,7 @@ Con el mouse encima (`:hover`) también puedo gatillar algunas [transformaciones
 <!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 200" style="enable-background: new 0 0 500 200;" xml:space="preserve">
     <style type="text/css">
-    	*{transition:all ease 1s;}
-        .st0:hover {transform: translate(300px,0);}
+        svg:hover circle.st0 {transform: translate(300px,0); transition:transform ease 1s;}
     </style>
     <circle class="st0" cx="100" cy="100" r="50" />
 </svg>
