@@ -16,7 +16,7 @@ Los selectores de las reglas de CSS generadas por Illustrator son [selectores de
 
 Es que el selector de clase se identificar por el punto inmediatamente anterior al nombre. Y así como Illustrator nombre a algo `.st0{}`, nosotros podríamos llamarle `.primero{}`, o `.como_se_nos_ocurra{}`, NUNCA iniciando tal nombre con un número ni usando palabras separadas. Luego, cuando necesitemos que un elemento sea afectado por tal regla, el elemento debe utilizar la clase que lo seleccionará para ser afectado (por eso selector).
 
-Revisemos lo recién presentado en el siguiente código:
+Revisemos lo recién presentado en el siguiente código generado por Adobe Illustrator:
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
