@@ -96,7 +96,7 @@ Algo más complejo puede ser creado mediante [animaciones de CSS](https://develo
 </svg>
 ```
 
-Hay otras maneras de hacer animación con SVG que no se hacen con CSS (Cascading Style Sheets) sino SMIL (Synchronized Multimedia Integration Language), pero conviene revisar el aviso que nos entrega MDN: https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL
+Hay otras maneras de hacer animación con SVG, que usan CSS (Cascading Style Sheets) sino SMIL (Synchronized Multimedia Integration Language), pero conviene revisar el aviso que nos entrega MDN: https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL
 
 - - - - - - - - 
 
