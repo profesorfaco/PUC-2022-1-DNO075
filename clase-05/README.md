@@ -10,7 +10,7 @@ selector{propiedad:valor;}
 
 Un documento SVG puede contener a tal lenguaje, entre etiquetas `<style></style>`.
 
-Cuando usamos Illustrator para guardar una gráfica (figurativa, no figurativa o mixta) como un SVG, el programa genera, automáticamente, tantas reglas como sean necesarias para describir el aspecto de los elementos gráficos que contiene el SVG.
+Cuando usamos Illustrator para guardar una gráfica (figurativa, no figurativa o mixta) como un SVG, el programa genera, automáticamente, tantas reglas de CSS como sean necesarias para describir el aspecto de los elementos gráficos que contiene el SVG.
 
 Los selectores de las reglas de CSS generadas por Illustrator son [selectores de clase](https://developer.mozilla.org/es/docs/Web/CSS/Class_selectors). Estos comienzan con un punto pegado a un `st`, a lo que se agregar un número: `.st0{…}`, `.st1{…}`, `.st2{…}`, etc.
 
