@@ -72,7 +72,7 @@ Con el mouse encima (`:hover`) también puedo gatillar algunas [transformaciones
 </svg>
 ```
 
-Para ver una transformación, puedo aprovecharme de las [transiciones de CSS](https://developer.mozilla.org/es/docs/Web/CSS/transition). Con una transición que demora 1 segundo, tengo 1 segundo para ver cómo se traslada 300 pixeles a la derecha lo que tiene clase `st0`
+Para ver una transformación, puedo aprovecharme de las [transiciones de CSS](https://developer.mozilla.org/es/docs/Web/CSS/transition). Con una transición que demora 1 segundo, tengo 1 segundo para ver cómo se traslada 300 pixeles a la derecha lo que tiene clase `st0`.
 
 Algo más complejo puede ser creado mediante [animaciones de CSS](https://developer.mozilla.org/es/docs/Web/CSS/animation):
 
@@ -96,7 +96,7 @@ Algo más complejo puede ser creado mediante [animaciones de CSS](https://develo
 </svg>
 ```
 
-Hay otras maneras de hacer animación con SVG, que usan CSS (Cascading Style Sheets) sino SMIL (Synchronized Multimedia Integration Language), pero conviene revisar el aviso que nos entrega MDN: https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL
+Hay otras maneras de hacer animación con SVG, que no usan CSS (Cascading Style Sheets) sino SMIL (Synchronized Multimedia Integration Language), pero conviene revisar el aviso que nos entrega MDN: https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL
 
 - - - - - - - - 
 
