@@ -33,9 +33,9 @@ Los dos lenguajes (HTML y CSS) y el dialecto (SVG) se pueden combinar para obten
 </html>
 ```
 
-Si tenemos un programa de JavaScript con varios datos, podríamos hacer que los círculos rojos tengan radios dependientes de cantidades predefinidas.
+Si tenemos un programa de JavaScript con varios datos, podríamos crear varios círculos, cada uno con un radio determinado por los mismos datos.
 
-Pero descartando JavaScript, se pueden hacer cosas mucho más complejas que círculos, como los trabajos realizados en versiones pasadas de este OPR:
+Con estos lenuajes, trabajando el conjunto, se pueden hacer cosas mucho más complejas que círculos. Podemos hacer trabajos como en versiones pasadas de este OPR:
 
 VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 
@@ -61,7 +61,7 @@ A los trabajos recién vinculados, podemos agregar algunos trabajos de estudiant
 - https://hipopotamo-pigmeo.github.io/final/
 - https://orangutan-borneo-uc.github.io/final/
 
-**En los 12 trabajos vinculados, los estudiantes usaron HTML, CSS y JavaScript, apoyándose en [Bootstrap](https://getbootstrap.com/).** También usaron SVG, pero Bootstrap no se relaciona con tal dialecto.
+**En los 12 trabajos vinculados, los estudiantes usaron HTML, CSS y JavaScript, apoyándose en [Bootstrap](https://getbootstrap.com/).** También usaron SVG, pero Bootstrap no se relaciona con tal dialecto (lo mismo pasa con las gráfica en formato JPG, PNG y GIF que pudieron encontrar en los trabajos).
 
 Así como [Foundations](https://get.foundation/) y [Semantic UI](https://semantic-ui.com/), **[Bootstrap](https://getbootstrap.com/) es un marco de trabajo  que simplifica la creación de páginas responsivas**; escogemos Bootstrap por su popularidad y constante desarrollo.
 
