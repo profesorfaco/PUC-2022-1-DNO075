@@ -10,6 +10,7 @@ Ya hemos revisado:
 
 - **CSS**: Un lenguaje descriptivo que podemos reconocer por sus **reglas** que se estructuran con `selector{propiedad:valor;}`. Estas reglas las podemos encontrar incrustadas en la cabeza del documento HTML, entre etiquetas `<style></style>`, o bien podemos encontrarlas en una hoja de estilo independiente, que se vincula en la cabeza del documento HTML, mediante `<link rel="stylesheet" href="…" />`.
 
+- **JavaScript**: Un lenguaje de programación con el que las páginas web se hacen interactivas mediante el control de cada navegador web y su Modelo de Objetos de Documento (DOM; Document Object Model).
 
 Los dos lenguajes (HTML y CSS) y el dialecto (SVG) se pueden combinar para obtener, por ejemplo, una página con fondo rojo que contenga un SVG que, a su vez, contenga un círculo negro al centro:
 
@@ -32,7 +33,9 @@ Los dos lenguajes (HTML y CSS) y el dialecto (SVG) se pueden combinar para obten
 </html>
 ```
 
-Pero se pueden hacer cosas mucho más complejas, como los trabajos realizados en versiones pasadas de este OPR:
+Si tenemos un programa de JavaScript con varios datos, podríamos hacer que los círculos rojos tengan radios dependientes de cantidades predefinidas.
+
+Pero descartando JavaScript, se pueden hacer cosas mucho más complejas que círculos, como los trabajos realizados en versiones pasadas de este OPR:
 
 VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 
@@ -58,7 +61,7 @@ A los trabajos recién vinculados, podemos agregar algunos trabajos de estudiant
 - https://hipopotamo-pigmeo.github.io/final/
 - https://orangutan-borneo-uc.github.io/final/
 
-**En los 12 trabajos vinculados, los estudiantes usaron HTML, SVG y CSS, apoyándose en [Bootstrap](https://getbootstrap.com/).**
+**En los 12 trabajos vinculados, los estudiantes usaron HTML, CSS y JavaScript, apoyándose en [Bootstrap](https://getbootstrap.com/).** También usaron SVG, pero Bootstrap no se relaciona con tal dialecto.
 
 Así como [Foundations](https://get.foundation/) y [Semantic UI](https://semantic-ui.com/), **[Bootstrap](https://getbootstrap.com/) es un marco de trabajo  que simplifica la creación de páginas responsivas**; escogemos Bootstrap por su popularidad y constante desarrollo.
 
