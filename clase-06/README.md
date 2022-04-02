@@ -28,7 +28,7 @@ En las tres línea del pequeño programa (o *script*) tenemos:
 
 3. La repetición de un *log* en la consola para cada cadena en el arreglo ya ordenado alfabéticamente, mediante el [método `forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 
-Con lo dicho, ya podríamos preguntarnos: ¿Podría vincular datos a elementos dentro de un SVG? ¡Si, se puede!
+Si vinculamos lo recién dicho con lo presentado en las clases recién pasada lo dicho, ya podríamos preguntarnos: ¿Es posible vincular datos a elementos dentro de un SVG? ¡Si, es posible!
 
 Hagamos algo como eso, sin alejarnos muchos del pequeño programa (o *script*) escrito más arriba. Copiemos y peguemos lo siguiente en un editor de código fuente. Una vez pegado allí, guardemos el documento como `ejemplo.html`
 
