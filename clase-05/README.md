@@ -12,7 +12,7 @@ Un documento [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial) puede
 
 Cuando usamos Illustrator para guardar una gráfica (figurativa, no figurativa o mixta) como un SVG, el programa genera automáticamente tantas **reglas de [CSS]((https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics))** como sean necesarias para describir el aspecto de los elementos gráficos que contiene el SVG.
 
-Los selectores de las **reglas de [CSS]((https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics))** generadas por Illustrator son [selectores de clase](https://developer.mozilla.org/es/docs/Web/CSS/Class_selectors). Entre etiqueta `<style></style>`, estos comienzan con un punto pegado a un `st`, a lo que se agregar un número: `.st0{…}`, `.st1{…}`, `.st2{…}`, etc. Fuera de esas etiquetas no tienen tal punto.
+Los selectores de las **reglas de [CSS]((https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics))** generadas por Illustrator son [selectores de clase](https://developer.mozilla.org/es/docs/Web/CSS/Class_selectors). Estos comienzan con un punto pegado a un `st`, a lo que se agregar un número: `.st0{…}`, `.st1{…}`, `.st2{…}`, etc. Fuera de esas etiquetas no tienen tal punto.
 
 Es que el selector de clase se identifica en el CSS por el punto inmediatamente anterior al nombre. Y así como Illustrator nombra a una clase `.st0{}`, nosotros podríamos llamarle `.primera{}`, o `.como_se_nos_ocurra{}`, NUNCA iniciando tal nombre con un número ni usando palabras separadas. Luego, cuando necesitemos que un elemento sea afectado por tal regla, el elemento debe utilizar la clase que lo seleccionará para ser afectado (por eso selector).
 
