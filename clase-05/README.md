@@ -102,9 +102,9 @@ Pueden encontrar más ejemplos de animaciones en:
 - https://profesorfaco.github.io/dno075-2022-1/clase-05/img/ejemplo-animacion-2.svg
 - https://profesorfaco.github.io/dno075-2022-1/clase-05/img/ejemplo-animacion-3.svg
 
-Hay otras maneras de hacer animación con SVG, que no usan CSS (Cascading Style Sheets) sino SMIL (Synchronized Multimedia Integration Language), pero conviene revisar el aviso que nos entrega MDN: https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL
+Hay otra manera de hacer animación con SVG, que no usa CSS (Cascading Style Sheets) sino SMIL (Synchronized Multimedia Integration Language), pero conviene revisar el aviso que nos entrega MDN: https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL
 
-Si es que por su cuenta quisieran investigar sobre animación SVG con SMIL, podrían guiarse con este artículo: https://css-tricks.com/guide-svg-animations-smil/
+Si es que por su cuenta quisieran investigar más respecto de animación SVG con SMIL, podrían aprovechar este artículo: https://css-tricks.com/guide-svg-animations-smil/
 
 - - - - - - - - 
 
