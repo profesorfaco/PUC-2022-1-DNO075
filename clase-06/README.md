@@ -15,7 +15,7 @@ Pero si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente pode
 Por eso vamos a partir con un pequeño programa (o *script*), el que debes copiar y pegar en la consola de JavaScript de tu navegador:
 
 ```
-var retinal = ["size","value","texture","color","orientation","shape"]
+var retinal = ["size","value","texture","color","orientation","shape"];
 retinal.sort();
 retinal.forEach(element => console.log(element));
 ```
