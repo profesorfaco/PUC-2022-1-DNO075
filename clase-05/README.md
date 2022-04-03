@@ -14,7 +14,7 @@ Cuando usamos Illustrator para guardar una gráfica (figurativa, no figurativa o
 
 Los selectores de las **reglas de [CSS]((https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics))** generadas por Illustrator son [selectores de clase](https://developer.mozilla.org/es/docs/Web/CSS/Class_selectors). Estos comienzan con un punto pegado a un `st`, a lo que se agregar un número: `.st0{…}`, `.st1{…}`, `.st2{…}`, etc.
 
-Es que el selector de clase se identifica en el CSS por el punto inmediatamente anterior al nombre. Y así como Illustrator nombra a una clase `.st0{}`, nosotros podríamos llamarle `.primera{}`, o `.como_se_nos_ocurra{}`, NUNCA iniciando tal nombre con un número ni usando palabras separadas. Luego, cuando necesitemos que un elemento sea afectado por tal regla, el elemento debe utilizar la clase que lo seleccionará para ser afectado (por eso selector).
+El selector de clase se identifica en el CSS por el punto inmediatamente anterior al nombre. Y así como Illustrator nombra a una clase `.st0{}`, nosotros podríamos llamarle `.primera{}`, o `.como_se_nos_ocurra{}`, NUNCA iniciando tal nombre con un número ni usando palabras separadas. Luego, cuando necesitemos que un elemento sea afectado por tal regla, el elemento debe utilizar la clase que lo seleccionará para ser afectado (por eso selector).
 
 Revisemos lo recién presentado en el siguiente código generado por Adobe Illustrator, noten como entre etiquetas `<style></style>` tenemos un punto antecediendo al nombre de clase, y más abajo tenemos a los nombres de clase como valores de un atributo de clase (`class="…"`):
 
