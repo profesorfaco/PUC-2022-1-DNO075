@@ -22,13 +22,13 @@ retinal.forEach(element => console.log(element));
 
 En las tres línea del pequeño programa (o *script*) tenemos: 
 
-1. Una declaración de variable de nombre `retina`, que se inicia conteniendo un arreglo con 6 cadenas de caracteres.
+1. Una declaración de variable de nombre `retina`, que se inicia conteniendo un arreglo (*array*) con 6 cadenas de caracteres (*string*) entre comillas.
 
 2. Una reorganización alfabética del arreglo contenido por la variable de nombre `retina`, mediante el [método `sort()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 
-3. La repetición de un *log* en la consola para cada cadena en el arreglo ya ordenado alfabéticamente, mediante el [método `forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+3. Con el [método `forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) se repite un *log* en la consola **para cada** cadena (*string*) en el arreglo (*array*) ya ordenado alfabéticamente.
 
-Si vinculamos lo recién dicho con lo presentado en las clases recién pasada lo dicho, ya podríamos preguntarnos: ¿Es posible vincular datos a elementos dentro de un SVG? ¡Si, es posible!
+Si vinculamos lo recién dicho con lo presentado en las clases recién pasada, ya podríamos preguntarnos: ¿Es posible vincular datos a elementos dentro de un SVG? ¡Si, es posible!
 
 Hagamos algo como eso, sin alejarnos muchos del pequeño programa (o *script*) escrito más arriba. Copiemos y peguemos lo siguiente en un editor de código fuente. Una vez pegado allí, guardemos el documento como `ejemplo.html`
 
@@ -55,7 +55,7 @@ Hagamos algo como eso, sin alejarnos muchos del pequeño programa (o *script*) e
 </html>
 ```
 
-Si revisan el `ejemplo.html` en su navegador, verán cada cadena de caracteres del arreglo dentro de un `<text></text>` de SVG. Todos ellos están, a su vez, dentro del grupo de identidad aqui (`<g id="aqui"></g>`). Esto es algo que puedes ver dentro de la ventana del navegador y al [**inspeccionar elementos**](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web), pero no lo encontrarás al "Ver el código fuente". Porque JavaScript no modifica lo escrito por el programador, sino la "comprensión de lectura" del navegador web.
+Si revisan el `ejemplo.html` en su navegador, verán cada cadena de caracteres del arreglo dentro de un `<text></text>` de SVG. Todos ellos están, a su vez, dentro del grupo de identidad aqui (`<g id="aqui"></g>`). Esto es algo que puedes ver dentro de la ventana del navegador y al [**inspeccionar elementos**](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web), pero no lo encontrarás al "Ver el código fuente". Porque JavaScript no modifica lo escrito por el programador, sino la "comprensión de lectura" que tiene el navegador web par alo que lee.
 
 Podemos trabajar con datos distintos de cadenas de caractres dentro de un arreglo. Puede ser, por ejemplo, objetos dentro de un arreglo, y dentro de cada objeto puedo tener, nuevamente, cadena de caracteres y, además, números enteros:
 
@@ -98,7 +98,7 @@ Podemos trabajar con datos distintos de cadenas de caractres dentro de un arregl
 </html>
 ```
 
-Copia y pega el código en un nuevo documento dentro de tu editor. Guárdalo como censo.html y aprovecha lo aprendido sobre CSS para editarlo. Una vez lo tengas editado, pasa al ejercicio. 
+Copia y pega el código en un nuevo documento dentro de tu editor. Guárdalo como censo.html y revisa el resultado en tu navegador web.
 
 - - - - - - - 
 
