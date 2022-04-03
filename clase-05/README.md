@@ -114,7 +114,7 @@ Pasemos a la práctica implementando dos gráficos, ambos pueden ser figurativos
 
 En uno de ellos habrá que usar un `:hover` y en otro una [animación](https://developer.mozilla.org/es/docs/Web/CSS/animation) de iteración [infinita](https://developer.mozilla.org/es/docs/Web/CSS/animation-iteration-count). 
 
-**Ambos usos deben aportar algo significativo (que aporte algo relevante para la comprensión; que no sea animar por animar), y ambos gráficos deben referir a un único asunto, el que tendrán que desplegar aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-05/) de repositorio**.
+**Ambos usos deben aportar algo significativo (algo relevante para la comprensión; que no sea animar por animar), y ambos gráficos deben referir a un único asunto, el que tendrán que desplegar aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-05/) de repositorio**.
 
 Como en la clase recién pasada, pueden tomar un gráfico figurativo de https://visualpharm.com/ o https://www.guemil.info/icons/
 
