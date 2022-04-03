@@ -120,6 +120,8 @@ Como en la clase recién pasada, pueden tomar un gráfico figurativo de https://
 
 También podrían tomarlo de https://www.svgrepo.com/
 
+**¡Ojo!** En el SVG con el `:hover`, donde reutilizo el “pescado”, notarán una diferencia respecto de la clase recién pasada, el cambio se debe a https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/xlink:href 
+
 - - - - - - - - 
 
 #### TAREA
