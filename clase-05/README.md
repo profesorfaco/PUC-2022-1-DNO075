@@ -110,7 +110,7 @@ Si es que por su cuenta quisieran investigar más respecto de animación SVG con
 
 #### EJERCICIO
 
-Pasemos a práctica implementando dos gráficos, ambos pueden ser figurativos. 
+Pasemos a la práctica implementando dos gráficos, ambos pueden ser figurativos. 
 
 En uno de ellos habrá que usar un `:hover` y en otro una [animación](https://developer.mozilla.org/es/docs/Web/CSS/animation) de iteración [infinita](https://developer.mozilla.org/es/docs/Web/CSS/animation-iteration-count). 
 
