@@ -8,7 +8,7 @@
 selector{propiedad:valor;}
 ```
 
-Un documento SVG puede contener a tal lenguaje, entre etiquetas `<style></style>`.
+Un documento [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial) puede contener a tal lenguaje, entre etiquetas `<style></style>`.
 
 Cuando usamos Illustrator para guardar una gráfica (figurativa, no figurativa o mixta) como un SVG, el programa genera, automáticamente, tantas reglas de CSS como sean necesarias para describir el aspecto de los elementos gráficos que contiene el SVG.
 
