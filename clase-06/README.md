@@ -57,7 +57,7 @@ Veamos como es posible, sin alejarnos del pequeño programa (o *script*) escrito
 </html>
 ```
 
-Si revisan el `ejemplo-1.html` en su navegador, verán cada cadena de caracteres del arreglo dentro de un `<text></text>` de SVG. Todos ellos están, a su vez, dentro del grupo de identidad aqui (`<g id="aqui"></g>`). 
+Si revisan el `ejemplo-1.html` en su navegador, verán cada cadena de caracteres del arreglo dentro de un `<text></text>` de SVG. Todos ellos están, a su vez, dentro del grupo de identidad `aqui` (`<g id="aqui"></g>`). 
 
 Esto es algo que también pueden ver al [**inspeccionar elementos**](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web). Pero no lo encontrarás al "Ver el código fuente", porque JavaScript no modifica lo escrito por el programador, sino la "comprensión de lectura" que tiene el navegador web para lo que lee.
 
