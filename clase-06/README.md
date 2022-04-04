@@ -12,7 +12,7 @@ Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de e
 
 Pero si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente podemos sacar provecho de cualquier ayuda para cocinar.
 
-Por eso vamos a partir con un pequeño programa (o *script*), el que debes copiar y pegar en la consola de JavaScript de tu navegador:
+Por eso vamos a partir con un pequeño programa (o *script*), el que debes copiar y pegar [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) de tu navegador:
 
 ```
 var retinal = ["size","value","texture","color","orientation","shape"];
@@ -28,7 +28,7 @@ En las tres línea del pequeño programa (o *script*) tenemos:
 
 3. Con el [método `forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) se repite un *log* en la consola **para cada** cadena (*string*) en el arreglo (*array*) ya ordenado alfabéticamente.
 
-Si vinculamos lo recién dicho con lo presentado en las clases recién pasada, ya podríamos preguntarnos: ¿Es posible vincular datos a elementos dentro de un SVG? ¡Si, es posible!
+**Si vinculamos lo recién dicho con lo presentado en las clases recién pasada, ya podríamos preguntarnos: ¿Es posible vincular datos a elementos dentro de un SVG? ¡Si, es posible!**
 
 Hagamos algo como eso, sin alejarnos muchos del pequeño programa (o *script*) escrito más arriba. Copiemos y peguemos lo siguiente en un editor de código fuente. Una vez pegado allí, guardemos el documento como `ejemplo.html`
 
