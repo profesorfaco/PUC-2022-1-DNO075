@@ -63,6 +63,10 @@ A los trabajos recién vinculados, podemos agregar algunos trabajos de estudiant
 
 **En los 12 trabajos vinculados, los estudiantes usaron HTML, CSS y JavaScript, apoyándose en [Bootstrap](https://getbootstrap.com/).** También usaron SVG, pero Bootstrap no se relaciona con tal dialecto (lo mismo pasa con las gráfica en formato JPG, PNG y GIF que pudieron encontrar en los trabajos).
 
+- - - - - - - 
+
+#### Bootstrap
+
 Así como [Foundations](https://get.foundation/) y [Semantic UI](https://semantic-ui.com/), **[Bootstrap](https://getbootstrap.com/) es un marco de trabajo  que simplifica la creación de páginas responsivas**; escogemos Bootstrap por su popularidad y constante desarrollo.
 
 Para sacarle un mejor provecho a [Bootstrap](https://getbootstrap.com/), lo primero es relacionarse con la lógica de las 12 columnas (`col`) en las que se puede dividir una fila (`row`) que se va ajustando dentro de un contenedor (`container`), porque esta es la lógica con la que [Bootstrap](https://getbootstrap.com/) se adapta a distintos tamaños de pantalla.
@@ -123,6 +127,8 @@ Podríamos necesitar una imagen a todo lo ancho de la fila dentro del contenedor
 ```
 
 En cada ejercicio desarrollado hasta esta clase, nos hemos aprovechado de esta misma lógica, sin prestarle tanta atención.
+
+En el ejercicio de esta clase, modificaremos un poco la estructura para comenzar a aprovecharla.
 
 - - - - - - - 
 
