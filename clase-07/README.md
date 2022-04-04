@@ -33,9 +33,9 @@ Los dos lenguajes (HTML y CSS) y el dialecto (SVG) se pueden combinar para obten
 </html>
 ```
 
-Si tenemos un programa de JavaScript con varios datos, podríamos crear varios círculos, cada uno con un radio determinado por los mismos datos.
+Si tenemos un programa de JavaScript con varios datos, podríamos crear en SVG varios círculos, cada uno con un radio determinado por los mismos datos.
 
-Con estos lenuajes, trabajando el conjunto, se pueden hacer cosas mucho más complejas que círculos. Podemos hacer trabajos como en versiones pasadas de este OPR:
+Con estos lenguajes, trabajando el conjunto, se pueden hacer cosas mucho más complejas que círculos. Podemos hacer trabajos como en versiones pasadas de este OPR:
 
 VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 
