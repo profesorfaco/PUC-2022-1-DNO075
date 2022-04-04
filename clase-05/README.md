@@ -5,7 +5,11 @@
 **[CSS](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics)** (Cascading Style Sheets) es un lenguaje descriptivo que podemos reconocer por sus **reglas**, que se estructuran con: 
 
 ```
-selector{propiedad:valor;}
+selector{
+ propiedad:valor;
+ propiedad:valor;
+ propiedad:valor;
+}
 ```
 
 Un documento [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial) puede contener a tal lenguaje, entre etiquetas `<style></style>`.
