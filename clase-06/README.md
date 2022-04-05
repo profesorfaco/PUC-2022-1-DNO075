@@ -8,7 +8,7 @@ Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de e
 
 - una *library* ofrece ingredientes seleccionados y preparados para que "cocines" un plato específico con el menor esfuerzo posible. 
 
-- un *framework* es una cocina dispuesta para que prepares un tipo de comida específica, con eficacia y eficiencia (una cocina de restaurant que ofrece sushi es distinta de una de restaurant de pastas o parrilladas).
+- un *framework* es una cocina dispuesta para que prepares un tipo de comida específica (una cocina de restaurant que ofrece sushi es distinta de una de restaurant de pastas o parrilladas).
 
 - un *plugin* es una solución hermética: *No sé qué ni cómo lo hice. Pero creo que es comestible*. Pensando así, ningún cocinero puede mantener por mucho tiempo su trabajo.
 
