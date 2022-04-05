@@ -125,7 +125,7 @@ Podrán notar otras diferencias entre los ejemplos 2 y 3:
 - `retinal.forEach(function (r, n) {…});` hace lo mismo que `personajes.forEach((p, n) => {…});`
 - `document.querySelector("#aqui")` hace lo mismo que `document.getElementById("aqui")`
 
-En este caso estamos trabajando con JavaScript, que es un lenguaje de programación, distinto de un lenguaje o un dialecto de descripción (HTML, CSS, SVG). Lo descriptivo debe ser tran estricto como lo programático. Pero lo descriptivo es más conservador cuando lo programático tiende a evolucionar frecuentemente: Se proponen y estandarizan maneras más eficientes de "hacer".
+En este caso estamos trabajando con JavaScript, que es un lenguaje de programación, distinto de un lenguaje o un dialecto de descripción (HTML, CSS, SVG). Lo descriptivo debe ser tran estricto como lo programático. Pero lo descriptivo es conservador comparado con lo programático que tiende a evolucionar frecuentemente: Se proponen y estandarizan maneras de "hacer" más eficientes.
 
 También podrían preguntarse: ¿Puedo mezclar ambos ejemplo para hacer un `ejemplo-4.html`, donde tenga un listado de palabras y también a los Simpsons? La respuesta es sí. Para hacerlo deben cuidarse de la repetición de identidades, porque una identidad sólo se usa una vez dentro de un documento:
 
