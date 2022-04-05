@@ -2,7 +2,7 @@
 
 ### Clase 06 → 11/04/2022
 
-**JavaScript es un lenguaje de programación con el que las páginas web se hacen interactivas mediante el control de cada navegador web y su Modelo de Objetos de Documento ([DOM; Document Object Model](https://es.wikipedia.org/wiki/Document_Object_Model))**. Si lo simplificamos: Con JavaScript se controla la "comprensión de lectura" del navegador web.
+**JavaScript es un lenguaje de programación con el que las páginas web se hacen interactivas mediante el control de cada navegador y su Modelo de Objetos de Documento ([DOM; Document Object Model](https://es.wikipedia.org/wiki/Document_Object_Model))**. Si lo simplificamos: Con JavaScript se controla la "comprensión de lectura" del navegador web.
 
 Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de estudio y práctica del que puede tomarnos dominar un lenguaje o un dialecto de descripción. Esto aplica también para programadores; por esta razón es común que expertos en programación usen *libraries* y *frameworks*, pero es raro que confiesen el uso de *plugins*:
 
