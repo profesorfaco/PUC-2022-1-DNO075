@@ -39,7 +39,7 @@ Revisemos lo recién presentado en el siguiente código generado por Adobe Illus
 
 Primero leamos lo que está entre de las etiquetas `<style></style>`. La regla cuyo selector es una clase de nombre `st0`, tiene una propiedad de relleno de valor rojo en [código de color hexadecimal](https://htmlcolorcodes.com/es/). La regla de cuyo selector es una clase de nombre `st1`, tiene un relleno amarillo. Mientras que la regla cuyo selector es una clase de nombre `st2`, verde.
 
-Fuera y seguido de las etiquetas `<style></style>`, tenemos tres circulos, cuyo centro está en distintas posiciones en la horizontal. Al primer círculo se le asigna la clase `st0`, al segundo la `st1` y al tercer la `st2`. Con esto, los círculos se verán rojo, amarillo y verde. 
+Fuera y seguido de las etiquetas `<style></style>`, tenemos tres circulos, cuyo centro está en distintas posiciones en la horizontal. Al primer círculo se le asigna la clase `st0`, al segundo la `st1` y al tercero la `st2`. Con esto, los círculos se verán rojo, amarillo y verde. 
 
 A las clases de CSS se pueden agregar las [pseudoclases](https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes), que son palabras clave que se añaden inmediatamente después de los selectores, y que especifican un estado especial del elemento seleccionado. Por ejemplo, `:hover` aplicará un estilo cuando el usuario haga rondar el puntero del mouse sobre el elemento correspondiente.
 
