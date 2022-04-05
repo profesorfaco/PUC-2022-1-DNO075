@@ -176,7 +176,7 @@ También podrían preguntarse: ¿Puedo mezclar ambos ejemplo para hacer un `ejem
 
 Por favor cambien los datos para presentar otro asunto incluido en [la síntesis de resultados del Censo 2017](http://www.censo2017.cl/descargas/home/sintesis-de-resultados-censo2017.pdf). Y cambien colores de las barras con [la pseudoclase `:nth-child()` de CSS](https://developer.mozilla.org/es/docs/Web/CSS/:nth-child). 
 
-También corresponde modificar el título, subtítulo y párrafos de texto para darle un sentido a lo que presentan. Pero [eviten escribir tales párrafos como si fuesen a ser leídos en un documento impreso](https://www.nngroup.com/articles/how-users-read-on-the-web/).
+También corresponde modificar el título, subtítulo y párrafos de texto para darle un sentido a lo que presentan. Pero [eviten escribir los párrafos tal como escribirían para documentos impresos](https://www.nngroup.com/articles/how-users-read-on-the-web/).
 
 Convendía subir los cuatro ejemplos que prepararon en la misma carpeta de repositorio.
 
