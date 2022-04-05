@@ -55,7 +55,7 @@ Con los cambios de la tercera línea se le pide al navegador hacer lo siguiente 
 - `document.querySelector("body")` Busca en el documento al elemento `body`
 - `.innerHTML` Incluye algo de HTML en el elemento que ya fuiste a buscar
 - `+=` Esto es lo que te corresponde incluir (sin borrar lo anterior)
-- `'<p>'+ x +'</p>'` Concatena al inicio de cada `x` una etiqueta de apertura de párrafo y al final una de cierre (de tal manera el HTML que se incluye cada vez es un párrafo)
+- `'<p>'+ x +'</p>'` Antes de cada `x` pon un etiqueta de apertura de párrafo y después una de cierre (de tal manera el HTML que se incluye cada vez es un párrafo)
 
 **Si vinculamos lo recién presentado con lo aprendido sobre [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial) (que es un dialecto muy parecido a [HTML](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics)), ya podríamos sospechar que es posible dibujar un SVG según una serie de datos; veamos como se puede hacer esto sin alejarnos del pequeño programa (o *script*) que venimos usando**. 
 
