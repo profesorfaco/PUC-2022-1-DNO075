@@ -2,7 +2,7 @@
 
 ### Clase 09 → 09/05/2022
 
-En la [clase 6](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-06), aprendimos que JavaScript es un lenguaje de programación con el que las páginas web se hacen interactivas mediante la manipulación del Modelo de Objetos de Documento, que es como la interpretación de lectura que hace cada navegador del código fuente. 
+En la [clase 7](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-07), aprendimos que JavaScript es un lenguaje de programación con el que las páginas web se hacen interactivas mediante la manipulación del Modelo de Objetos de Documento, que es como la interpretación de lectura que hace cada navegador del código fuente. 
 
 A través de pequeños programas (*scripts*), hicimos que JavaScript metiera elementos a un SVG, para visualizar los datos contenidos en una variable. Y lo mismo podemos hacer cuando trabajamos con HTML. Obviamente, hay muchas cosas que más que se pueden hacer, pero este curso se enfoca en los desafíos de la infografía digital.
 
