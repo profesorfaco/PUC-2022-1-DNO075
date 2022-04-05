@@ -52,12 +52,12 @@ retinal.forEach(x => console.log(x));
 
 Con los cambios de la tercera línea se le pide al navegador hacer lo siguiente **para cada** cadena (*string*) en el arreglo (*array*) ya ordenado alfabéticamente:
 
-- `document.querySelector("body")` Busca en el documento al elemento `body`.
-- `.innerHTML` Incluye algo de HTML en el elemento que ya fuiste a buscar. 
-- `+=` Esto es lo que te corresponde incluir (sin borrar lo anterior).
-- `'<p>'+ x +'</p>'` Concatena al inicio de cada `x` una etiqueta de apertura de párrafo y al final una de cierre (de tal manera el HTML que se incluye cada vez es un párrafo).
+- `document.querySelector("body")` Busca en el documento al elemento `body`
+- `.innerHTML` Incluye algo de HTML en el elemento que ya fuiste a buscar
+- `+=` Esto es lo que te corresponde incluir (sin borrar lo anterior)
+- `'<p>'+ x +'</p>'` Concatena al inicio de cada `x` una etiqueta de apertura de párrafo y al final una de cierre (de tal manera el HTML que se incluye cada vez es un párrafo)
 
-**Si vinculamos lo recién presentado con lo aprendido sobre SVG (que es un dialecto muy parecido a HTML), ya podríamos sospechar que es posible dibujar un SVG según una serie de datos; veamos como se puede hacer esto sin alejarnos del pequeño programa (o *script*) que venimos usando**. 
+**Si vinculamos lo recién presentado con lo aprendido sobre [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial) (que es un dialecto muy parecido a [HTML](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics)), ya podríamos sospechar que es posible dibujar un SVG según una serie de datos; veamos como se puede hacer esto sin alejarnos del pequeño programa (o *script*) que venimos usando**. 
 
 Copiemos y peguemos lo que sigue en un nuevo documento creado en un editor de código fuente. Una vez pegado allí, guardemos el documento como `ejemplo-2.html`
 
