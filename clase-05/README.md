@@ -12,7 +12,7 @@ selector{
 }
 ```
 
-Un documento [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial) puede contener a tal lenguaje, entre etiquetas `<style></style>`.
+**Un documento [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial) puede contener a tal lenguaje, entre etiquetas `<style></style>`**.
 
 Cuando usamos Illustrator para guardar una gráfica (figurativa, no figurativa o mixta) como un SVG, el programa genera automáticamente tantas **reglas de [CSS]((https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics))** como sean necesarias para describir el aspecto de los elementos gráficos que contiene el SVG.
 
@@ -109,6 +109,8 @@ Pueden encontrar más ejemplos de animaciones en:
 - https://profesorfaco.github.io/dno075-2022-1/clase-05/img/ejemplo-animacion-5.svg
 - https://profesorfaco.github.io/dno075-2022-1/clase-05/img/ejemplo-animacion-6.svg
 - https://profesorfaco.github.io/dno075-2022-1/clase-05/img/blip.svg
+
+Los ejemplos 4,5 y 6 utilizan [*Clipping and masking*](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Clipping_and_masking).
 
 Hay otra manera de hacer animación con SVG, que no usa CSS (Cascading Style Sheets) sino SMIL (Synchronized Multimedia Integration Language), pero conviene revisar el aviso que nos entrega MDN: https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL
 
