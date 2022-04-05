@@ -52,8 +52,8 @@ retinal.forEach(x => console.log(x));
 
 Con los cambios de la tercera línea se le pide al navegador hacer lo siguiente **para cada** cadena (*string*) en el arreglo (*array*) ya ordenado alfabéticamente:
 
-- `document.querySelector("body")` Busca en el documento el elemento `body`.
-- `.innerHTML` Incluye algo de HTML en el elemento que ya buscaste. 
+- `document.querySelector("body")` Busca en el documento al elemento `body`.
+- `.innerHTML` Incluye algo de HTML en el elemento que ya fuiste a buscar. 
 - `+=` Esto es lo que te corresponde incluir (sin borrar lo anterior).
 - `'<p>'+ x +'</p>'` Concatena al inicio de cada `x` una etiqueta de apertura de párrafo y al final una de cierre (de tal manera el HTML que se incluye cada vez es un párrafo).
 
