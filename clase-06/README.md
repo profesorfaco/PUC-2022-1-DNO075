@@ -14,7 +14,7 @@ Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de e
 
 Sigamos estirando la metáfora de la cocina: Si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente podemos sacar provecho de cualquier ayuda para cocinar hasta lo más simple: *¡No podríamos preparar ni un tecito!*
 
-**Para poder preparar un tecito, vamos a partir con un pequeño programa (o *script*), que tenemos que copiar y pegar [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) del navegador web**: 
+**Para poder preparar un tecito, vamos a partir con un pequeño programa (o *script*). Tenemos que copiar y pegar [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) del navegador web lo siguiente**: 
 
 ```
 var retinal = ["size","value","texture","color","orientation","shape"];
