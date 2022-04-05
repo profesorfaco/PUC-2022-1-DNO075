@@ -6,15 +6,15 @@
 
 Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de estudio y práctica del que puede tomarnos dominar un lenguaje o un dialecto de descripción. Esto aplica también para programadores; por esta razón es común que expertos en programación usen *libraries* y *frameworks*, pero es raro que confiesen el uso de *plugins*:
 
-- una *library* ofrece ingredientes seleccionados y preparados para que cocines un plato específico con el menor esfuerzo posible. 
+- una *library* ofrece algo como ingredientes seleccionados y preparados para que cocines un plato específico con el menor esfuerzo posible. 
 
-- un *framework* es una cocina dispuesta para que prepares un tipo de comida específica (una cocina de restaurant que ofrece sushi es distinta de una de restaurant de pastas o parrilladas).
+- un *framework* es como una cocina dispuesta para que prepares un tipo de comida específica (una cocina de restaurant que ofrece sushi es distinta de una de restaurant de pastas o parrilladas).
 
-- un *plugin* es una solución hermética: *No sé qué ni cómo lo hice. Pero creo que es comestible*. Con una confesión de ese tipo, ningún cocinero mantendría su trabajo en un buen restaurant.
+- un *plugin* es una solución ajena y hermética: *No sé quién lo hizo ni cómo lo hizo. Pero creo que es comestible*. Con una confesión de ese tipo, ningún cocinero mantendría su trabajo en un buen restaurant.
 
 Sigamos estirando la metáfora de la cocina: Si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente podemos sacar provecho de cualquier ayuda para cocinar hasta lo más simple: *¡No podríamos preparar ni un tecito!*
 
-**Para poder preparar un tecito, vamos a partir con un pequeño programa (o *script*). Tenemos que copiar y pegar [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) del navegador web lo siguiente**: 
+**Para poder preparar algo como un tecito, vamos a partir con un pequeño programa (o *script*). Tenemos que copiar y pegar [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) del navegador web lo siguiente**: 
 
 ```
 var retinal = ["size","value","texture","color","orientation","shape"];
