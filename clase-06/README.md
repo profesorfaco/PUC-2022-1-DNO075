@@ -6,11 +6,11 @@
 
 Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de estudio y práctica del que puede tomarnos dominar un lenguaje o un dialecto de descripción. Esto aplica también para programadores; por esta razón, es común que expertos en programación usen *libraries* y *frameworks*, pero nunca *plugins*:
 
-- una *library* ofrece ingredientes seleccionados y preparados para que "cocines" un plato específico con el menor esfuerzo posible. 
+- una *library* ofrece ingredientes seleccionados y preparados para que cocines un plato específico con el menor esfuerzo posible. 
 
 - un *framework* es una cocina dispuesta para que prepares un tipo de comida específica (una cocina de restaurant que ofrece sushi es distinta de una de restaurant de pastas o parrilladas).
 
-- un *plugin* es una solución hermética: *No sé qué ni cómo lo hice. Pero creo que es comestible*. Pensando así, ningún cocinero puede mantener por mucho tiempo su trabajo.
+- un *plugin* es una solución hermética: *No sé qué ni cómo lo hice. Pero creo que es comestible*. Pensando así, ningún cocinero puede mantener por mucho tiempo su trabajo en un buen restaurant.
 
 Sigamos estirando la metáfora de la cocina: Si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente podemos sacar provecho de cualquier ayuda para cocinar hasta lo más simple: No podría prepar ni un tecito.
 
