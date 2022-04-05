@@ -10,7 +10,7 @@ Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de e
 
 - un *framework* es una cocina dispuesta para que prepares un tipo de comida específica, con eficacia y eficiencia (una cocina de restaurant que ofrece sushi es distinta de una de restaurant de pastas o parrilladas).
 
-- un *plugin* es una solución ciega: *No sé qué ni cómo lo hice. Pero creo que es comestible* ¡No es recomendable usarlos!
+- un *plugin* es una solución hermética: *No sé qué ni cómo lo hice. Pero creo que es comestible* ¡No es recomendable usarlos!
 
 Estiremos la metáfora de la cocina: Si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente podemos sacar provecho de cualquier ayuda para cocinar.
 
