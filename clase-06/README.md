@@ -14,15 +14,15 @@ Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de e
 
 Estiremos la metáfora de la cocina: Si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente podemos sacar provecho de cualquier ayuda para cocinar.
 
-Por eso vamos a partir con un pequeño programa (o *script*), que debes copiar y pegar [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) de tu navegador:
+**Por eso vamos a partir con un pequeño programa (o *script*), que debes copiar y pegar [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) de tu navegador**:
 
 ```
 var retinal = ["size","value","texture","color","orientation","shape"];
 retinal.sort();
-retinal.forEach(element => console.log(element));
+retinal.forEach(x => console.log(x));
 ```
 
-En las tres línea del pequeño programa (o *script*) tenemos: 
+**En las tres línea del pequeño programa (o *script*) tenemos**: 
 
 1. Una declaración de variable de nombre `retina`, que se inicia conteniendo un arreglo (*array*) con 6 cadenas (*string*) de caracteres entre comillas.
 
@@ -30,7 +30,7 @@ En las tres línea del pequeño programa (o *script*) tenemos:
 
 3. Con el [método `forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) se repite un *log* en la consola **para cada** cadena (*string*) en el arreglo (*array*) ya ordenado alfabéticamente.
 
-**Sumemos unas pequeñas modificaciones en la tercera línea del script, y pongámoslo dentro de un HTML al que podemos guardar con el nombre `ejemplo-1.html`**
+**Sumemos unas pequeñas modificaciones en la tercera línea del script, y pongámoslo dentro de un HTML al que podemos guardar con el nombre `ejemplo-1.html`**:
 
 ```
 <!DOCTYPE html>
@@ -44,7 +44,7 @@ En las tres línea del pequeño programa (o *script*) tenemos:
         <script>
             var retinal = ["size","value","texture","color","orientation","shape"];
             retinal.sort();
-            retinal.forEach(element => document.querySelector("body").innerHTML += '<p>'+element+'</p>');
+            retinal.forEach(x => document.querySelector("body").innerHTML += '<p>'+ x +'</p>');
         </script>
     </body>
 </html>
@@ -53,13 +53,13 @@ En las tres línea del pequeño programa (o *script*) tenemos:
 Con los cambios de la tercera línea se instruye al navegador hacer lo siguiente:
 
 - `document.querySelector("body")`: Busca en el documento el elemento `body`.
-- `.innerHTML` Incluye algo de HTML donde sea que se le indique. 
+- `.innerHTML` Incluye algo de HTML en el elemento que ya buscaste. 
 - `+=` Esto es lo que te corresponde incluir.
-- `'<p>'+element+'</p>'` Concatena al inicio de cada `element` una etiqueta de apertura de párrafo y al final una de cierre.
+- `'<p>'+ x +'</p>'` Concatena al inicio de cada `x` una etiqueta de apertura de párrafo y al final una de cierre.
 
-**Si vinculamos lo recién dicho con lo presentado sobre SVG, ya podríamos preguntarnos: ¿Es posible vincular datos a elementos dentro de un SVG? ¡Si, es posible!**
+**Si vinculamos lo recién dicho con lo presentado sobre SVG (que es un dialecto muy parecido a HTML), ya podríamos preguntarnos: ¿Es posible dibujar desde datos dentro de un SVG? ¡Si, es posible!**
 
-Veamos como es posible, sin alejarnos del pequeño programa (o *script*) escrito más arriba. Copiemos y peguemos lo que sigue en un nuevo documento creado en un editor de código fuente. Una vez pegado allí, guardemos el documento como `ejemplo-2.html`
+Veamos como es posible, sin alejarnos del pequeño programa (o *script*) que venimos usando. Copiemos y peguemos lo que sigue en un nuevo documento creado en un editor de código fuente. Una vez pegado allí, guardemos el documento como `ejemplo-2.html`
 
 ```
 <!DOCTYPE html>
@@ -84,10 +84,9 @@ Veamos como es posible, sin alejarnos del pequeño programa (o *script*) escrito
 </html>
 ```
 
-Si revisan el `ejemplo-1.html` en su navegador, verán cada cadena de caracteres del arreglo dentro de un `<text></text>` de SVG. Todos ellos están, a su vez, dentro del grupo de identidad `aqui` (`<g id="aqui"></g>`). 
+Si revisan el `ejemplo-2.html` en su navegador, verán cada cadena de caracteres del arreglo dentro de un `<text></text>` de SVG. Todos ellos están, a su vez, dentro del grupo de identidad `aqui` (`<g id="aqui"></g>`). 
 
 Esto es algo que también pueden ver al [**inspeccionar elementos**](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web). Pero no lo encontrarás al "Ver el código fuente", porque JavaScript no modifica lo escrito por el programador, sino la "comprensión de lectura" que tiene el navegador web para lo que lee.
-
 
 Demos un paso más creando un nuevo documento al que llamaremos `ejemplo-3.html`. Allí peguemos el siguiente código:
 
@@ -126,9 +125,9 @@ Podrán notar otras diferencias entre los ejemplos 2 y 3:
 - `retinal.forEach(function (r, n) {…});` hace lo mismo que `personajes.forEach((p, n) => {…});`
 - `document.querySelector("#aqui")` hace lo mismo que `document.getElementById("aqui")`
 
-En este caso estamos trabajando con un lenguaje de programación, distinto de un lenguaje o un dialecto de descripción. Lo descriptivo y lo programático es estrictos. Pero lo descriptivo es más conservador cuando lo programático tiende a evolucionar frecuentemente: Se proponen y estandarizan maneras más eficientes de "hacer".
+En este caso estamos trabajando con JavaScript, que es un lenguaje de programación, distinto de un lenguaje o un dialecto de descripción (HTML, CSS, SVG). Lo descriptivo debe ser tran estricto como lo programático. Pero lo descriptivo es más conservador cuando lo programático tiende a evolucionar frecuentemente: Se proponen y estandarizan maneras más eficientes de "hacer".
 
-También podrían preguntarse: ¿Puedo mezclar ambos ejemplo para hacer un `ejemplo-3.html`, donde tenga un listado de palabras y también a los Simpsons? La respuesta es sí. Para hacerlo deben cuidarse de la repetición de identidades, porque una identidad sólo se usa una vez dentro de una página:
+También podrían preguntarse: ¿Puedo mezclar ambos ejemplo para hacer un `ejemplo-4.html`, donde tenga un listado de palabras y también a los Simpsons? La respuesta es sí. Para hacerlo deben cuidarse de la repetición de identidades, porque una identidad sólo se usa una vez dentro de un documento:
 
 ```
 <!DOCTYPE html>
@@ -166,6 +165,7 @@ También podrían preguntarse: ¿Puedo mezclar ambos ejemplo para hacer un `ejem
 </html>
 ```
 
+
 - - - - - - - 
 
 #### EJERCICIO
@@ -174,8 +174,7 @@ También podrían preguntarse: ¿Puedo mezclar ambos ejemplo para hacer un `ejem
 
 Para su entrega, generen otro gráfico de barras con otros datos de [la síntesis de resultados del Censo 2017](https://www.censo2017.cl/descargas/home/sintesis-de-resultados-censo2017.pdf).
 
-Además suban los tres ejemplos que pudieron preparar dentro de la misma carpeta de repositorio.
-
+Además suban los cuatro ejemplos que pudieron preparar dentro de la misma carpeta de repositorio.
 
 - - - - - - - 
  
