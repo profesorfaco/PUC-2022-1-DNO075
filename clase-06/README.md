@@ -30,7 +30,7 @@ retinal.forEach(x => console.log(x));
 
 3. Con el [método `forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) se repite un *log* en la consola **para cada** cadena (*string*) en el arreglo (*array*) ya ordenado alfabéticamente.
 
-**Sumemos unas pequeñas modificaciones en la tercera línea del script, y pongámoslo dentro de un HTML al que podemos guardar con el nombre `ejemplo-1.html`**:
+**Sumemos unas pequeñas modificaciones en la tercera línea del pequeño programa (*script*), y pongámoslo dentro de un HTML al que podemos guardar con el nombre `ejemplo-1.html`**:
 
 ```
 <!DOCTYPE html>
@@ -50,16 +50,18 @@ retinal.forEach(x => console.log(x));
 </html>
 ```
 
-Con los cambios de la tercera línea se instruye al navegador hacer lo siguiente:
+Con los cambios de la tercera línea se le pide al navegador hacer lo siguiente:
 
 - `document.querySelector("body")`: Busca en el documento el elemento `body`.
 - `.innerHTML` Incluye algo de HTML en el elemento que ya buscaste. 
 - `+=` Esto es lo que te corresponde incluir.
 - `'<p>'+ x +'</p>'` Concatena al inicio de cada `x` una etiqueta de apertura de párrafo y al final una de cierre.
 
-**Si vinculamos lo recién dicho con lo presentado sobre SVG (que es un dialecto muy parecido a HTML), ya podríamos preguntarnos: ¿Es posible dibujar desde datos dentro de un SVG? ¡Si, es posible!**
+**Si vinculamos lo recién dicho con lo presentado sobre SVG (que es un dialecto muy parecido a HTML), ya podríamos preguntarnos: ¿Es posible dibujar desde datos dentro de un SVG?** 
 
-Veamos como es posible, sin alejarnos del pequeño programa (o *script*) que venimos usando. Copiemos y peguemos lo que sigue en un nuevo documento creado en un editor de código fuente. Una vez pegado allí, guardemos el documento como `ejemplo-2.html`
+**¡Si, es posible!** Veamos como se puede hacer sin alejarnos del pequeño programa (o *script*) que venimos usando. 
+
+Copiemos y peguemos lo que sigue en un nuevo documento creado en un editor de código fuente. Una vez pegado allí, guardemos el documento como `ejemplo-2.html`
 
 ```
 <!DOCTYPE html>
@@ -88,7 +90,7 @@ Si revisan el `ejemplo-2.html` en su navegador, verán cada cadena de caracteres
 
 Esto es algo que también pueden ver al [**inspeccionar elementos**](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web). Pero no lo encontrarás al "Ver el código fuente", porque JavaScript no modifica lo escrito por el programador, sino la "comprensión de lectura" que tiene el navegador web para lo que lee.
 
-Demos un paso más creando un nuevo documento al que llamaremos `ejemplo-3.html`. Allí peguemos el siguiente código:
+Demos un paso más creando un nuevo documento, al que llamaremos `ejemplo-3.html`. Allí peguemos el siguiente código:
 
 ```
 <!DOCTYPE html>
