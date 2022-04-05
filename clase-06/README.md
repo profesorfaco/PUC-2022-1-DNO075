@@ -170,9 +170,9 @@ También podrían preguntarse: ¿Puedo mezclar ambos ejemplo para hacer un `ejem
 
 #### EJERCICIO
 
-**Hay un documento [compartido en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-06/) de repositorio**: 
+**Usaremos sólo uno de los documentos [compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-06/) de repositorio**: 
 
-**Un `index.html` que contiene un arreglo con datos del CENSO 2017**. 
+**El `index.html` que contiene un arreglo con datos del CENSO 2017**. 
 
 Para su entrega, cambien los datos para presentar otro asunto incluido en [la síntesis de resultados del Censo 2017](https://www.censo2017.cl/descargas/home/sintesis-de-resultados-censo2017.pdf). También corresponde modificar el título, subtítulo y párrafos de texto.
 
