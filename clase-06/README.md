@@ -57,7 +57,7 @@ Con los cambios de la tercera línea se le pide al navegador hacer lo siguiente 
 - `+=` Esto es lo que te corresponde incluir (sin borrar lo anterior)
 - `'<p>'+ x +'</p>'` Antes de cada `x` pon un etiqueta de apertura de párrafo y después una de cierre (de tal manera el HTML que se incluye cada vez es un párrafo)
 
-**Si vinculamos lo recién presentado con lo aprendido sobre [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial) (que es un dialecto con elementos, muy parecido a [HTML](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics)), ya podríamos sospechar que es posible dibujar un SVG según una serie de datos; veamos como se puede hacer esto sin alejarnos del pequeño programa (o *script*) que venimos usando**. 
+**Si vinculamos lo recién presentado con lo aprendido sobre [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial) (que es un dialecto con elementos, muy parecido a [HTML](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics)), ya podríamos sospechar que es posible dibujar un SVG desde una serie de datos; veamos como se puede hacer esto sin alejarnos del pequeño programa (o *script*) que venimos usando**. 
 
 Copiemos y peguemos lo que sigue en un nuevo documento creado en un editor de código fuente. Una vez pegado allí, guardemos el documento como `ejemplo-2.html`
 
