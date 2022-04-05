@@ -26,7 +26,7 @@ retinal.forEach(x => console.log(x));
 
 1. Una declaración de variable de nombre `retina`, que se inicia conteniendo un arreglo (*array*) con 6 cadenas (*string*) de caracteres entre comillas.
 
-2. Una reorganización alfabética del arreglo contenido por la variable de nombre `retina`, mediante el [método `sort()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+2. Una reorganización alfabética del arreglo contenido por la variable de nombre `retina`, mediante el [método `sort()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/sort).
 
 3. Con el [método `forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) se repite un *log* en la consola **para cada** cadena (*string*) en el arreglo (*array*) ya ordenado alfabéticamente.
 
@@ -52,10 +52,10 @@ retinal.forEach(x => console.log(x));
 
 Con los cambios de la tercera línea se le pide al navegador hacer lo siguiente para cada cadena (*string*) en el arreglo (*array*) ya ordenado alfabéticamente:
 
-- `document.querySelector("body")` Busca en el documento al elemento `body`
-- `.innerHTML` Incluye algo de HTML en el elemento que ya fuiste a buscar
-- `+=` Esto es lo que te corresponde incluir (sin borrar lo anterior)
-- `'<p>'+ x +'</p>'` Antes de cada `x` pon un etiqueta de apertura de párrafo y después una de cierre (de tal manera el HTML que se incluye cada vez es un párrafo)
+- `document.querySelector("body")` Busca en el documento al elemento `body`.
+- `.innerHTML` Incluye algo de HTML en el elemento que ya fuiste a buscar.
+- `+=` Esto es lo que te corresponde incluir (sin borrar lo anterior).
+- `'<p>'+ x +'</p>'` Antes de cada `x` pon un etiqueta de apertura de párrafo y después una de cierre (de tal manera el HTML que se incluye cada vez es un párrafo).
 
 **Si vinculamos lo recién presentado con lo aprendido sobre [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial) (que es un dialecto con elementos, muy parecido a [HTML](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics)), ya podríamos sospechar que es posible dibujar un SVG desde una serie de datos; veamos como se puede hacer esto sin alejarnos del pequeño programa (o *script*) que venimos usando**. 
 
