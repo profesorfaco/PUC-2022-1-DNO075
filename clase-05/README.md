@@ -110,7 +110,7 @@ Pueden encontrar más ejemplos de animaciones en:
 - https://profesorfaco.github.io/dno075-2022-1/clase-05/img/ejemplo-animacion-6.svg
 - https://profesorfaco.github.io/dno075-2022-1/clase-05/img/blip.svg
 
-Los ejemplos 4,5 y 6 utilizan [*Clipping and masking*](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Clipping_and_masking).
+Los ejemplos 4,5 y 6 utilizan [`clipPath`](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/clipPath).
 
 Hay otra manera de hacer animación con SVG, que no usa CSS (Cascading Style Sheets) sino SMIL (Synchronized Multimedia Integration Language), pero conviene revisar el aviso que nos entrega MDN: https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL
 
