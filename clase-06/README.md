@@ -12,7 +12,7 @@ Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de e
 
 - un *plugin* es una solución hermética: *No sé qué ni cómo lo hice. Pero creo que es comestible*. Con una confesión de ese tipo, ningún cocinero mantendría su trabajo en un buen restaurant.
 
-Sigamos estirando la metáfora de la cocina: Si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente podemos sacar provecho de cualquier ayuda para cocinar hasta lo más simple: No podría prepar ni un tecito.
+Sigamos estirando la metáfora de la cocina: Si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente podemos sacar provecho de cualquier ayuda para cocinar hasta lo más simple: No podríamos prepar ni un tecito.
 
 **Por eso vamos a partir con un pequeño programa (o *script*), que tenemos que copiar y pegar [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) del navegador web**: 
 
