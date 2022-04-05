@@ -174,11 +174,11 @@ También podrían preguntarse: ¿Puedo mezclar ambos ejemplo para hacer un `ejem
 
 **El [`index.html`](https://github.com/profesorfaco/dno075-2022-1/blob/main/clase-06/index.html) que contiene un arreglo con datos del CENSO 2017**. 
 
+Por favor cambien los datos para presentar otro asunto incluido en [la síntesis de resultados del Censo 2017](http://www.censo2017.cl/descargas/home/sintesis-de-resultados-censo2017.pdf). Y vean cómo puede ayudarles [la pseudoclase `:nth-child()` de CSS](https://developer.mozilla.org/es/docs/Web/CSS/:nth-child) en la definición de colores para las barras. 
 
+También corresponde modificar el título, subtítulo y párrafos de texto para darle un sentido a lo que presentan. Pero [eviten escribir tales párrafos como si fuesen para un documento impreso](https://www.nngroup.com/articles/how-users-read-on-the-web/).
 
-Para su entrega, cambien los datos para presentar otro asunto incluido en [la síntesis de resultados del Censo 2017](https://www.censo2017.cl/descargas/home/sintesis-de-resultados-censo2017.pdf). También corresponde modificar el título, subtítulo y párrafos de texto.
-
-También podrán subir los cuatro ejemplos que prepararon en la misma carpeta de repositorio.
+Convendía subir los cuatro ejemplos que prepararon en la misma carpeta de repositorio.
 
 - - - - - - - 
  
