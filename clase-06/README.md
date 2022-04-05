@@ -2,19 +2,19 @@
 
 ### Clase 06 → 11/04/2022
 
-**JavaScript es un lenguaje de programación con el que las páginas web se hacen interactivas mediante el control de cada navegador web y su Modelo de Objetos de Documento ([DOM; Document Object Model](https://es.wikipedia.org/wiki/Document_Object_Model))**: Con JavaScript se controla, a través de pequeños programas (o *scripts*), la "comprensión de lectura" del navegador web. Por este motivo pueden haber diferencias entre **ver código fuente** e [**inspeccionar elementos**](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web).
+**JavaScript es un lenguaje de programación con el que las páginas web se hacen interactivas mediante el control de cada navegador web y su Modelo de Objetos de Documento ([DOM; Document Object Model](https://es.wikipedia.org/wiki/Document_Object_Model))**. Si lo simplificamos: Con JavaScript se controla, a través de pequeños programas (o *scripts*), la "comprensión de lectura" del navegador web. Por este motivo pueden haber diferencias entre **ver código fuente** e [**inspeccionar elementos**](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web).
 
-Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de estudio y práctica del que puede tomarnos dominar un lenguaje o un dialecto de descripción. Esto no solo aplica a diseñadores, también aplica a programadores; por esta razón, es común que expertos en programación usen *libraries* y *frameworks*, pero nunca *plugins*:
+Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de estudio y práctica del que puede tomarnos dominar un lenguaje o un dialecto de descripción. Esto aplica también para programadores; por esta razón, es común que expertos en programación usen *libraries* y *frameworks*, pero nunca *plugins*:
 
 - una *library* ofrece ingredientes seleccionados y preparados para que "cocines" un plato específico con el menor esfuerzo posible. 
 
 - un *framework* es una cocina dispuesta para que prepares un tipo de comida específica, con eficacia y eficiencia (una cocina de restaurant que ofrece sushi es distinta de una de restaurant de pastas o parrilladas).
 
-- un *plugin* es una solución hermética: *No sé qué ni cómo lo hice. Pero creo que es comestible* ¡No es recomendable usarlos!
+- un *plugin* es una solución hermética: *No sé qué ni cómo lo hice. Pero creo que es comestible*. Pensando así, ningún cocinero puede mantener por mucho tiempo su trabajo.
 
-Estiremos la metáfora de la cocina: Si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente podemos sacar provecho de cualquier ayuda para cocinar.
+Sigamos estirando la metáfora de la cocina: Si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente podemos sacar provecho de cualquier ayuda para cocinar hasta lo más simple: No podría prepar ni un tecito.
 
-**Por eso vamos a partir con un pequeño programa (o *script*), que debes copiar y pegar [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) de tu navegador**: 
+**Por eso vamos a partir con un pequeño programa (o *script*), que tenemos que copiar y pegar [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) del navegador web**: 
 
 ```
 var retinal = ["size","value","texture","color","orientation","shape"];
@@ -57,7 +57,7 @@ Con los cambios de la tercera línea se le pide al navegador hacer lo siguiente 
 - `+=` Esto es lo que te corresponde incluir (sin borrar lo anterior)
 - `'<p>'+ x +'</p>'` Antes de cada `x` pon un etiqueta de apertura de párrafo y después una de cierre (de tal manera el HTML que se incluye cada vez es un párrafo)
 
-**Si vinculamos lo recién presentado con lo aprendido sobre [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial) (que es un dialecto muy parecido a [HTML](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics)), ya podríamos sospechar que es posible dibujar un SVG según una serie de datos; veamos como se puede hacer esto sin alejarnos del pequeño programa (o *script*) que venimos usando**. 
+**Si vinculamos lo recién presentado con lo aprendido sobre [SVG](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial) (que es un dialecto con elementos, muy parecido a [HTML](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics)), ya podríamos sospechar que es posible dibujar un SVG según una serie de datos; veamos como se puede hacer esto sin alejarnos del pequeño programa (o *script*) que venimos usando**. 
 
 Copiemos y peguemos lo que sigue en un nuevo documento creado en un editor de código fuente. Una vez pegado allí, guardemos el documento como `ejemplo-2.html`
 
