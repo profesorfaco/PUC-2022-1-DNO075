@@ -14,7 +14,7 @@ Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de e
 
 Estiremos la metáfora de la cocina: Si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente podemos sacar provecho de cualquier ayuda para cocinar.
 
-**Por eso vamos a partir con un pequeño programa (o *script*), que debes copiar y pegar [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) de tu navegador**:
+**Por eso vamos a partir con un pequeño programa (o *script*), que debes copiar y pegar [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) de tu navegador**: 
 
 ```
 var retinal = ["size","value","texture","color","orientation","shape"];
@@ -50,7 +50,7 @@ retinal.forEach(x => console.log(x));
 </html>
 ```
 
-Con los cambios de la tercera línea se le pide al navegador hacer lo siguiente **para cada** cadena (*string*) en el arreglo (*array*) ya ordenado alfabéticamente:
+Con los cambios de la tercera línea se le pide al navegador hacer lo siguiente para cada cadena (*string*) en el arreglo (*array*) ya ordenado alfabéticamente:
 
 - `document.querySelector("body")` Busca en el documento al elemento `body`
 - `.innerHTML` Incluye algo de HTML en el elemento que ya fuiste a buscar
@@ -77,7 +77,7 @@ Copiemos y peguemos lo que sigue en un nuevo documento creado en un editor de c�
             var retinal = ["size", "value", "texture", "color", "orientation", "shape"];
             retinal.sort();
             retinal.forEach(function (r, n) {
-                document.querySelector("#aqui").innerHTML += '<text x="50" y="' + 20 * (n + 1) + '">' + r + "</text>";
+                document.querySelector("#aqui").innerHTML += '<text x="50" y="' + 20 * (n + 1) + '">' + r + '</text>';
             });
         </script>
     </body>
