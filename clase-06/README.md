@@ -30,9 +30,36 @@ En las tres línea del pequeño programa (o *script*) tenemos:
 
 3. Con el [método `forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) se repite un *log* en la consola **para cada** cadena (*string*) en el arreglo (*array*) ya ordenado alfabéticamente.
 
-**Si vinculamos lo recién dicho con lo presentado en las clases recién pasada, ya podríamos preguntarnos: ¿Es posible vincular datos a elementos dentro de un SVG? ¡Si, es posible!**
+**Sumemos unas pequeñas modificaciones en la tercera línea del script, y pongámoslo dentro de un HTML al que podemos guardar con el nombre `ejemplo-1.html`**
 
-Veamos como es posible, sin alejarnos del pequeño programa (o *script*) escrito más arriba. Copiemos y peguemos lo que sigue en un nuevo documento creado en un editor de código fuente. Una vez pegado allí, guardemos el documento como `ejemplo-1.html`
+```
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>¡Guárdalo como HTML!</title>
+    </head>
+    <body>
+        <script>
+            var retinal = ["size","value","texture","color","orientation","shape"];
+            retinal.sort();
+            retinal.forEach(element => document.querySelector("body").innerHTML += '<p>'+element+'</p>');
+        </script>
+    </body>
+</html>
+```
+
+Con los cambios de la tercera línea se instruye al navegador hacer lo siguiente:
+
+- `document.querySelector("body")`: Busca en el documento el elemento `body`.
+- `.innerHTML` Incluye algo de HTML donde sea que se le indique. 
+- `+=` Esto es lo que te corresponde incluir.
+- `'<p>'+element+'</p>'` Concatena al inicio de cada `element` una etiqueta de apertura de párrafo y al final una de cierre.
+
+**Si vinculamos lo recién dicho con lo presentado sobre SVG, ya podríamos preguntarnos: ¿Es posible vincular datos a elementos dentro de un SVG? ¡Si, es posible!**
+
+Veamos como es posible, sin alejarnos del pequeño programa (o *script*) escrito más arriba. Copiemos y peguemos lo que sigue en un nuevo documento creado en un editor de código fuente. Una vez pegado allí, guardemos el documento como `ejemplo-2.html`
 
 ```
 <!DOCTYPE html>
@@ -62,7 +89,7 @@ Si revisan el `ejemplo-1.html` en su navegador, verán cada cadena de caracteres
 Esto es algo que también pueden ver al [**inspeccionar elementos**](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web). Pero no lo encontrarás al "Ver el código fuente", porque JavaScript no modifica lo escrito por el programador, sino la "comprensión de lectura" que tiene el navegador web para lo que lee.
 
 
-Demos un paso más creando un nuevo documento al que llamaremos `ejemplo-2.html`. Allí peguemos el siguiente código:
+Demos un paso más creando un nuevo documento al que llamaremos `ejemplo-3.html`. Allí peguemos el siguiente código:
 
 ```
 <!DOCTYPE html>
@@ -92,9 +119,9 @@ Demos un paso más creando un nuevo documento al que llamaremos `ejemplo-2.html`
 </html>
 ```
 
-En el `ejemplo-1.html` tenemos una variable de nombre `retinal` en la que guardamos un arreglo, siendo cada elemento del arreglo una cadena de caracteres. En el `ejemplo-2.html` también tenemos una variable en la que guardamos un arreglo, pero cada elemento del arreglo en `personajes` es un objeto donde los índices son `nombre` e `imagen`, y lo que guarda cada índice es una cadena de caracteres.
+En los ejemplos 1 y 2 tenemos una variable de nombre `retinal` en la que guardamos un arreglo, siendo cada elemento del arreglo una cadena de caracteres. En el `ejemplo-3.html` también tenemos una variable en la que guardamos un arreglo, pero cada elemento del arreglo en `personajes` es un objeto donde los índices son `nombre` e `imagen`, y lo que guarda cada índice es una cadena de caracteres.
 
-Podrán notar otras diferencias entre los ejemplos 1 y 2: 
+Podrán notar otras diferencias entre los ejemplos 2 y 3: 
 
 - `retinal.forEach(function (r, n) {…});` hace lo mismo que `personajes.forEach((p, n) => {…});`
 - `document.querySelector("#aqui")` hace lo mismo que `document.getElementById("aqui")`
