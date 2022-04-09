@@ -14,7 +14,7 @@ Dominar JavaScript, o cualquier lenguaje de programación, toma más tiempo de e
 
 Sigamos estirando la metáfora de la cocina: Si no sabemos hervir agua ni diferenciar sal de azúcar, difícilmente podemos sacar provecho de cualquier ayuda para cocinar hasta lo más simple: *¡No podríamos preparar ni un tecito!*
 
-**Para poder preparar algo como un tecito, vamos a partir con un pequeño programa (o *script*). Tenemos que copiar y pegar [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) del navegador web lo siguiente**: 
+**Para poder preparar algo como un tecito, vamos a partir con un pequeño programa (o *script*); copia y pega [en la consola de JavaScript](https://wise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) del navegador web lo siguiente**: 
 
 ```
 var retinal = ["size","value","texture","color","orientation","shape"];
@@ -24,7 +24,7 @@ retinal.forEach(x => console.log(x));
 
 **En las tres línea del pequeño programa (o *script*) tenemos**: 
 
-1. Una declaración de variable de nombre `retina`, que se inicia conteniendo un arreglo (*array*) con 6 cadenas (*string*) de caracteres entre comillas.
+1. Una declaración de variable de nombre `retinal`, que se inicia conteniendo un arreglo (*array*) con 6 cadenas (*string*) de caracteres entre comillas.
 
 2. Una reorganización alfabética del arreglo contenido por la variable de nombre `retina`, mediante el [método `sort()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/sort).
 
@@ -176,9 +176,11 @@ También podrían preguntarse: ¿Puedo mezclar ambos ejemplo para hacer un `ejem
 
 Por favor cambien los datos para presentar otro asunto incluido en [la síntesis de resultados del Censo 2017](http://www.censo2017.cl/descargas/home/sintesis-de-resultados-censo2017.pdf). Y cambien colores de las barras con [la pseudoclase `:nth-child()` de CSS](https://developer.mozilla.org/es/docs/Web/CSS/:nth-child). 
 
-También corresponde modificar el título, subtítulo y párrafos de texto para darle un sentido a lo que presentan. Pero [eviten escribir los párrafos tal como los escribirían para documentos impresos](https://www.nngroup.com/articles/how-users-read-on-the-web/).
+También corresponde modificar el título, subtítulo y párrafos de texto para darle un sentido a lo que presentan. 
 
-Convendía subir los cuatro ejemplos que prepararon en la misma carpeta de repositorio.
+¡Pero [eviten escribir los párrafos tal como los escribirían para documentos impresos](https://www.nngroup.com/articles/how-users-read-on-the-web/)!
+
+Suban el index.html a GitHub. También convendía subir los cuatro ejemplos que prepararon en el mismo repositorio.
 
 - - - - - - - 
  
