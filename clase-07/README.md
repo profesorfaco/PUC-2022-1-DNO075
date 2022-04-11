@@ -46,9 +46,9 @@ Nosotros hemos estados recibiendo ayuda de [Bootstrap](https://getbootstrap.com/
 
 #### Bootstrap
 
-Así como [Foundations](https://get.foundation/) y [Semantic UI](https://semantic-ui.com/), **[Bootstrap](https://getbootstrap.com/) es un marco de trabajo que simplifica la creación de páginas responsivas**; escogemos Bootstrap por su popularidad y constante desarrollo.
+Así como [Foundations](https://get.foundation/) y [Semantic UI](https://semantic-ui.com/), **[Bootstrap](https://getbootstrap.com/) es un marco de trabajo que simplifica la creación de páginas responsivas**; escogemos Bootstrap por su popularidad.
 
-Para que [Bootstrap](https://getbootstrap.com/) nos simplifique esta creación, lo primero es saber que ofrece un [gran estilo CSS](https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.css) armado desde una lógica de diagramación de 12 columnas (`col`) por fila (`row`), fila que se va ajustando dentro de un contenedor (`container`).
+Para que [Bootstrap](https://getbootstrap.com/) nos simplifique la creación de páginas responsivas, lo primero es saber que ofrece un [gran estilo CSS](https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.css) armado desde una lógica de diagramación de 12 columnas (`col`) por fila (`row`), fila que se va ajustando dentro de un contenedor (`container`).
 
 Digamos que quiero dividir una pantalla en dos partes iguales:
 
