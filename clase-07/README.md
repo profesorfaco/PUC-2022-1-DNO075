@@ -48,9 +48,9 @@ Desde el primer ejercicio en este OPR hemos usado Bootstrap. Ahora corresponde p
 
 Así como [Foundations](https://get.foundation/) y [Semantic UI](https://semantic-ui.com/), **[Bootstrap](https://getbootstrap.com/) es un marco de trabajo que simplifica la creación de páginas responsivas**; escogemos Bootstrap por su popularidad y constante desarrollo.
 
-Para que [Bootstrap](https://getbootstrap.com/) nos ayude, lo primero es saber que lo suyo son las 12 columnas (`col`) en las que se puede dividir una fila (`row`) que se va ajustando dentro de un contenedor (`container`).
+Para que [Bootstrap](https://getbootstrap.com/) nos simplifique esta creación, lo primero es saber que lo suyo son las 12 columnas (`col`) en las que se puede dividir cada fila (`row`) que se va ajustando dentro de un contenedor (`container`).
 
-Digamos que en un contenedor (`container`) quiero dividir lo que está a lo ancho (`row`) en dos partes iguales:
+Digamos que quiero dividir una pantalla en dos partes iguales:
 
 ```
 <div class="container">
@@ -104,9 +104,9 @@ Podríamos necesitar una imagen a todo lo ancho de la fila dentro del contenedor
 </html>
 ```
 
-Conviene copiar el código completo recién presentado y pegarlo en un documento vacío, recién creado en el editor de código fuente. A este documento le podemos llamar `ejeplo-1.html`.
+Conviene copiar el código completo recién presentado y pegarlo en un documento vacío, recién creado en el editor de código fuente. A este documento le podemos llamar `ejemplo-1.html`.
 
-En otro documento, que podemos llamar `ejemplo-2.html`, copiemos y peguemos lo que sigue, que pone a prueba la [propiedad display de Bootstrap](https://getbootstrap.com/docs/5.1/utilities/display/):
+En otro documento, que podemos llamar `ejemplo-2.html`, copiemos y peguemos lo que sigue para poner a prueba la [propiedad display de Bootstrap](https://getbootstrap.com/docs/5.1/utilities/display/):
 
 ```
 <!DOCTYPE html>
@@ -139,15 +139,15 @@ En otro documento, que podemos llamar `ejemplo-2.html`, copiemos y peguemos lo q
 
 En un mismo documento (`ejemplo-2.html`) incluimos, entre líneas, 2 SVG. 
 
-En el primer SVG tenemos el atributo `class="d-md-none"`, que es una clase que impide que se despliegue desde pantallas medianas (768px). En el segundo SVG tenemos el atributo `class="d-none d-md-block"` con el que se impide su despliegue (`d-none`) a menos que el tamaño de la pantalla ya sea mediano (`d-md-block`).
+En el primer SVG tenemos el atributo `class="d-md-none"`, que es una clase que impide que se despliegue desde pantallas medianas (768px). En el segundo SVG tenemos el atributo `class="d-none d-md-block"` con el que se impide su despliegue (`d-none`) a menos que el tamaño de la pantalla sea sea mediano (`d-md-block`) o superior.
 
-**Cada gráfica en SVG se adapta, de manera líquida (se ajusta al tamaño gracias al atributo viewBox). Y el par de gráficas ofrece una solución *responsiva* (se muestra una u otra según el tamaño de la pantalla)**.
+**Cada gráfica en SVG se puede fluir en su tamaño (gracias al atributo viewBox). Y el par de gráficas, con la ayuda de Bootstrap, ofrece una solución *responsiva* (se muestra una u otra según el tamaño de la pantalla)**.
 
 - - - - - - - 
 
 #### EJERCICIO
 
-[**En el ejercicio mostraremos 5 pasos en un proceso. Cada paso tendrá su gráfica y una breve descripción textual**](https://profesorfaco.github.io/dno075-2022-1/clase-07/). 
+[**En el ejercicio mostraremos 5 pasos en un proceso. Cada paso tendrá su gráfica y un breve relato descriptivo**](https://profesorfaco.github.io/dno075-2022-1/clase-07/). 
 
 Cada gráfica puede ser descargada desde:
 
@@ -157,11 +157,11 @@ Cada gráfica puede ser descargada desde:
 - https://openmoji.org/library/
 - https://icons.getbootstrap.com/
 
-Recuerden revisar los atributos que definen el tamaño de cada SVG descargado; que sí tenga su `viewBox`, que no tenga `height` ni `width`.
+Recuerden revisar los atributos que definen el tamaño de cada SVG descargado; que tenga su `viewBox`, que no tenga `height` ni `width`.
 
-Sólo necesitaremos una opción para cada gráfica. Lo "responsive" será el lugar texto: En pantallas grandes se moverá de izquierda a derecha de cada gráfica, pero en pantallas chicas estará siempre debajo de cada gráfica.
+Sólo necesitaremos una opción para cada gráfica. Lo *responsive* será el lugar texto: En pantallas grandes se moverá de izquierda a derecha de cada gráfica, pero en pantallas chicas estará siempre debajo de cada gráfica para [la redacción linear](https://youtu.be/iEB3oILm-qQ?t=2010).
 
-Para que no se desarme tanto código, convendría vincular a cada SVG como `<object type="image/svg+xml" data="…"></object>`
+Para que no se desarme tanto código, convendría vincular a cada SVG como `<object type="image/svg+xml" data="…"></object>`.
 
 
 - - - - - - - 
