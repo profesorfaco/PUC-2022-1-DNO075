@@ -127,7 +127,7 @@ Podríamos necesitar una imagen a todo lo ancho de la fila dentro del contenedor
 
 El código completo lo podríamos copiar y pegar en un documento creado en su editor de código fuente, documento al que podemos llamar `ejeplo-1.html`.
 
-Creando otro documento, al que pueden guardar como `ejemplo-2.html` podemos aprovechar la [propiedad display de Bootstrap](https://getbootstrap.com/docs/5.1/utilities/display/), con ésta podemos complementar la fluidez de un SVG:
+Creando otro documento, que podemos llamar `ejemplo-2.html`, pongamos a prueba la [propiedad display de Bootstrap](https://getbootstrap.com/docs/5.1/utilities/display/), con ella podemos complementar la fluidez de un SVG:
 
 ```
 <!DOCTYPE html>
