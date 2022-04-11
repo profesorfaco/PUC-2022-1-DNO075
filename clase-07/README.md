@@ -61,7 +61,7 @@ Digamos que quiero dividir una pantalla en dos partes iguales:
 </div>
 ```
 
-Ahora, quiero hacer la misma división pero sólo desde una pantalla mediana ([mayor a 768px de ancho](https://getbootstrap.com/docs/5.0/layout/breakpoints/#available-breakpoints)). En las pantallas más angostas, ambas divisiones ocuparán todo el ancho:
+Ahora, quiero hacer la misma división pero sólo desde una pantalla mediana ([mayor a 768px de ancho](https://getbootstrap.com/docs/5.0/layout/breakpoints/#available-breakpoints)):
 
 ```
 <div class="container">
@@ -72,7 +72,7 @@ Ahora, quiero hacer la misma división pero sólo desde una pantalla mediana ([m
 </div>
 ```
 
-Cambiemos de ejemplo, considerando que Robert Bringhurst (2008) escribe:
+Considerando que Robert Bringhurst (2008) escribe:
 
 > La cantidad que se considera satisfactoria como longitud de línea para una página de una sola columna compuesta en una fuente con remates va entre 45 u 75 caracteres. La línea de 66 caracteres (contando tanto las letras como los espacios en blanco) se considera ideal. Para un trabajo de varias columnas, 40 a 50 caracteres es un buen promedio.
 
@@ -141,7 +141,7 @@ En un mismo documento (`ejemplo-2.html`) incluimos, entre líneas, 2 SVG.
 
 En el primer SVG tenemos el atributo `class="d-md-none"`, que es una clase que impide que se despliegue desde pantallas medianas (768px). En el segundo SVG tenemos el atributo `class="d-none d-md-block"` con el que se impide su despliegue (`d-none`) a menos que el tamaño de la pantalla sea sea mediano (`d-md-block`) o superior.
 
-**Cada gráfica en SVG se puede fluir en su tamaño (gracias al atributo viewBox). Y el par de gráficas, con la ayuda de Bootstrap, ofrece una solución *responsiva* (se muestra una u otra según el tamaño de la pantalla)**.
+**Cada gráfica en SVG se puede fluir en su tamaño (gracias al atributo viewBox). Y el par de gráficas, con la ayuda de Bootstrap, ofrece una solución *responsiva* (se muestra una u otra según condición del ancho de la pantalla)**.
 
 Al tratarse de las clases definidas en el CSS de Bootstrap, la misma solución responsiva de podría aplicar a un par de gráficas guardadas en formatos JPG, GIF, PNG (PNG8 o PNG24) o [WEPB](https://www.adslzone.net/reportajes/foto-video/webp-formato-ventajas/). 
 
