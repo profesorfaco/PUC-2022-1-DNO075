@@ -12,7 +12,7 @@ Ya hemos revisado:
 
 - **JavaScript**: Un lenguaje de programación con el que las páginas web se hacen interactivas mediante el control de cada navegador web y su Modelo de Objetos de Documento (DOM; Document Object Model).
 
-Con tales lenguajes, trabajando el conjunto, se puede hacer lo que sigue y mucho más:
+Con tales lenguajes, trabajando el conjunto, se puede hacer lo que sigue:
 
 VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 
@@ -38,19 +38,19 @@ A los trabajos recién vinculados, podemos agregar algunos trabajos de estudiant
 - https://hipopotamo-pigmeo.github.io/final/
 - https://orangutan-borneo-uc.github.io/final/
 
-**En los 12 trabajos vinculados, los estudiantes usaron HTML, CSS y JavaScript, apoyándose en [Bootstrap](https://getbootstrap.com/).** A ello agregaron gráficas con el uso de SVG, JPG, GIF, PNG (PNG8 o PNG24) e incluso [WEBP](https://www.adslzone.net/reportajes/foto-video/webp-formato-ventajas/).
+**En los 12 trabajos vinculados, los estudiantes usaron tales lenguajes y la ayuda de [Bootstrap](https://getbootstrap.com/).** 
 
-Lo que nos corresponde desde esta clase es comenzar a sacarle más provecho al apoyo de [Bootstrap](https://getbootstrap.com/).
+Desde el primer ejercicio en este OPR hemos usado Bootstrap. Ahora corresponde ponerle mayor atención.
 
 - - - - - - - 
 
 #### Bootstrap
 
-Así como [Foundations](https://get.foundation/) y [Semantic UI](https://semantic-ui.com/), **[Bootstrap](https://getbootstrap.com/) es un marco de trabajo  que simplifica la creación de páginas responsivas**; escogemos Bootstrap por su popularidad y constante desarrollo.
+Así como [Foundations](https://get.foundation/) y [Semantic UI](https://semantic-ui.com/), **[Bootstrap](https://getbootstrap.com/) es un marco de trabajo que simplifica la creación de páginas responsivas**; escogemos Bootstrap por su popularidad y constante desarrollo.
 
-Para sacarle un mejor provecho a [Bootstrap](https://getbootstrap.com/), lo primero es relacionarse con la lógica de las 12 columnas (`col`) en las que se puede dividir una fila (`row`) que se va ajustando dentro de un contenedor (`container`), porque esta es la lógica con la que [Bootstrap](https://getbootstrap.com/) se adapta a distintos tamaños de pantalla.
+Para que [Bootstrap](https://getbootstrap.com/) nos ayude, lo primero es saber que lo suyo son las 12 columnas (`col`) en las que se puede dividir una fila (`row`) que se va ajustando dentro de un contenedor (`container`).
 
-Digamos que en este contenedor (`container`) quiero dividir la fila (`row`) en dos partes del mismo ancho, para que una se muestre al lado de la otra. Para lograrlo debo tomar 6 y 6 columnas (`col`). Dentro del cuerpo del documento HTML, esto se vería así:
+Digamos que en un contenedor (`container`) quiero dividir lo que está a lo ancho (`row`) en dos partes iguales:
 
 ```
 <div class="container">
@@ -76,7 +76,7 @@ Cambiemos de ejemplo, considerando que Robert Bringhurst (2008) escribe:
 
 > La cantidad que se considera satisfactoria como longitud de línea para una página de una sola columna compuesta en una fuente con remates va entre 45 u 75 caracteres. La línea de 66 caracteres (contando tanto las letras como los espacios en blanco) se considera ideal. Para un trabajo de varias columnas, 40 a 50 caracteres es un buen promedio.
 
-Podríamos necesitar una imagen a todo lo ancho de la fila dentro del contenedor, y bajo ella un párrafo centrado que utilice menos columnas en la medida que éstas se ensanchan junto a la pantalla, así mantener una anchura de párrafo cómoda a la lectura. El código del documento completo debería verse así:
+Podríamos necesitar una imagen a todo lo ancho de la fila dentro del contenedor, y bajo ella un párrafo centrado que utilice menos columnas en la medida que tengamos un mayor ancho de pantalla, así mantener una anchura de párrafo cómoda a la lectura. El código del documento completo debería verse así:
 
 ```
 <!DOCTYPE html>
@@ -104,9 +104,9 @@ Podríamos necesitar una imagen a todo lo ancho de la fila dentro del contenedor
 </html>
 ```
 
-El código completo lo podríamos copiar y pegar en un documento creado en su editor de código fuente, documento al que podemos llamar `ejeplo-1.html`.
+Conviene copiar el código completo recién presentado y pegarlo en un documento vacío, recién creado en el editor de código fuente. A este documento le podemos llamar `ejeplo-1.html`.
 
-Creando otro documento, que podemos llamar `ejemplo-2.html`, pongamos a prueba la [propiedad display de Bootstrap](https://getbootstrap.com/docs/5.1/utilities/display/), con ella podemos complementar la fluidez de un SVG:
+En otro documento, que podemos llamar `ejemplo-2.html`, copiemos y peguemos lo que sigue, que pone a prueba la [propiedad display de Bootstrap](https://getbootstrap.com/docs/5.1/utilities/display/):
 
 ```
 <!DOCTYPE html>
@@ -136,6 +136,8 @@ Creando otro documento, que podemos llamar `ejemplo-2.html`, pongamos a prueba l
     </body>
 </html>
 ```
+
+En un mismo documento (`ejemplo-2.html`) incluimos, entre líneas, 2 SVG. 
 
 En el primer SVG tenemos el atributo `class="d-md-none"`, que es una clase que impide que se despliegue desde pantallas medianas (768px). En el segundo SVG tenemos el atributo `class="d-none d-md-block"` con el que se impide su despliegue (`d-none`) a menos que el tamaño de la pantalla ya sea mediano (`d-md-block`).
 
