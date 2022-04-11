@@ -48,7 +48,7 @@ Desde el primer ejercicio en este OPR hemos usado Bootstrap. Ahora corresponde p
 
 Así como [Foundations](https://get.foundation/) y [Semantic UI](https://semantic-ui.com/), **[Bootstrap](https://getbootstrap.com/) es un marco de trabajo que simplifica la creación de páginas responsivas**; escogemos Bootstrap por su popularidad y constante desarrollo.
 
-Para que [Bootstrap](https://getbootstrap.com/) nos simplifique esta creación, lo primero es saber que lo suyo son las 12 columnas (`col`) en las que se puede dividir cada fila (`row`) que se va ajustando dentro de un contenedor (`container`).
+Para que [Bootstrap](https://getbootstrap.com/) nos simplifique esta creación, lo primero es saber que ofrece un [gran estilo CSS](https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.css) armado desde una lógica de diagramación de 12 columnas (`col`) por fila (`row`), fila que se va ajustando dentro de un contenedor (`container`).
 
 Digamos que quiero dividir una pantalla en dos partes iguales:
 
@@ -142,6 +142,8 @@ En un mismo documento (`ejemplo-2.html`) incluimos, entre líneas, 2 SVG.
 En el primer SVG tenemos el atributo `class="d-md-none"`, que es una clase que impide que se despliegue desde pantallas medianas (768px). En el segundo SVG tenemos el atributo `class="d-none d-md-block"` con el que se impide su despliegue (`d-none`) a menos que el tamaño de la pantalla sea sea mediano (`d-md-block`) o superior.
 
 **Cada gráfica en SVG se puede fluir en su tamaño (gracias al atributo viewBox). Y el par de gráficas, con la ayuda de Bootstrap, ofrece una solución *responsiva* (se muestra una u otra según el tamaño de la pantalla)**.
+
+Al tratarse de las clases definidas en el CSS de Bootstrap, la misma solución responsiva de podría aplicar a un par de gráficas guardadas en formatos JPG, GIF, PNG (PNG8 o PNG24) o [WEPB](https://www.adslzone.net/reportajes/foto-video/webp-formato-ventajas/). 
 
 - - - - - - - 
 
