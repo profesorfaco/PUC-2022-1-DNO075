@@ -111,14 +111,13 @@ Podríamos necesitar una imagen a todo lo ancho de la fila dentro del contenedor
     <body>
         <div class="container">
             <div class="row">
-                <div class="col-12">
-                    <img src="https://picsum.photos/1600/900?grayscale" class="w-100 my-4" alt="esta es una imagen random" />
+                <div class="col-12 my-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200">
+                        <rect x="10" y="10" width="480" height="180" fill="#BABABA"/>
+                    </svg>
                 </div>
                 <div class="col-11 col-sm-10 col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto">
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla in molestie felis, eget egestas lacus. Etiam orci magna, dignissim at dolor eu, finibus molestie mi. Suspendisse fringilla sem magna, eget pharetra orci
-                        faucibus sit amet.
-                    </p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a dictum elit. Duis suscipit dui et velit egestas ultricies. In porttitor rutrum quam at tincidunt. Praesent tristique nulla nec est finibus, ullamcorper lacinia lectus sollicitudin. Aliquam vel pretium massa. Nulla facilisi. Pellentesque vitae sem est. Maecenas cursus eros dui. Curabitur vehicula suscipit urna. Mauris consectetur tortor at quam luctus, quis sagittis ante cursus. Maecenas bibendum auctor faucibus.</p>
                 </div>
             </div>
         </div>
@@ -126,25 +125,62 @@ Podríamos necesitar una imagen a todo lo ancho de la fila dentro del contenedor
 </html>
 ```
 
-En cada ejercicio desarrollado hasta esta clase, nos hemos aprovechado de esta misma lógica, sin prestarle tanta atención.
+El código completo lo podríamos copiar y pegar en un documento creado en su editor de código fuente, documento al que podemos llamar `ejeplo-1.html`.
 
-En el ejercicio de esta clase, modificaremos un poco la estructura para comenzar a aprovecharla.
+Creando otro documento, al que pueden guardar como `ejemplo-2.html` podemos aprovechar la [propiedad display de Bootstrap](https://getbootstrap.com/docs/5.1/utilities/display/), con ésta podemos complementar la fluidez de un SVG:
+
+```
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
+        <title>Hola mundo</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 my-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 500" class="d-md-none">
+                        <rect x="10" y="10" width="180" height="480" fill="#BABABA"/>
+                    </svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" class="d-none d-md-block">
+                        <rect x="10" y="10" width="480" height="180" fill="#BABABA"/>
+                    </svg>
+                </div>
+                <div class="col-11 col-sm-10 col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a dictum elit. Duis suscipit dui et velit egestas ultricies. In porttitor rutrum quam at tincidunt. Praesent tristique nulla nec est finibus, ullamcorper lacinia lectus sollicitudin. Aliquam vel pretium massa. Nulla facilisi. Pellentesque vitae sem est. Maecenas cursus eros dui. Curabitur vehicula suscipit urna. Mauris consectetur tortor at quam luctus, quis sagittis ante cursus. Maecenas bibendum auctor faucibus.</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+```
+
+En el primer SVG tenemos el atributo `class="d-md-none"`, que es una clase que impide que se despliegue desde pantallas medianas (768px). En el segundo SVG tenemos el atributo `class="d-none d-md-block"` con el que se impide su despliegue (`d-none`) a menos que el tamaño de la pantalla ya sea mediano (`d-md-block`).
+
+**Cada gráfica en SVG se adapta, de manera líquida (se ajusta al tamaño gracias al atributo viewBox). Y el par de gráficas ofrece una solución *responsiva* (se muestra una u otra según el tamaño de la pantalla)**.
 
 - - - - - - - 
 
 #### EJERCICIO
 
-Lo que queda pendiente es revisar más a fondo al tercero en el trío HTML, CSS y SVG. Para hacerlo, nos aprovecharemos de https://www.guemil.info/icons/
+[**En el ejercicio mostraremos 5 pasos en un proceso. Cada paso tendrá su gráfica y una breve descripción textual**](https://profesorfaco.github.io/dno075-2022-1/clase-07/). 
 
-Si revisan la página donde se despliega cada *icon* de manera independiente, encontrarán un botón que les permite descargarlo como SVG. 
+Cada gráfica puede ser descargada desde:
 
-**Es necesario que descarguen 5 pictogramas que les permitan informar de algo en 5 partes o pasos, [basándose en el documento HTML compartido en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2022-1/clase-07/)**.
+- https://www.guemil.info/icons/
+- https://visualpharm.com/
+- https://www.svgrepo.com/
+- https://openmoji.org/library/
+- https://icons.getbootstrap.com/
 
-Completen la información con título y texto introductorio, además de los textos que acompañarán a cada SVG. E intenten resolver dos desafíos:
+Recuerden revisar los atributos que definen el tamaño de cada SVG descargado; que sí tenga su `viewBox`, que no tenga `height` ni `width`.
 
-- Cambiar la manera en que se vinculan los SVG, que no sea como imágenes sino como objetos `<object type="image/svg+xml" data="…"></object>`
+Sólo necesitaremos una opción para cada gráfica. Lo "responsive" será el lugar texto: En pantallas grandes se moverá de izquierda a derecha de cada gráfica, pero en pantallas chicas estará siempre debajo de cada gráfica.
 
-- Agreguen una regla de estilo CSS que afecte el `fill` de los `path` en todos los SVG vinculados como objetos. 
+Para que no se desarme tanto código, convendría vincular a cada SVG como `<object type="image/svg+xml" data="…"></object>`
 
 
 - - - - - - - 
