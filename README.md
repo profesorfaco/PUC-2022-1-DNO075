@@ -53,7 +53,7 @@ Considerando los días lunes entre 7 de marzo y 4 de julio, conviene apuntar que
 
 [Clase 05 → 04/04/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-05) → Gráficos con SVG y CSS ✓
 
-[Clase 06 → 11/04/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-06) → Gráficos con SVG, CSS y JavaScript
+[Clase 06 → 11/04/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-06) → Gráficos con SVG, CSS y JavaScript ✓
 
 [Clase 07 → 18/04/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-07) → Infografía digital: HTML, SVG y CSS
 
