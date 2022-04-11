@@ -3,39 +3,16 @@
 ### Clase 07 → 18/04/2022
 
 Ya hemos revisado:
- 
-- **SVG**: Un dialecto, muy parecido a HTML, tanto que podría verse así: `<etiqueta atributo="…"></etiqueta>`. Pero estos elementos marcados no son los contenidos en un hipertexto. Estos elementos son las **formas** en un gráfico vectorial; un gráfico que puede inscrustarse en el cuerpo del documento HTML entre etiquetas `<svg></svg>` o también vincularse en el cuerpo del documento HTML como si se tratara de un objeto `<object type="image/svg+xml" data="…"></object>` o una imagen `<img src="…">`.
 
 - **HTML**: Un lenguaje descriptivo que podemos reconocer por sus **elementos** demarcados con `<etiqueta atributo="…"></etiqueta>`.
 
-- **CSS**: Un lenguaje descriptivo que podemos reconocer por sus **reglas** que se estructuran con `selector{propiedad:valor;}`. Estas reglas las podemos encontrar incrustadas en la cabeza del documento HTML, entre etiquetas `<style></style>`, o bien podemos encontrarlas en una hoja de estilo independiente, que se vincula en la cabeza del documento HTML, mediante `<link rel="stylesheet" href="…" />`.
+- **SVG**: Un dialecto que, como HTML, tiene sus elementos: `<etiqueta atributo="…"></etiqueta>`. Pero estos elementos no son partes de un hipertexto sino **formas** en un gráfico vectorial; un gráfico que puede inscrustarse en el cuerpo del documento HTML entre etiquetas `<svg></svg>` o también vincularse en el cuerpo del documento HTML como si se tratara de un objeto `<object type="image/svg+xml" data="…"></object>` o una imagen `<img src="…">`.
+
+- **CSS**: Un lenguaje descriptivo que podemos reconocer por sus **reglas** que se estructuran con `selector{propiedad:valor;}`. Estas reglas las podemos encontrar incrustadas en la cabeza del documento HTML o al principio de un SVG, entre etiquetas `<style></style>`, o bien podemos encontrarlas en una hoja de estilo independiente, que se vincula en la cabeza del documento HTML, mediante `<link rel="stylesheet" href="…" />`.
 
 - **JavaScript**: Un lenguaje de programación con el que las páginas web se hacen interactivas mediante el control de cada navegador web y su Modelo de Objetos de Documento (DOM; Document Object Model).
 
-Los dos lenguajes (HTML y CSS) y el dialecto (SVG) se pueden combinar para obtener, por ejemplo, una página con fondo rojo que contenga un SVG que, a su vez, contenga un círculo negro al centro:
-
-```
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Muy simple</title>
-        <style>
-            body {
-                background: red;
-            }
-        </style>
-    </head>
-    <body>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100"><circle cx="100" cy="50" r="25" /></svg>
-    </body>
-</html>
-```
-
-Si tenemos un programa de JavaScript con varios datos, podríamos crear en SVG varios círculos, cada uno con un radio determinado por los mismos datos.
-
-Con estos lenguajes, trabajando el conjunto, se pueden hacer cosas mucho más complejas que círculos. Podemos hacer trabajos como en versiones pasadas de este OPR:
+Con tales lenguajes, trabajando el conjunto, se puede hacer lo que sigue y mucho más:
 
 VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE:
 
@@ -61,7 +38,9 @@ A los trabajos recién vinculados, podemos agregar algunos trabajos de estudiant
 - https://hipopotamo-pigmeo.github.io/final/
 - https://orangutan-borneo-uc.github.io/final/
 
-**En los 12 trabajos vinculados, los estudiantes usaron HTML, CSS y JavaScript, apoyándose en [Bootstrap](https://getbootstrap.com/).** También usaron SVG, pero Bootstrap no se relaciona con tal dialecto (lo mismo pasa con las gráfica en formato JPG, PNG y GIF que pudieron encontrar en los trabajos).
+**En los 12 trabajos vinculados, los estudiantes usaron HTML, CSS y JavaScript, apoyándose en [Bootstrap](https://getbootstrap.com/).** A ello agregaron gráficas con el uso de SVG, JPG, GIF, PNG (PNG8 o PNG24) e incluso [WEBP](https://www.adslzone.net/reportajes/foto-video/webp-formato-ventajas/).
+
+Lo que nos corresponde desde esta clase es comenzar a sacarle más provecho al apoyo de [Bootstrap](https://getbootstrap.com/).
 
 - - - - - - - 
 
