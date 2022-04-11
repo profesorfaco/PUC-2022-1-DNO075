@@ -40,7 +40,7 @@ A los trabajos recién vinculados, podemos agregar algunos trabajos de estudiant
 
 **En los 12 trabajos vinculados, los estudiantes usaron tales lenguajes y la ayuda de [Bootstrap](https://getbootstrap.com/).** 
 
-Desde el primer ejercicio en este OPR hemos usado Bootstrap. Ahora corresponde ponerle mayor atención.
+Nosotros hemos estados recibiendo ayuda de [Bootstrap](https://getbootstrap.com/) desde (el ejercicio de) la primera clase.
 
 - - - - - - - 
 
