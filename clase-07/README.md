@@ -61,7 +61,7 @@ Digamos que quiero dividir una pantalla en dos partes iguales:
 </div>
 ```
 
-Ahora, quiero hacer la misma división pero sólo desde una pantalla mediana ([mayor a 768px de ancho](https://getbootstrap.com/docs/5.0/layout/breakpoints/#available-breakpoints)). En las pantallas que tengan un ancho menor, ambas divisiones ocuparán todo el ancho, poniéndose la segunda debajo de la primera:
+Ahora, quiero hacer la misma división pero sólo desde una pantalla mediana ([mayor a 768px de ancho](https://getbootstrap.com/docs/5.0/layout/breakpoints/#available-breakpoints)). En las pantallas más angostas, ambas divisiones ocuparán todo el ancho:
 
 ```
 <div class="container">
