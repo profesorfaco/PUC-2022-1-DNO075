@@ -149,7 +149,7 @@ Al tratarse de las clases definidas en el CSS de Bootstrap, la misma solución r
 
 #### EJERCICIO
 
-[**En el ejercicio mostraremos 5 pasos en un proceso. Cada paso tendrá su gráfica y un breve relato descriptivo**](https://profesorfaco.github.io/dno075-2022-1/clase-07/). 
+[**En el ejercicio mostraremos 5 pasos en un proceso o 5 tipos de un problema. Cada paso o tipo tendrá su gráfica y un breve relato descriptivo**](https://profesorfaco.github.io/dno075-2022-1/clase-07/). 
 
 Cada gráfica puede ser descargada desde:
 
@@ -159,11 +159,11 @@ Cada gráfica puede ser descargada desde:
 - https://openmoji.org/library/
 - https://icons.getbootstrap.com/
 
-Recuerden revisar los atributos que definen el tamaño de cada SVG descargado; que tenga su `viewBox`, que no tenga `height` ni `width`.
+Recuerden revisar los atributos que definen el tamaño de cada SVG descargado; que no tenga `height` ni `width`, que si tenga su `viewBox`. 
 
 Sólo necesitaremos una opción para cada gráfica. Lo *responsive* será el lugar texto: En pantallas grandes se moverá de izquierda a derecha de cada gráfica, pero en pantallas chicas estará siempre debajo de cada gráfica para [la redacción linear](https://youtu.be/iEB3oILm-qQ?t=2010).
 
-Para que no se desarme tanto código, convendría vincular a cada SVG como `<object type="image/svg+xml" data="…"></object>`.
+Para que no se desarme tanto el código, convendría vincular a cada SVG como `<object type="image/svg+xml" data="…"></object>` (no incluirlo directamente entre líneas).
 
 
 - - - - - - - 
