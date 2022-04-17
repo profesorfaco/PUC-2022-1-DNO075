@@ -149,7 +149,7 @@ Al tratarse de las clases definidas en el CSS de Bootstrap, la misma solución r
 
 #### EJERCICIO
 
-[**En el ejercicio mostraremos 5 pasos en un proceso o 5 tipos de un problema. Cada paso o tipo tendrá su gráfica y un breve relato descriptivo**](https://profesorfaco.github.io/dno075-2022-1/clase-07/). 
+[**En el ejercicio mostraremos 5 pasos en un proceso o 5 variantes de un problema. Cada paso o tipo tendrá su gráfica figurativa y un breve relato descriptivo**](https://profesorfaco.github.io/dno075-2022-1/clase-07/). 
 
 Cada gráfica puede ser descargada desde:
 
@@ -165,6 +165,7 @@ Sólo necesitaremos una opción para cada gráfica. Lo *responsive* será el lug
 
 Para que no se desarme tanto el código, convendría vincular a cada SVG como `<object type="image/svg+xml" data="…"></object>` (no incluirlo directamente entre líneas).
 
+\* Para tener evidencia de lo cerca que ya estamos de un trabajo profesional, por favor revisen la infografía digital titulada "[Child abuse in Hong Kong](https://multimedia.scmp.com/infographics/news/hong-kong/article/3172267/child-abuse/index.html)", la que fue desarrollada por Dennis Wong para el South China Morning Post (publicada el 30 de marzo de este año).
 
 - - - - - - - 
 
