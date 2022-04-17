@@ -161,11 +161,11 @@ Cada gráfica puede dibujada en un editor de gráficos vectoriales (Adobe Illust
 
 Es importante revisar los atributos que definen el tamaño de cada SVG; que no tenga `height` ni `width`, que si tenga su `viewBox`. 
 
-Sólo se necesitará una opción para cada gráfica. Lo *responsive* será el lugar texto: En pantallas grandes se moverá de izquierda a derecha de cada gráfica, pero en pantallas chicas estará siempre debajo de cada gráfica para reforzar [la redacción linear](https://youtu.be/iEB3oILm-qQ?t=2010).
+Sólo se necesitará una opción para cada gráfica. Lo *responsive* será la posición del breve relato descriptivo: En pantallas grandes se moverá de izquierda a derecha de cada gráfica, pero en pantallas chicas estará siempre debajo de cada gráfica para reforzar [la redacción linear](https://youtu.be/iEB3oILm-qQ?t=2010).
 
-Para que no se desarme tanto el código, convendría vincular a cada gráfica como `<object type="image/svg+xml" data="…"></object>` (no incluir el SVG directamente entre líneas).
+Para que no se desarme tanto el código, convendría vincular cada gráfica como `<object type="image/svg+xml" data="…"></object>` (no incluir el SVG directamente entre líneas).
 
-\* Para tener evidencia de lo cerca que ya estamos de un trabajo profesional, por favor revisen la infografía digital titulada "[Child abuse in Hong Kong](https://multimedia.scmp.com/infographics/news/hong-kong/article/3172267/child-abuse/index.html)", la que fue desarrollada por [Dennis Wong](https://www.scmp.com/author/dennis-wong) para el South China Morning Post (publicada el 30 de marzo de este año).
+\* Y para tener evidencia de lo cerca que ya estamos de un trabajo profesional, por favor revisen la infografía digital titulada "[Child abuse in Hong Kong](https://multimedia.scmp.com/infographics/news/hong-kong/article/3172267/child-abuse/index.html)", la que fue desarrollada por [Dennis Wong](https://www.scmp.com/author/dennis-wong) para el South China Morning Post (publicada el 30 de marzo de este año).
 
 - - - - - - - 
 
