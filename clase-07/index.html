@@ -12,16 +12,17 @@
             :root {
                 --bs-font-sans-serif: "Roboto", sans-serif;
                 --bs-body-color: #fff;
-                --bs-body-bg: #111;
+            }
+            body{
+                background: black url('img/arriba.jpg') no-repeat center top;
+                background-size: auto 40vh;
+                padding-top: 28vh;
             }
             @media (min-width: 992px) {
                 header p {
                     text-align: justify;
                     text-justify: inter-word;
                 }
-            }
-            h1 {
-                font-size: calc(2rem + 2vw);
             }
         </style>
     </head>
@@ -30,9 +31,9 @@
         <header class="container">
             <div class="row py-4">
                 <div class="col-11 col-sm-10 col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto">
-                    <h1 class="mb-3 mt-5 text-center">Reemplaza este título</h1>
+                    <h1 class="mb-3 mt-5 text-center display-4">Reemplaza este título</h1>
                     <h2 class="fs-6 mb-5 text-center text-uppercase">Nombre Apellido</h2>
-                    <p class="lead">Reemplaza este párrafo con un sumario del asunto, que sirvea de gancho para continuar con la lectura; ojalá sea un solo párrafo, de una extensión máxima de cien palabras. En este y todos los reemplazos, respeta los colores del código fuente en tu editor. Los colores son indicaciones.</p>
+                    <p class="lead">Reemplaza este párrafo con un sumario del asunto a tratar, que sirva de gancho para continuar con la lectura. El párrafo debería tener una extensión máxima de cien palabras. Y recuerda que en este y en todos los reemplazos debes cuidar los colores del código fuente en tu editor. Los colores son indicaciones; si éstos cambian repentinamente, están indicando que algo debe revisarse.</p>
                 </div>
             </div>
         </header>
@@ -40,12 +41,12 @@
         <main class="container">
             <div class="row pb-5">
                 <div class="col-11 col-sm-10 col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto">
-                    <p>Reemplaza este párrafo con un texto que complemente al introductorio. Puedes extender este párrafo hasta las doscientas palabras. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque ultricies elit eu pellentesque. Fusce a justo pellentesque, scelerisque tellus in, aliquet est. Curabitur nec porttitor nunc. Nullam elementum orci eget rhoncus congue. Proin quis laoreet tellus. Vivamus molestie ullamcorpernisi, sed aliquet magna molestie id. Vivamus semper ipsum eget.</p>
+                    <p>Reemplaza este párrafo con un texto que complemente al introductorio. Puedes extender este párrafo hasta las doscientas palabras. Si fuese necesario, agregar un segundo párrafo antes de presentar los 5 pasos en un proceso o los 5 variantes de un problema. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque ultricies elit eu pellentesque. Fusce a justo pellentesque, scelerisque tellus in, aliquet est. Curabitur nec porttitor nunc. Nullam elementum orci eget rhoncus congue.</p>
 
                     <figure class="row d-flex align-items-center mt-5">
                         <img src="img/reemplazar-1.svg" class="img-fluid col-12 col-md-6" />
                         <figcaption class="col-12 col-md-6">
-                            <p class="text-white-50">
+                            <p class="text-white-50 small">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget luctus enim. Phasellus urna enim, euismod non vulputate viverra, sollicitudin in lorem. Vestibulum blandit lacinia dolor.
                             </p>
                         </figcaption>
@@ -54,7 +55,7 @@
                     <figure class="row d-flex align-items-center">
                         <img src="img/reemplazar-2.svg" class="img-fluid col-12 col-md-6 order-md-2" />
                         <figcaption class="col-12 col-md-6 order-md-1">
-                            <p class="text-md-end text-white-50">
+                            <p class="text-md-end text-white-50 small">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget luctus enim. Phasellus urna enim, euismod non vulputate viverra, sollicitudin in lorem. Vestibulum blandit lacinia dolor.
                             </p>
                         </figcaption>
@@ -63,7 +64,7 @@
                     <figure class="row d-flex align-items-center">
                         <img src="img/reemplazar-3.svg" class="img-fluid col-12 col-md-6" />
                         <figcaption class="col-12 col-md-6">
-                            <p class="text-white-50">
+                            <p class="text-white-50 small">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget luctus enim. Phasellus urna enim, euismod non vulputate viverra, sollicitudin in lorem. Vestibulum blandit lacinia dolor.
                             </p>
                         </figcaption>
@@ -72,7 +73,7 @@
                     <figure class="row d-flex align-items-center">
                         <img src="img/reemplazar-4.svg" class="img-fluid col-12 col-md-6 order-md-2" />
                         <figcaption class="col-12 col-md-6 order-md-1">
-                            <p class="text-md-end text-white-50">
+                            <p class="text-md-end text-white-50 small">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget luctus enim. Phasellus urna enim, euismod non vulputate viverra, sollicitudin in lorem. Vestibulum blandit lacinia dolor.
                             </p>
                         </figcaption>
@@ -81,11 +82,18 @@
                     <figure class="row d-flex align-items-center mb-5">
                         <img src="img/reemplazar-5.svg" class="img-fluid col-12 col-md-6" />
                         <figcaption class="col-12 col-md-6">
-                            <p class="text-white-50">
+                            <p class="text-white-50 small">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget luctus enim. Phasellus urna enim, euismod non vulputate viverra, sollicitudin in lorem. Vestibulum blandit lacinia dolor.
                             </p>
                         </figcaption>
                     </figure>
+
+                    <p>Puedes agregar un párrafo de resumen o cierre. Nullam scelerisque ultricies elit eu pellentesque. Fusce a justo pellentesque, scelerisque tellus in, aliquet est. Curabitur nec porttitor nunc. Nullam elementum orci eget rhoncus congue. Proin quis laoreet tellus. Vivamus molestie ullamcorpernisi.</p>
+
+                    <hr class="w-25 mx-auto my-5">
+                    
+                    <p class="text-center text-light small mb-5">Debes agregar un párrafo con indique las fuentes y los recursos utilizados. Conviene que hagas una revisión del cumplimiento de la clásica <a href="http://credibility.stanford.edu/guidelines/index.html" target="_blank" class="link-light fst-italic">Top 10 List of design factors influencing site credibility</a>.</p>
+
                 </div>
             </div>
         </main>
