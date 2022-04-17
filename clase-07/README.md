@@ -40,8 +40,6 @@ A de versiones anteriores del OPR de Infografía Digital, podemos agregar alguno
 
 **En los 12 trabajos vinculados, los estudiantes usaron HTML, SVG, CSS, algo de JavaScript y la ayuda de [Bootstrap](https://getbootstrap.com/).** 
 
-Nosotros hemos usado [Bootstrap](https://getbootstrap.com/) desde (el ejercicio de) la primera clase.
-
 - - - - - - - 
 
 #### Bootstrap
