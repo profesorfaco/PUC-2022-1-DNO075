@@ -2,7 +2,7 @@
 
 ### Clase 07 → 18/04/2022
 
-Ya hemos revisado:
+Ya podemos reconocer y diferenciar:
 
 - **HTML**: Un lenguaje descriptivo que podemos reconocer por sus **elementos** demarcados con `<etiqueta atributo="…"></etiqueta>`.
 
@@ -32,15 +32,15 @@ CONFLICTOS SOCIOAMBIENTALES:
 - https://paltorcas.github.io/examen/
 - https://litidos.github.io/Examen/
 
-A los trabajos recién vinculados, podemos agregar algunos trabajos de estudiantes del diplomado de infografía en Diseño UC, versión 2021-2022.
+A de versiones anteriores del OPR de Infografía Digital, podemos agregar algunos trabajos de estudiantes del diplomado de infografía en Diseño UC, versión 2021-2022.
 
 - https://siamang-infografia.github.io/final/
 - https://hipopotamo-pigmeo.github.io/final/
 - https://orangutan-borneo-uc.github.io/final/
 
-**En los 12 trabajos vinculados, los estudiantes usaron tales lenguajes y la ayuda de [Bootstrap](https://getbootstrap.com/).** 
+**En los 12 trabajos vinculados, los estudiantes usaron HTML, SVG, CSS, algo de JavaScript y la ayuda de [Bootstrap](https://getbootstrap.com/).** 
 
-Nosotros hemos estados recibiendo ayuda de [Bootstrap](https://getbootstrap.com/) desde (el ejercicio de) la primera clase.
+Nosotros hemos usado [Bootstrap](https://getbootstrap.com/) desde (el ejercicio de) la primera clase.
 
 - - - - - - - 
 
@@ -61,7 +61,7 @@ Digamos que quiero dividir una pantalla en dos partes iguales:
 </div>
 ```
 
-Ahora, quiero hacer la misma división pero sólo desde una pantalla mediana ([mayor a 768px de ancho](https://getbootstrap.com/docs/5.0/layout/breakpoints/#available-breakpoints)):
+Ahora, quiero hacer la misma división pero sólo **desde** una pantalla mediana ([mayor a 768px de ancho](https://getbootstrap.com/docs/5.0/layout/breakpoints/#available-breakpoints)):
 
 ```
 <div class="container">
@@ -76,7 +76,7 @@ Considerando que Robert Bringhurst (2008) escribe:
 
 > La cantidad que se considera satisfactoria como longitud de línea para una página de una sola columna compuesta en una fuente con remates va entre 45 u 75 caracteres. La línea de 66 caracteres (contando tanto las letras como los espacios en blanco) se considera ideal. Para un trabajo de varias columnas, 40 a 50 caracteres es un buen promedio.
 
-Podríamos necesitar una imagen a todo lo ancho de la fila dentro del contenedor, y bajo ella un párrafo centrado que utilice menos columnas en la medida que tengamos un mayor ancho de pantalla, así mantener una anchura de párrafo cómoda a la lectura. El código del documento completo debería verse así:
+Podríamos necesitar una imagen a todo lo ancho de la fila dentro del contenedor, y bajo ella un párrafo centrado que utilice menos columnas en la medida que tengamos un mayor ancho de pantalla, así mantener una anchura de párrafo cómoda a la lectura. El código para ello debería verse así:
 
 ```
 <!DOCTYPE html>
@@ -106,7 +106,7 @@ Podríamos necesitar una imagen a todo lo ancho de la fila dentro del contenedor
 
 Conviene copiar el código completo recién presentado y pegarlo en un documento vacío, recién creado en el editor de código fuente. A este documento le podemos llamar `ejemplo-1.html`.
 
-En otro documento, que podemos llamar `ejemplo-2.html`, copiemos y peguemos lo que sigue para poner a prueba la [propiedad display de Bootstrap](https://getbootstrap.com/docs/5.1/utilities/display/):
+En otro documento, que podemos llamar `ejemplo-2.html`, copiemos y peguemos lo que sigue para poner a prueba el [display de Bootstrap](https://getbootstrap.com/docs/5.1/utilities/display/):
 
 ```
 <!DOCTYPE html>
