@@ -149,9 +149,9 @@ Al tratarse de las clases definidas en el CSS de Bootstrap, la misma solución r
 
 #### EJERCICIO
 
-[**En el ejercicio mostraremos 5 pasos en un proceso o 5 variantes de un problema. Cada paso o tipo tendrá su gráfica figurativa y un breve relato descriptivo**](https://profesorfaco.github.io/dno075-2022-1/clase-07/). 
+[**En el ejercicio mostraremos 5 pasos, 5 tipos o 5 variantes de algo. Cada paso, tipo o variante tendrá su gráfica figurativa y un breve relato descriptivo**](https://profesorfaco.github.io/dno075-2022-1/clase-07/). Puede ser válido, por ejemplo, trabajar con cinco tipos de mascarillas: caseras, higiénicas, quirúrgicas, autofiltrantes sin válvula y autofiltrantes con válvula.
 
-Cada gráfica puede ser descargada desde:
+Cada gráfica puede dibujada en un editor de gráficos vectoriales (Adobe Illustrator, InkScape, [etc.](https://www.makeuseof.com/tag/free-browser-adobe-illustrator-alternatives/)). También puede ser descargada desde:
 
 - https://www.guemil.info/icons/
 - https://visualpharm.com/
@@ -159,11 +159,11 @@ Cada gráfica puede ser descargada desde:
 - https://openmoji.org/library/
 - https://icons.getbootstrap.com/
 
-Recuerden revisar los atributos que definen el tamaño de cada SVG descargado; que no tenga `height` ni `width`, que si tenga su `viewBox`. 
+Es importante revisar los atributos que definen el tamaño de cada SVG; que no tenga `height` ni `width`, que si tenga su `viewBox`. 
 
-Sólo necesitaremos una opción para cada gráfica. Lo *responsive* será el lugar texto: En pantallas grandes se moverá de izquierda a derecha de cada gráfica, pero en pantallas chicas estará siempre debajo de cada gráfica para [la redacción linear](https://youtu.be/iEB3oILm-qQ?t=2010).
+Sólo se necesitará una opción para cada gráfica. Lo *responsive* será el lugar texto: En pantallas grandes se moverá de izquierda a derecha de cada gráfica, pero en pantallas chicas estará siempre debajo de cada gráfica para reforzar [la redacción linear](https://youtu.be/iEB3oILm-qQ?t=2010).
 
-Para que no se desarme tanto el código, convendría vincular a cada SVG como `<object type="image/svg+xml" data="…"></object>` (no incluirlo directamente entre líneas).
+Para que no se desarme tanto el código, convendría vincular a cada gráfica como `<object type="image/svg+xml" data="…"></object>` (no incluir el SVG directamente entre líneas).
 
 \* Para tener evidencia de lo cerca que ya estamos de un trabajo profesional, por favor revisen la infografía digital titulada "[Child abuse in Hong Kong](https://multimedia.scmp.com/infographics/news/hong-kong/article/3172267/child-abuse/index.html)", la que fue desarrollada por [Dennis Wong](https://www.scmp.com/author/dennis-wong) para el South China Morning Post (publicada el 30 de marzo de este año).
 
