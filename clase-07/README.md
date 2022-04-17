@@ -165,7 +165,7 @@ Sólo necesitaremos una opción para cada gráfica. Lo *responsive* será el lug
 
 Para que no se desarme tanto el código, convendría vincular a cada SVG como `<object type="image/svg+xml" data="…"></object>` (no incluirlo directamente entre líneas).
 
-\* Para tener evidencia de lo cerca que ya estamos de un trabajo profesional, por favor revisen la infografía digital titulada "[Child abuse in Hong Kong](https://multimedia.scmp.com/infographics/news/hong-kong/article/3172267/child-abuse/index.html)", la que fue desarrollada por Dennis Wong para el South China Morning Post (publicada el 30 de marzo de este año).
+\* Para tener evidencia de lo cerca que ya estamos de un trabajo profesional, por favor revisen la infografía digital titulada "[Child abuse in Hong Kong](https://multimedia.scmp.com/infographics/news/hong-kong/article/3172267/child-abuse/index.html)", la que fue desarrollada por [Dennis Wong](https://www.scmp.com/author/dennis-wong) para el South China Morning Post (publicada el 30 de marzo de este año).
 
 - - - - - - - 
 
