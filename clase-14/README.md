@@ -8,10 +8,7 @@ En esta implementación corresponde poner, primero, mucha atención en la gráfi
 
 Por grupos, vamos a revisar:
 
-1. que la función de cada gráfica corresponda con lo que se quiere mostrar:
-
-- https://datavizcatalogue.com/ES/buscar.html
-- https://www.visual-literacy.org/periodic_table/periodic_table.html
+1. que la función de cada gráfica corresponda con lo que se quiere mostrar: https://datavizcatalogue.com/ES/buscar.html y https://www.visual-literacy.org/periodic_table/periodic_table.html
 
 2. que se mantenga la legibilidad de cada detalle en cada gráfica: ¿Corresponde ajustarlas o replantearlas para distintas pantallas? 
 
