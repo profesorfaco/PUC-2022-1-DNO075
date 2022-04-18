@@ -155,6 +155,7 @@ Cada gráfica puede dibujada en un editor de gráficos vectoriales (Adobe Illust
 - https://visualpharm.com/
 - https://www.svgrepo.com/
 - https://openmoji.org/library/
+- https://thenounproject.com/
 - https://icons.getbootstrap.com/
 
 Es importante revisar los atributos que definen el tamaño de cada SVG; que no tenga `height` ni `width`, que si tenga su `viewBox`. 
