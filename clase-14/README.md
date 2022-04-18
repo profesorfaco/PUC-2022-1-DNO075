@@ -2,7 +2,7 @@
 
 ### Clase 14 → 06/06/2022
 
-Hoy corresponde tomar el boceto grupal final de [la clase recién pasada](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) y poner atención en los detalles de las gráficas no figurativa que necesiten desarrollarse (para distintas pantallas).
+Hoy corresponde tomar el boceto grupal final de [la clase recién pasada](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) y poner atención en los detalles de la gráfica no figurativa que deba desarrollarse para distintas pantallas.
 
 El primero, no-tan-detalle, es asegurar que la elección del gráfico sigue a la función:
 
