@@ -12,16 +12,16 @@ En cada copia se debe rescatar la mayor cantidad de elementos posibles desde el 
 
 #### TAREA
 
-Recordarán los temas generales definidos en los trabajos compartidos hace un par de clases:
+Los trabajos de estudiantes compartidos hace [un par de clases](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-07#readme) nos presentaban un asunto específico, pero cada asunto era parte de una temática general de curso:
 
-1. VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE
-2. FAUNA ENDÉMICA DE CHILE
-3. CONFLICTOS SOCIOAMBIENTALES EN CHILE
-4. ANIMALES EN PELIGRO DE EXTINSIÓN, QUE SE PUEDEN ENCONTRAR EN EL BUIN ZOO.
+1. OPR, tercera versión: VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE
+2. OPR, segunda vesión: FAUNA ENDÉMICA DE CHILE
+3. OPR, primera versión: CONFLICTOS SOCIOAMBIENTALES EN CHILE
+4. Diplomado: ANIMALES EN PELIGRO DE EXTINSIÓN, QUE SE PUEDEN ENCONTRAR EN EL BUIN ZOO.
 
-Todo el curso trabajó con tema 1, 2, 3 o 4, y cada grupo presentó algo específico.
+Dicho de otro modo, todo el curso trabajó con tema 1, 2, 3 o 4, y cada grupo presentó algo específico dentro de tal tema.
 
-Se les solicita pensar en una tema general que pueda ser abordado como curso, del que puedan derivarse 6 específicos. 
+**La tarea es pensar en una tema general que pueda ser abordado como curso**. 
 
 - - - - - - - - - - - - -
 
