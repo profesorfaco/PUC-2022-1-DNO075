@@ -4,17 +4,17 @@
 
 Hoy corresponde tomar el boceto grupal final y comenzar a implementarlo con HTML, CSS, JavaScript y SVG. 
 
-En esta implementación corresponde poner, primero, mucha atención en la gráfica figurativa, no figurativa y mixta que sea incluida en cada infografía.
+Al comenzar esta implementación vamos a poner mucha atención en cada gráfica figurativa, no figurativa y mixta que deba incluirse.
 
 Por grupos, vamos a revisar:
 
 1. que la función de cada gráfica corresponda con lo que se quiere mostrar: https://datavizcatalogue.com/ES/buscar.html y https://www.visual-literacy.org/periodic_table/periodic_table.html
 
-2. que se mantenga la legibilidad de cada detalle en cada gráfica: ¿Corresponde ajustarlas o replantearlas para distintas pantallas? 
+2. que se mantenga la legibilidad de los detalles en cada gráfica: ¿Corresponde ajustarlas o replantearlas para distintas pantallas? 
 
 3. que los colores ofrezcan [contraste figura/fondo](https://webaim.org/resources/contrastchecker/) adecuado a su presentación en pantalla, y que la diferencia entre colores sea adecuada para [personas con daltonismo](https://www.toptal.com/designers/colorfilter).
 
-Mientras avanzamos en tal revisión, los estudiantes podrán probar alternativas para [RAWGraphs 2.0](https://app.rawgraphs.io/):
+Mientras avanzamos en tal revisión, los grupos podrán probar alternativas para [RAWGraphs 2.0](https://app.rawgraphs.io/):
 
 - https://www.datawrapper.de/
 - https://flourish.studio/
