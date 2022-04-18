@@ -2,15 +2,7 @@
 
 ### Clase 15 → 13/06/2022
 
-Hoy corresponde tomar el boceto grupal final de [la clase 13](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) y los gráficos resueltos en la [clase 14](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-14) para integrarlos y generar dos versiones del mismo: Uno para pantalla de computador y otro para pantalla de dispositivo móvil. 
-
-Ambos bocetos deben incluirse en el README.md de un nuevo repositorio, en donde deben subirse un avance resuelto, en:
-
-- 50% con HTML, CSS, SVG y JavaScript, 
-
-- 50% con imágenes que se recorten del boceto grupal. 
-
-No olvidar que en las imágenes recortadas del boceto grupal corresponde cuidar el peso, usando: 
+En la pre-etrega deben ser incluidas las gráficas definitivas. Ninguna gráfica puede tener un peso excesivo:
 
 - https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
 
@@ -30,8 +22,6 @@ No olvidar que en las imágenes recortadas del boceto grupal corresponde cuidar 
 
 #### EJERCICIO
 
-Con base en el boceto grupal final de [la clase recién pasada](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) se genera una plantilla de base, diferente para cada grupo.
-
 **En la clase de hoy, el trabajo grupal será evaluado con un máximo de 4 puntos** 
 
 | CRITERIO | PTS.  |
@@ -39,7 +29,7 @@ Con base en el boceto grupal final de [la clase recién pasada](https://github.c
 | Integración de sus [antecedentes (clase 12)](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12) | 1 pto. |
 | Redacción linear de su infografía digital | 1 pto. |
 | Títulos y textos originales ya incluidos en HTML | 1 pto. |
-| Uso de recortes del [boceto (clase 13)](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) con resolución y peso optimizados | 1 pto. |
+| Gráficas con resolución y peso optimizados | 1 pto. |
 
 **A la evaluación de esta clase se sumará sus evaluaciones de las dos clases anteriores, así obtendrán nota máxima de 7 ((12/2)+1).**
 
