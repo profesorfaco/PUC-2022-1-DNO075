@@ -18,8 +18,6 @@ Para facilitar el trabajo grupal, desde esta clase usaremos **repositorios cread
 
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-- https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
 Para lo que se escriba en cada README.md, consideren:
 
 - Moran, K. (2016) [How to Present Scientific Findings Online](https://www.nngroup.com/articles/scientific-findings-online/)
