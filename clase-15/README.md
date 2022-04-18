@@ -2,7 +2,7 @@
 
 ### Clase 15 → 13/06/2022
 
-Hoy corresponde tomar el boceto grupal final de [la clase recién pasada](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) y generar dos versiones del mismo: Uno para pantalla de computador y otro para pantalla de dispositivo móvil. 
+Hoy corresponde tomar el boceto grupal final de [la clase 13](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) y los gráficos resueltos en la [clase 14](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-14) para integrarlos y generar dos versiones del mismo: Uno para pantalla de computador y otro para pantalla de dispositivo móvil. 
 
 Ambos bocetos deben incluirse en el README.md de un nuevo repositorio, en donde deben subirse un avance resuelto, en:
 
