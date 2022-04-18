@@ -55,27 +55,29 @@ Considerando los días lunes entre 7 de marzo y 4 de julio, conviene apuntar que
 
 [Clase 06 → 11/04/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-06) → Gráficos con SVG, CSS y JavaScript ✓
 
-[Clase 07 → 18/04/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-07) → Infografía digital: HTML, SVG y CSS
+[Clase 07 → 18/04/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-07) → Infografía digital: HTML, SVG y CSS ✓
 
-**Clase 08 → 02/05/2022** → Suspensión de actividades docentes de Pregrado
+[Clase 08 → 25/04/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-08) → Infografía digital: HTML, SVG y CSS
 
-[Clase 09 → 09/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-09) → Infografía digital: HTML, SVG, CSS y JavaScript
+**Clase 09 → 02/05/2022** → Suspensión de actividades docentes de Pregrado
 
-[Clase 10 → 16/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10) → Trabajo de aplicación
+[Clase 10 → 09/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10) → Trabajo de aplicación
 
-[Clase 11 → 23/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-11) → Definición de temática y subtemáticas para una infografía digital grupal
+[Clase 11 → 16/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-11) → Definición de temática y subtemáticas para una infografía digital grupal
 
-[Clase 12 → 30/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12) → Investigación de subtemática y análisis de antecedentes de infografía digital
+[Clase 12 → 23/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12) → Investigación de subtemática y análisis de antecedentes de infografía digital
 
-[Clase 13 → 06/06/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) → Bocetaje y redacción linear de infografía digital
+[Clase 13 → 30/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) → Bocetaje y redacción linear de infografía digital
 
-[Clase 14 → 13/06/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-14) → Pre-Entrega de infografía digital grupal
+[Clase 14 → 06/06/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-14) → Ajustes en visualización de datos, información y metáforas.
 
-**Clase 15 → 20/06/2022** → Suspensión actividades académicas y administrativas
+[Clase 15 → 13/06/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-15) → Pre-Entrega de infografía digital grupal
 
-**Clase 16 → 27/06/2022** → Feriado Religioso → San Pedro y San Pablo
+**Clase 16 → 20/06/2022** → Suspensión actividades académicas y administrativas
 
-[Clase 17 → 04/07/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-17) → Entrega final de infografía digital (grupal)
+**Clase 17 → 27/06/2022** → Feriado Religioso → San Pedro y San Pablo
+
+[Clase 18 → 04/07/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-18) → Entrega final de infografía digital (grupal)
 
 
 - - - - - - - - - -
