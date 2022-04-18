@@ -4,7 +4,7 @@
 
 **Vamos directo a [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2022-1/clase-08/)**
 
-Con ellos replantearemos lo trabajado en [la clase 07](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-07), recordando lo revisado en [la clase 06](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-06).
+Con ellos replantearemos el ejercicio de [la clase 07](https://profesorfaco.github.io/dno075-2022-1/clase-07/), recordando lo revisado en [la clase 06](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-06).
 
 En esta ocasión, volvemos al trabajo individual:
 
