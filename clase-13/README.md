@@ -1,6 +1,6 @@
 # Bocetaje y redacción linear de infografía digital
 
-### Clase 13 → 06/06/2022 
+### Clase 13 → 30/05/2022
 
 Hoy corresponde realizar un trabajo que se recomienda **dividir en 3 etapas**, adaptando una dinámica de diseño colaborativo conocida como *Design Studio*, la que se describe en el libro [Lean UX de Jeff Gothelf (pp.37-41)](https://drive.google.com/file/d/1sjTOzb0sRthTwPaNZF5wDJ4KkEsgChAc/view?usp=sharing). La etapas exigen:
 

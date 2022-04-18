@@ -1,6 +1,6 @@
 # Investigación de subtemática y análisis de antecedentes de infografía digital
 
-### Clase 12 → 30/05/2022
+### Clase 12 → 23/05/2022
 
 Cada grupo debe presentar el `README.md` del repositorio creado en una organización de Github.
 

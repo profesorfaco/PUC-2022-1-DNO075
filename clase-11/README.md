@@ -1,6 +1,6 @@
 # Definición de temática y subtemáticas para una infografía digital grupal
 
-###  Clase 11 → 25/10/2021
+###  Clase 11 → 16/05/2022
 
 En esta clase, que abre una tercera y última etapa en este Optativo, corresponde:
 

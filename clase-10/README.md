@@ -1,6 +1,6 @@
 # Trabajo de aplicación
 
-### Clase 10 → 16/05/2022
+### Clase 10 → 09/05/2022
 
 En esta clase se cierra la segunda etapa del Optativo, con un ejercicio práctico e individual. 
 
@@ -12,9 +12,7 @@ En cada copia se debe rescatar la mayor cantidad de elementos posibles desde el 
 
 #### TAREA
 
-Volver a revisar los vínculos compartidos en la [clase 8](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-08).
-
-Noten que las temáticas definidas en tales trabajos fueron las siguientes:
+Recordarán los temas generales definidos en los trabajos compartidos hace un par de clases:
 
 1. VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE
 2. FAUNA ENDÉMICA DE CHILE
@@ -23,7 +21,9 @@ Noten que las temáticas definidas en tales trabajos fueron las siguientes:
 
 Todo el curso trabajó con tema 1, 2, 3 o 4, y cada grupo presentó algo específico.
 
+Se les solicita pensar en una tema general que pueda ser abordado como curso, del que puedan derivarse 6 específicos. 
+
 - - - - - - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-09) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-11) 
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-08) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-11) 
 
