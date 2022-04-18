@@ -8,7 +8,7 @@
 
 - **Calidad informativa**: Evidencia de un tema bien investigado, desplegado en función del medio digital.
 
-- **Resolución gráfica**: Cuidado de los detalles de la forma, el color, los contraste, la legibilidad, el peso de las imágenes, etc.
+- **Resolución gráfica**: Cuidado de los detalles de  forma, color, contraste, legibilidad, *responsividad* y peso de las gráficas.
 
 - **Responsividad**: La infografía digital se despliega correctamente en *smartphone* y otros dispositivos.
 
