@@ -16,6 +16,7 @@ Por grupos, vamos a revisar:
 
 Mientras avanzamos en tal revisión, los grupos podrán probar alternativas para [RAWGraphs 2.0](https://app.rawgraphs.io/):
 
+- https://infogram.com/
 - https://www.datawrapper.de/
 - https://flourish.studio/
 - https://www.chartjs.org/
