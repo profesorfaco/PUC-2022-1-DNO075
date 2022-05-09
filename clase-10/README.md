@@ -20,7 +20,9 @@ Pero el trabajo no se termina allí. Por favor hagan scroll hasta el final del [
 
 **Para entregar: https://cursos.canvas.uc.cl/courses/43535/discussion_topics/442736**
 
-#### Extra
+- - - - - - - - - - - - - 
+
+#### EXTRA
 
 **¡No tengo Photoshop!** Pruebe con https://squoosh.app/ o https://www.photopea.com/
 
