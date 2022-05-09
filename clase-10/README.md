@@ -9,7 +9,9 @@ Cada estudiante debe copiar parte de una infografía digital publicada en el [So
 Tienen como base el material dentro de esta misma carpeta: 
 
 [index.html](https://github.com/profesorfaco/dno075-2022-1/blob/main/clase-10/index.html)
+
 [/video](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10/video)
+
 [/svg](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10/svg)
 
 Revisen los nombres de los archivos dentro de la carpeta [svg](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10/svg); tales nombres son indicaciones para identificar la gráfica que deben copiar de https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/
