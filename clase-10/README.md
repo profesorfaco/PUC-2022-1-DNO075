@@ -4,9 +4,19 @@
 
 En esta clase se cierra la segunda etapa del Optativo, con un ejercicio práctico e individual. 
 
-Cada estudiante debe copiar parte de una infografía digital publicada en el [South China Morning Post](https://www.scmp.com/infographic/). 
+Cada estudiante debe copiar parte de una infografía digital publicada en el [South China Morning Post](https://www.scmp.com/infographic/), **la de [Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/)**
 
-En cada copia se debe rescatar la mayor cantidad de elementos posibles desde el código fuente original, haciendo traducción al castellano de cada información.
+Tienen como base el material dentro de esta misma carpeta: 
+
+[index.html](https://github.com/profesorfaco/dno075-2022-1/blob/main/clase-10/index.html)
+[/video](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10/video)
+[/svg](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10/svg)
+
+Revisen los nombres de los archivos dentro de la carpeta [svg](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10/svg); tales nombres son indicaciones para identificar la gráfica que deben copiar de https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/
+
+Pero el trabajo no se termina allí. Por favor hagan scroll hasta el final del [index.html](https://profesorfaco.github.io/dno075-2022-1/clase-10/) preparado; en la parte baja de la página encontrarán una sección que se titula "Mi Proceso". Revisen las indicaciones bajo el título.
+
+**Para entregar: https://cursos.canvas.uc.cl/courses/43535/discussion_topics/442736**
 
 - - - - - - - - - - - - - 
 
