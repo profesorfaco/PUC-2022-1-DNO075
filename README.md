@@ -59,9 +59,9 @@ Considerando los días lunes entre 7 de marzo y 4 de julio, conviene apuntar que
 
 [Clase 08 → 25/04/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-08) → Infografía digital: HTML, SVG, CSS y JavaScript ✓
 
-**Clase 09 → 02/05/2022** → Suspensión de actividades docentes de Pregrado
+**Clase 09 → 02/05/2022** → Suspensión de actividades docentes de Pregrado ✓
 
-[Clase 10 → 09/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10) → Trabajo de aplicación
+[Clase 10 → 09/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10) → Trabajo de aplicación ✓
 
 [Clase 11 → 16/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-11) → Definición de temática y subtemáticas para una infografía digital grupal
 
