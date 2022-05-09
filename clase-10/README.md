@@ -20,6 +20,12 @@ Pero el trabajo no se termina allí. Por favor hagan scroll hasta el final del [
 
 **Para entregar: https://cursos.canvas.uc.cl/courses/43535/discussion_topics/442736**
 
+#### Extra
+
+**¡No tengo Photoshop!** Pruebe con https://squoosh.app/ o https://www.photopea.com/
+
+**¡No tengo Illustrator!** Pruebe con alguno de estos https://mockitt.wondershare.com/graphic-design/online-vector-editor.html
+
 - - - - - - - - - - - - - 
 
 #### TAREA
