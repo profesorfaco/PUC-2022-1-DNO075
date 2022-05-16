@@ -12,6 +12,34 @@ En esta clase, que abre una tercera y última etapa en este Optativo, correspond
 
 En este caso la temática son los desastres socionaturales en Chile. El sub-tema de cada grupo podría ser una amenaza de origen tanto natural como antrópico: grupo terremotos, grupo tsuamis, grupo erupciones volcánicas, grupo sequías y grupo incendios forestales.
 
+Para que tengan a la vista el "destino" de la temática y subtemáticas por definir, algunos ejemplos de infografías:
+
+- https://multimedia.scmp.com/infographics/sport/article/3028045/rugby-world-cup/
+
+- https://multimedia.scmp.com/infographics/news/hong-kong/article/3030696/from-occupy-to-hong-kong-protests/index.html
+
+- https://multimedia.scmp.com/infographics/lifestyle/article/3001002/dragon-boat/index.html
+
+- https://graphics.reuters.com/OLYMPICS-2020/HISTORY/oakpedqbgvr/
+
+- https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/
+
+- https://graphics.reuters.com/CLIMATE-CHANGE/BRAZIL-CARBON/nmovabezapa/
+
+- https://graphics.reuters.com/GLOBAL-ENVIRONMENT/SAND-POYANG/qzjpqxxabvx/index.html
+
+- https://graphics.reuters.com/UKRAINE-CRISIS/GAS/gdpzynlxovw/
+
+- https://graphics.reuters.com/SOCCER-EUROPE/BREAKAWAY-INTERNATIONALS/oakvewxqjvr/index.html
+
+- https://graphics.reuters.com/CHINA-CRASH/znvneqennpl/index.html
+
+- https://graphics.reuters.com/UKRAINE-CRISIS/AIRLINES/klpykbmropg/
+
+Más en https://www.nytimes.com/spotlight/graphics 
+
+- - - - - - - - -
+
 Para facilitar el trabajo grupal, desde esta clase usaremos **repositorios creados dentro de una organización de GitHub**. Y en estos repositorios, cada `README.md` tendrá mayor protagonismo. Para este cambio, podrían ser útiles las siguientes referencias:
 
 - https://git-scm.com/book/es/v2/GitHub-Gesti%C3%B3n-de-una-organizaci%C3%B3n
