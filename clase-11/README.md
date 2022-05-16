@@ -20,6 +20,12 @@ Para que tengan a la vista el "destino" de la temática y subtemáticas por defi
 
 - https://multimedia.scmp.com/infographics/lifestyle/article/3001002/dragon-boat/
 
+- https://multimedia.scmp.com/sport/article/world-cup/players-bad-habits/
+
+- https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/
+
+- https://multimedia.scmp.com/infographics/culture/article/3036661/cantonese-opera/
+
 - https://graphics.reuters.com/OLYMPICS-2020/HISTORY/oakpedqbgvr/
 
 - https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/
