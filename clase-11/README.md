@@ -18,7 +18,7 @@ Para que tengan a la vista el "destino" de la temática y subtemáticas por defi
 
 - https://multimedia.scmp.com/infographics/news/hong-kong/article/3030696/from-occupy-to-hong-kong-protests/index.html
 
-- https://multimedia.scmp.com/infographics/lifestyle/article/3001002/dragon-boat/index.html
+- https://multimedia.scmp.com/infographics/lifestyle/article/3001002/dragon-boat/
 
 - https://graphics.reuters.com/OLYMPICS-2020/HISTORY/oakpedqbgvr/
 
@@ -26,13 +26,13 @@ Para que tengan a la vista el "destino" de la temática y subtemáticas por defi
 
 - https://graphics.reuters.com/CLIMATE-CHANGE/BRAZIL-CARBON/nmovabezapa/
 
-- https://graphics.reuters.com/GLOBAL-ENVIRONMENT/SAND-POYANG/qzjpqxxabvx/index.html
+- https://graphics.reuters.com/GLOBAL-ENVIRONMENT/SAND-POYANG/qzjpqxxabvx/
 
 - https://graphics.reuters.com/UKRAINE-CRISIS/GAS/gdpzynlxovw/
 
-- https://graphics.reuters.com/SOCCER-EUROPE/BREAKAWAY-INTERNATIONALS/oakvewxqjvr/index.html
+- https://graphics.reuters.com/SOCCER-EUROPE/BREAKAWAY-INTERNATIONALS/oakvewxqjvr/
 
-- https://graphics.reuters.com/CHINA-CRASH/znvneqennpl/index.html
+- https://graphics.reuters.com/CHINA-CRASH/znvneqennpl/
 
 - https://graphics.reuters.com/UKRAINE-CRISIS/AIRLINES/klpykbmropg/
 
