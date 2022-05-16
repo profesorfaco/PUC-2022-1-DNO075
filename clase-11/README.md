@@ -46,13 +46,18 @@ Más en https://www.nytimes.com/spotlight/graphics
 
 - - - - - - - - -
 
-Para facilitar el trabajo grupal, desde esta clase usaremos **repositorios creados dentro de una organización de GitHub**. Y en estos repositorios, cada `README.md` tendrá mayor protagonismo. Para este cambio, podrían ser útiles las siguientes referencias:
+Para facilitar el trabajo grupal, desde esta clase usaremos **repositorios creados dentro de una organización de GitHub**:
 
-- https://git-scm.com/book/es/v2/GitHub-Gesti%C3%B3n-de-una-organizaci%C3%B3n
+- https://github.com/carnavaldebarranquilla
+
+- https://github.com/orurocarnaval
+
+- https://github.com/carnaval-latirana
+
+
+Y en estos repositorios, cada `README.md` tendrá mayor protagonismo. Para este cambio, podrían ser útiles las siguientes referencias:
 
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-Para lo que se escriba en cada README.md, consideren:
 
 - Moran, K. (2016) [How to Present Scientific Findings Online](https://www.nngroup.com/articles/scientific-findings-online/)
 
@@ -71,16 +76,21 @@ Crear cuenta de organización en GitHub, con un nombre breve y que refiera a la 
 Crear un repositorio en tal organización, y en el `README.md` de repositorio creado: 
 
 - Presentar al grupo como un equipo de trabajo, donde cada integrante asume responsabilidades acorde a sus habilidades.
-- Describir, con sus palabras, el subtema del grupo. 
 - Describir, con sus palabras, el tema del curso.
+- Describir, con sus palabras, el subtema del grupo. 
 
-Esto podría ser útil para trabajar el `README.md`: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Revisaremos tal información en: 
+
+- https://github.com/carnavaldebarranquilla/clase11
+- https://github.com/orurocarnaval/orurocarnaval
+- https://github.com/carnaval-latirana/clase-11
+
 
 - - - - - - - -
 
 #### TAREA
 
-Avanzar en la investigación del tema de curso y sub-tema grupal; tal avance será clave para las evaluaciones que siguen.
+Avanzar en la investigación del sub-tema grupal; tal avance será clave para las evaluaciones que siguen.
 
 Se recomienda que guarden registro de su avance en el `README.md` del repositorio ya creado.
 
