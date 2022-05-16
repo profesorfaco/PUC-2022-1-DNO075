@@ -74,6 +74,8 @@ Crear un repositorio en tal organización, y en el `README.md` de repositorio cr
 - Describir, con sus palabras, el subtema del grupo. 
 - Describir, con sus palabras, el tema del curso.
 
+Esto podría ser útil para trabajar el `README.md`: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 - - - - - - - -
 
 #### TAREA
