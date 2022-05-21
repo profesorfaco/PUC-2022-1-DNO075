@@ -36,7 +36,7 @@ En paralelo, los grupos que necesiten usar animaciones podría estar probando ht
 | contraste para la accesibilidad | 1 pto. |
 | código fuente | 1 pto. |
 
-**A la evaluación de esta clase se sumará sus evaluaciones de las dos clases anteriores, así obtendrán su tercera nota ((12/2)+1).**
+\* A la evaluación de esta clase se sumará sus evaluaciones de las dos clases anteriores, así obtendrán su tercera nota de la asignatura ((12/2)+1=7).
 
 - - - - - - - - - - - -
 
