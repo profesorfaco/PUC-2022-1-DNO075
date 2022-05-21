@@ -38,11 +38,6 @@ En paralelo, los grupos que necesiten usar animaciones podría estar probando ht
 
 - - - - - - - - - - - -
 
-
-
-- - - - - - - - - - -
-
-
 #### TAREA
 
 Terminar su infografía digital.
