@@ -10,7 +10,7 @@ Por grupos, vamos a revisar:
 
 1. que la función de cada gráfica corresponda con lo que se quiere mostrar: https://datavizcatalogue.com/ES/buscar.html y https://www.visual-literacy.org/periodic_table/periodic_table.html
 
-2. que se mantenga la legibilidad de los detalles en cada gráfica en las distintas pantallas, lo que implica la combinación de soluciones "líquidas" y "responsivas". 
+2. que a nivel de boceto se mantenga la legibilidad de los detalles en cada gráfica a través de las distintas pantallas, lo que implica la combinación de soluciones "líquidas" y "responsivas". 
 
 3. que los colores ofrezcan [contraste figura/fondo](https://webaim.org/resources/contrastchecker/) adecuado a su presentación en pantalla, y que la diferencia entre colores sea adecuada para [personas con daltonismo](https://www.toptal.com/designers/colorfilter).
 
