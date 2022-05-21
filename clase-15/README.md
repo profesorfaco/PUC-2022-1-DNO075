@@ -22,16 +22,21 @@ En la pre-etrega deben ser incluidas las gráficas definitivas. Ninguna gráfica
 
 #### EJERCICIO
 
-**En la clase de hoy, el trabajo grupal será evaluado con un máximo de 4 puntos** 
+**En la clase de hoy, se adelanta la evaluación final con poco detalle: Un máximo de 4 puntos** 
 
 | CRITERIO | PTS.  |
 |:---------|:-----:|
-| Integración de sus [antecedentes (clase 12)](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12) | 1 pto. |
-| Redacción linear de su infografía digital | 1 pto. |
-| Títulos y textos originales ya incluidos en HTML | 1 pto. |
-| Gráficas con resolución y peso optimizados | 1 pto. |
+| Redacción linear: Calidad del despliegue narrativo en el que [se escribe y se muestra](https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s) | 1 pto. |
+| Calidad informativa: Evidencia de un tema bien investigado, desplegado en función del medio digital. | 1 pto. |
+| Resolución gráfica: Cuidado de los detalles de forma, color, contraste, legibilidad, responsividad y peso de las gráficas. | 1 pto. |
+| Responsividad: La infografía digital se despliega correctamente en smartphone y otros dispositivos. | 1 pto. |
 
-**A la evaluación de esta clase se sumará sus evaluaciones de las dos clases anteriores, así obtendrán nota máxima de 7 ((12/2)+1).**
+En la entrega se aplicarán los mismos criterios, considerando 4 niveles de logro en lugar de 1. A saber. Dicho de otro modo, lo que hoy es un punto en la próxima clase podría estar entre 1 y 3, según se considere:
+
+- No Logrado (0)
+- Medianamente Logrado (1)
+- Logrado (2)
+- Completamente Logrado (3)
 
 - - - - - - - - - - - 
 
