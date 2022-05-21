@@ -31,7 +31,7 @@ En la pre-etrega deben ser incluidas las gráficas definitivas. Ninguna gráfica
 | Resolución gráfica: Cuidado de los detalles de forma, color, contraste, legibilidad, responsividad y peso de las gráficas. | 1 pto. |
 | Responsividad: La infografía digital se despliega correctamente en smartphone y otros dispositivos. | 1 pto. |
 
-En la entrega se aplicarán los mismos criterios, considerando 4 niveles de logro en lugar de 1. A saber. Dicho de otro modo, lo que hoy es un punto en la próxima clase podría estar entre 1 y 3, según se considere:
+En la entrega final se aplicarán los mismos criterios. Pero entonces se considerarán 4 niveles de logro en lugar de 1. Dicho de otro modo, lo que hoy es un punto en la próxima clase podría estar entre 1 y 3 puntos, según se considere:
 
 - No Logrado (0)
 - Medianamente Logrado (1)
