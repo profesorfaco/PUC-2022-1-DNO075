@@ -19,7 +19,7 @@ Varias veces hemos referido a trabajos publicados en [SCMP Infographics](https:/
 **Para poder inspirarnos: Cada grupo debe tomar un mínimo de 4 infografías digitales publicadas por los medios recién refereidos. Para presentar cada antecedente debe usar lo [compartido en esta carpeta de repositiorio](https://profesorfaco.github.io/dno075-2022-1/clase-12/). Allí encontrarán varias páginas enlazadas**, donde corresponde: 
 
 1. **presentar un pantallazo** con toda la extensión de la infografía, el que puede obtener de https://www.site-shot.com/ (en browser options active el full-size y, más abajo, cambie la escala al 50%; el resultado puede achicarse un poco más con [TinyPNG](https://tinypng.com/))
-2. **analizar los colores** en uso en la misma infografía (pueden aprovechar el mismo pantallazo, meterlo a Photoshop para transofarlo con un desenfoque exagerado, que haga imposible distinguir más que colores, y con ello puede [extraer un tema con Adobe Color](https://color.adobe.com/es/create/image))
+2. **analizar los colores** en uso en la misma infografía (pueden aprovechar el mismo pantallazo, meterlo a Photoshop para darle un desenfoque exagerado, que haga imposible distinguir más que colores, y con ello puede [extraer un tema con Adobe Color](https://color.adobe.com/es/create/image))
 3. **anotar las tipografías** usadas en la misma infografía digital (si está navegando con Google Chrome, aproveche la extensión [What Font?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)) 
 
 **En la clase de hoy, el trabajo grupal será evaluado con un máximo de 4 puntos** 
