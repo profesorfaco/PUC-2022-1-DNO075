@@ -27,6 +27,22 @@ En paralelo, los grupos que necesiten usar animaciones podría estar probando ht
 
 - - - - - - - - - - - 
 
+**La revisión también se transforma en 4 puntos, según lo ya descrito** 
+
+| CRITERIO | PTS.  |
+|:---------|:-----:|
+| función | 1 pto. |
+| responsividad para la legibilidad | 1 pto. |
+| contraste para la accesibilidad | 1 pto. |
+| código fuente | 1 pto. |
+
+- - - - - - - - - - - -
+
+
+
+- - - - - - - - - - -
+
+
 #### TAREA
 
 Terminar su infografía digital.
