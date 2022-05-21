@@ -10,7 +10,7 @@ En la pre-etrega deben ser incluidas las gráficas definitivas. Ninguna gráfica
 
 - https://squoosh.app/
 
-**Es que si ustedes incluye en su infografía recursos de peso excesivo: Están abusando de la transferencia de datos en la conexión a Internet de cada visitante**. Esta transferencia puede demorar, y en la demora el recurso no se carga. Luego, quien visita su infografía se decepciona porque no ve nada y en cosa de segundos puede dirigirse a otro lugar:
+**Recuerde que al incluir en su infografía recursos de peso excesivo: Están abusando de la transferencia de datos en la conexión a Internet de cada visitante**. Esta transferencia puede demorar, y en la demora el recurso no se carga. Luego, quien visita su infografía se decepciona porque no ve nada y en cosa de segundos puede dirigirse a otro lugar:
 
 - [Tienes 5 segundos](http://www.tienes5segundos.cl/) se llama un viejo clásico local sobre gestión de contenidos digitales. 
 
