@@ -14,7 +14,7 @@ Por grupos, vamos a revisar:
 
 3. que los colores ofrezcan [contraste figura/fondo](https://webaim.org/resources/contrastchecker/) adecuado a su presentación en pantalla, y que la diferencia entre colores sea adecuada para [personas con daltonismo](https://www.toptal.com/designers/colorfilter).
 
-4. que los elementos HTML utilizados aporten a la diferenciación de secciones de encabezado, contenido principal y pie, además de párrafos de bajada, normales y secundarios, y títulos hasta en 6 niveles de jerarquía.
+4. que los elementos HTML utilizados en la implementación aporten a la diferenciación de secciones de encabezado, contenido principal y pie, además de párrafos destacados, normales y secundarios, y títulos hasta en 6 niveles de jerarquía.
 
 Mientras avanzamos en tal revisión, los grupos que necesiten utilizar gráfica no figurativa podrán probar alternativas para [RAWGraphs 2.0](https://app.rawgraphs.io/):
 
