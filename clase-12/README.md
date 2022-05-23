@@ -2,7 +2,15 @@
 
 ### Clase 12 → 23/05/2022
 
-Cada grupo debe presentar el `README.md` del repositorio creado en una organización de Github.
+Cada grupo debe presentar un `README.md` en un repositorio creado en la organización de Github:
+
+- https://github.com/carnavaldebarranquilla
+
+- https://github.com/orurocarnaval
+
+- https://github.com/carnaval-latirana
+
+- https://github.com/carnaval-de-guaranda
 
 En el `README.md` habrá: 
 
