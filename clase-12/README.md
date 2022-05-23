@@ -32,7 +32,7 @@ Varias veces hemos referido a trabajos publicados en [SCMP Infographics](https:/
 
 Lo de cada grupo debe publicarse en repositorio de organización, aprovechando GitHub Page:
 
-- https://carnaval-la-tirana.github.io/avance/
+- https://carnavaldebarranquilla.github.io/avance/
 
 - https://orurocarnaval.github.io/avance/
 
