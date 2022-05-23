@@ -18,6 +18,8 @@ En el `README.md` habrá:
 - una descripción del tema del curso.
 - una descripción y un avance en la investigación del subtema del grupo.
  
+\* El texto "How Users Read on the Web" (Nielsen, 1997) lo pueden consultar directamente en https://www.nngroup.com/articles/how-users-read-on-the-web/
+ 
 - - - - - - - -
 
 #### EJERCICIO
