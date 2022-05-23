@@ -54,6 +54,8 @@ Para facilitar el trabajo grupal, desde esta clase usaremos **repositorios cread
 
 - https://github.com/carnaval-latirana
 
+- https://github.com/carnaval-de-guaranda
+
 
 Y en estos repositorios, cada `README.md` tendrá mayor protagonismo. Para este cambio, podrían ser útiles las siguientes referencias:
 
