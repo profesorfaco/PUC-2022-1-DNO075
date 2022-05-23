@@ -4,7 +4,7 @@
 
 Cada grupo debe presentar un `README.md` en un repositorio creado en la organización de Github:
 
-- https://github.com/carnavaldebarranquilla
+- https://github.com/carnavaldebarranquilla/avance#readme
 
 - https://github.com/orurocarnaval/avance#readme
 
