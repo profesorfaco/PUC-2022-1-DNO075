@@ -27,8 +27,8 @@ De esta manera:
 Corresponde tener copia digital de cada boceto. El peso de cada copia debe cuidarse; para ajustar el peso de cada copia, aprovechen:
 
 - https://tinypng.com/
-- https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
 - https://squoosh.app/
+- https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
 
 Ideal es que el último boceto, el grupal, se confunda con uno producido para una infografía que ha de ser publicada por el South China Morning Post o en Reuters Graphics, y bajo ninguna circunstancia se confunda con el *wireframe* de una *landing page*:
 
