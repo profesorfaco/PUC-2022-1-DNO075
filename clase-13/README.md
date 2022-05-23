@@ -59,13 +59,9 @@ También se recomienda que las partes textuales de mayor jerarquía puedan leers
 
 #### TAREA
 
-Revisar los artículos en:
+Revisar los #infofails de Marco Hernández en https://mhinfographics.com/category/infofails/
 
-- https://bluekea.com/blog/fotografia/cual-es-la-resolucion-correcta-para-fotografia-en-web 
-
-- https://nbadiola.com/peso-ideal-fotografia-para-web/
-
-- https://www.adslzone.net/como-se-hace/photoshop/guardar-imagen-para-web/
+> If you’ve seen my #infofails before, you might already know that it’s about the things I create for news and some of the mess in between
 
 - - - - - - - - - - - -
 
