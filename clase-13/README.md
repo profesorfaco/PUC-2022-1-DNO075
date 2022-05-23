@@ -6,7 +6,7 @@ Hoy corresponde realizar un trabajo que se recomienda **dividir en 3 etapas**, a
 
 **1ro.** Delimitar el desafío grupal: En concreto, ¿qué vamos a informar en redacción linear?
 
-**2do.** Cada integrante del grupo debe desarrollar un boceto respondiendo al desafío delimitado:
+**2do.** Cada integrante del grupo debe desarrollar un boceto respondiendo al desafío delimitado y usando más de una hoja (puede pegarlas por su lado más angosto, para simular una larga estructura a desplegarse en *scroll*):
  
 - Después de 10 minutos de trabajo, una primera versión de cada boceto individual se comparte con el grupo para una evaluación cruzada breve (3 minutos para presentar cada boceto y recibir indicaciones de mejora). Deben registrar cada boceto en esta primera iteración.
 
