@@ -6,11 +6,11 @@ Cada grupo debe presentar un `README.md` en un repositorio creado en la organiza
 
 - https://github.com/carnavaldebarranquilla
 
-- https://github.com/orurocarnaval
+- https://github.com/orurocarnaval/avance#readme
 
 - https://github.com/carnaval-latirana
 
-- https://github.com/carnaval-de-guaranda
+- https://github.com/carnaval-de-guaranda/avance#readme
 
 En el `README.md` habrá: 
 
