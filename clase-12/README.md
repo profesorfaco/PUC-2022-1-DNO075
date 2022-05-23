@@ -42,7 +42,7 @@ Lo de cada grupo debe publicarse en repositorio de organización, aprovechando G
 
 - https://carnaval-la-tirana.github.io/avance/
 
-- https://carnaval-de-guaranda.github.io/avance/
+- [https://carnaval-de-guaranda.github.io/avance/](https://carnaval-de-guaranda.github.io/avance/Avance/)
 
 **En la clase de hoy, el trabajo grupal será evaluado con un máximo de 4 puntos** 
 
