@@ -2,21 +2,13 @@
 
 ### Clase 15 → 13/06/2022
 
-En la pre-etrega deben ser incluidas las gráficas definitivas. Ninguna gráfica puede tener un peso excesivo:
-
-- https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
-
-- https://tinypng.com/
-
-- https://squoosh.app/
-
-**Recuerde que al incluir en su infografía recursos de peso excesivo: Están abusando de la transferencia de datos en la conexión a Internet de cada visitante**. Esta transferencia puede demorar, y en la demora el recurso no se carga. Luego, quien visita su infografía se decepciona porque no ve nada y en cosa de segundos puede dirigirse a otro lugar:
+En la pre-etrega deben ser incluidas las gráficas definitivas. Ninguna de ellas puede tener un peso en MB, todas deben pesar KB. **Recuerde que al incluir en su infografía recursos de peso excesivo: Están abusando de la transferencia de datos en la conexión a Internet de cada visitante**. Esta transferencia puede demorar, y en la demora el recurso no se carga. Luego, quien visita su infografía se decepciona porque no ve nada y en cosa de segundos puede dirigirse a otro lugar:
 
 - [Tienes 5 segundos](http://www.tienes5segundos.cl/) se llama un viejo clásico local sobre gestión de contenidos digitales. 
 
 - [5-Second Usability Test](https://www.nngroup.com/videos/5-second-usability-test/) se llama una técnica que permite evaluar la primera impresión de un sitio web. 
 
-**La regla: Si demora 5 segundos en cargar, no existe. El peso de las imágenes no da lo mismo. No lo descuiden**.
+**La regla: Si demora 5 segundos en cargar, no existe. El peso no da lo mismo. No lo descuiden**.
 
 - - - - - - - - - - - 
 
