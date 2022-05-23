@@ -19,6 +19,8 @@ En el `README.md` habrá:
 - una descripción y un avance en la investigación del subtema del grupo.
  
 \* El texto "How Users Read on the Web" (Nielsen, 1997) lo pueden consultar directamente en https://www.nngroup.com/articles/how-users-read-on-the-web/
+
+\* Pueden encontrar referencias de MarkDown (`.MD`) en https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
  
 - - - - - - - -
 
