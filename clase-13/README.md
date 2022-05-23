@@ -59,7 +59,7 @@ También se recomienda que las partes textuales de mayor jerarquía puedan leers
 
 #### TAREA
 
-Revisar los #infofails de Marco Hernández en https://mhinfographics.com/category/infofails/
+Revisar algunas publicaciones del blog de Marco Hernández etiquetadas con #infofails https://mhinfographics.com/category/infofails/
 
 > If you’ve seen my #infofails before, you might already know that it’s about the things I create for news and some of the mess in between
 
