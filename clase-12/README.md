@@ -8,7 +8,7 @@ Cada grupo debe presentar un `README.md` en un repositorio creado en la organiza
 
 - https://github.com/orurocarnaval/avance#readme
 
-- https://github.com/carnaval-latirana
+- https://github.com/carnaval-la-tirana/avance#readme
 
 - https://github.com/carnaval-de-guaranda/avance#readme
 
