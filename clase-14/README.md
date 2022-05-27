@@ -8,7 +8,7 @@ Al comenzar esta implementación vamos a poner mucha atención en cada gráfica 
 
 Por grupos, vamos a revisar:
 
-1. que la función de cada gráfica corresponda con lo que se quiere mostrar: https://datavizcatalogue.com/ES/buscar.html y https://www.visual-literacy.org/periodic_table/periodic_table.html
+1. que la función de cada gráfica corresponda con lo que se quiere mostrar: https://datavizcatalogue.com/ES/buscar.html, https://datavizproject.com/ y https://www.visual-literacy.org/periodic_table/periodic_table.html
 
 2. que a nivel de boceto se mantenga la legibilidad de los detalles en cada gráfica a través de las distintas pantallas, lo que implica la combinación de soluciones "líquidas" y "responsivas". 
 
