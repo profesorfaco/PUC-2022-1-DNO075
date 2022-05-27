@@ -8,9 +8,9 @@ Al comenzar esta implementación vamos a poner mucha atención en cada gráfica 
 
 Por grupos, vamos a revisar:
 
-1. que la función de cada gráfica corresponda con lo que se quiere mostrar: https://datavizcatalogue.com/ES/buscar.html, https://datavizproject.com/, https://www.data-to-viz.com/ y https://www.visual-literacy.org/periodic_table/periodic_table.html
+1. que la función de cada gráfica corresponda con lo que se quiere mostrar: https://datavizproject.com/, https://datavizcatalogue.com/ES/buscar.html, https://www.data-to-viz.com/ y https://www.visual-literacy.org/periodic_table/periodic_table.html
 
-2. que a nivel de boceto se mantenga la legibilidad de los detalles en cada gráfica a través de las distintas pantallas, lo que implica la combinación de soluciones "líquidas" y "responsivas". 
+2. que a nivel de boceto se mantenga la legibilidad de los detalles en cada gráfica a través de las pantallas muy pequeñas, pequeñas (`sm`), medianas (`md`), grandes (`lg`) y muy grandes (`xl`, `xxl`), lo que implica la combinación de soluciones "líquidas" y "responsivas". 
 
 3. que los colores ofrezcan [contraste figura/fondo](https://webaim.org/resources/contrastchecker/) adecuado a su presentación en pantalla, y que la diferencia entre colores sea adecuada para [personas con daltonismo](https://www.toptal.com/designers/colorfilter).
 
@@ -23,7 +23,11 @@ Mientras avanzamos en tal revisión, los grupos que necesiten utilizar gráfica 
 - https://flourish.studio/
 - https://www.chartjs.org/
 
-En paralelo, los grupos que necesiten usar animaciones podría estar probando https://lottiefiles.com/
+En paralelo, los grups que quieran usar audio, video o animaciones: 
+
+- podrían revisar [un artículo en MDN](https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
+- podría averiguar sobre [LottieFiles](https://lottiefiles.com/)
+
 
 - - - - - - - - - - - 
 
