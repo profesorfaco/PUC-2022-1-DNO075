@@ -40,6 +40,9 @@ Pero no sufran por su habilidad en el dibujo; si muestra algo comprensible, es s
 
 También se recomienda que las partes textuales de mayor jerarquía puedan leerse en cada boceto, mientras aquellas menores quedan como líneas paralelas que representan párrafos, tal como en [Infographics: The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch).
 
+![eso](https://user-images.githubusercontent.com/7999767/171008973-6eb4a5ab-3991-4757-b8c3-47c39e1d2f83.png)
+
+
 - - - - - - - - - - -
 
 #### EJERCICIO
