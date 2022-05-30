@@ -24,7 +24,7 @@ De esta manera:
 - un equipo de 5 integrantes debería producir un total de 11 (5 + 5 + 1); y 
 - un equipo de 4 integrantes debería producir un total de 9 (4 + 4 + 1).
 
-Corresponde tener copia digital de cada boceto. El peso de cada copia debe cuidarse; para ajustar el peso de cada copia, aprovechen:
+Corresponde tener copia digital de cada boceto. El peso de cada copia debe cuidarse; para cuidarlo:
 
 - https://tinypng.com/
 - https://squoosh.app/
