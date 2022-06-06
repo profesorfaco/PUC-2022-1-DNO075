@@ -63,7 +63,7 @@ A primera vista debe quedar claro de qué trata la infografía digital a la que 
 - [Maqueta del Carnaval de la Tirana](https://carnaval-la-tirana.github.io/maqueta/)
 - [Maqueta del Carnaval de Oruro](https://orurocarnaval.github.io/maqueta/)
 
-En esta maqueta vamos a poner mucha atención en cada gráfica figurativa, no figurativa y mixta que deba incluirse.
+A esta implementación la llamaremos maqueta. Y vamos a poner mucha atención en cada gráfica figurativa, no figurativa y mixta que deba incluirse en esta maqueta.
 
 Por grupos, vamos a revisar:
 
