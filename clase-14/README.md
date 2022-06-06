@@ -101,7 +101,7 @@ En paralelo, los grups que quieran usar audio, video o animaciones:
 
 #### TAREA
 
-Terminar su infografía digital.
+Avanzar en su infografía digital tanto como les sea posible. La próxima clase es la última clase antes de la entrega final (perderemos 2 lunes seguidos).
 
 - - - - - - - - - - -
 
