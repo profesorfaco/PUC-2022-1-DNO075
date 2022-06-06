@@ -47,10 +47,10 @@ A primera vista debe quedar claro de qué trata la infografía digital a la que 
 
 **4. Con un su *explanatory sketch* editado, corresponde hacer el cambio en el boceto grupal de la clase recién pasada**
 
-- https://carnaval-la-tirana.github.io/bocetos/
-- https://orurocarnaval.github.io/boceto/
-- https://carnaval-la-tirana.github.io/bocetos/
-- https://carnaval-de-guaranda.github.io/Bocetos/
+- [Carnaval de Barranquilla](https://carnavaldebarranquilla.github.io/bocetos/)
+- [Carnaval de Guaranda](https://carnaval-de-guaranda.github.io/Bocetos/)
+- [Carnaval de la Tirana](https://carnaval-la-tirana.github.io/bocetos/)
+- [Carnaval de Oruro](https://orurocarnaval.github.io/boceto/)
 
 **5. Luego el Profesor Jorge les compartirá un video para que tenga una referencia de cómo resolver un desafío de gráfica que es muy importante: El mapa**
 
