@@ -67,9 +67,9 @@ Considerando los días lunes entre 7 de marzo y 4 de julio, conviene apuntar que
 
 [Clase 12 → 23/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12) → Investigación de subtemática y análisis de antecedentes de infografía digital ✓
 
-[Clase 13 → 30/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) → Bocetaje y redacción linear de infografía digital
+[Clase 13 → 30/05/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) → Bocetaje y redacción linear de infografía digital ✓
 
-[Clase 14 → 06/06/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-14) → Ayudantía de implementación
+[Clase 14 → 06/06/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-14) → Ayudantía de implementación ✓
 
 [Clase 15 → 13/06/2022](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-15) → Pre-Entrega de infografía digital grupal
 
