@@ -31,13 +31,13 @@ El texto recién citado lo tomé de [*Basic Sketching Techniques for the Industr
 
 Desde la primera clase estamos trabajando con Bootstrap, un *frontend toolkit* que nos permite construir rápidamente páginas responsivas.
 
-La responsividad de Bootstra se basa en un lógica de tomar parte de las 12 columnas según determinadas pantallas. 
+La responsividad de Bootstrap se basa en un lógica de tomar parte de las 12 columnas según determinadas pantallas. 
 
-Para ofrecer un sketch que nos explique funciones, estructura y forma, es necesario cuidar el trabajo con 12 columnas. 
+Para ofrecer un sketch que nos explique funciones, estructura y forma en una página que resolveremos con Bootstrap, es necesario cuidar la lógica de las 12 columnas. 
 
-Entre distintos recursos esta [960.gs](https://960.gs/), que ofrece una serie de documentos para trabajar con columnas, que ustedes descargan como ZIP después de presionar el Big ol' DOWNLOAD button :)
+Entre distintos recursos que nos pueden ayudar a cuidar la lógica de las 12 columnas esta [960.gs](https://960.gs/), que ofrece una serie de documentos que ustedes descargan como ZIP después de presionar el Big ol' DOWNLOAD button :)
 
-Dentro del ZIP → dentro de la carpeta templates → dentro de la carpeta photoshop → pueden encontrar el archivo `960_grid_12_col.psd` con el que podrían su sketch.
+Dentro del ZIP → dentro de la carpeta templates → dentro de la carpeta photoshop → pueden encontrar el archivo `960_grid_12_col.psd` con el que podrían terminar de ajustar su sketch.
 
 **3. Lo primero en cada *explanatory sketch***
 
