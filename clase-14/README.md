@@ -2,7 +2,32 @@
 
 ### Clase 14 → 06/06/2022
 
-Hoy corresponde tomar el boceto grupal final y comenzar a implementarlo con HTML, CSS, JavaScript y SVG. 
+Hoy correspondía tomar el boceto grupal final y comenzar a implementarlo con HTML, CSS, JavaScript y SVG. 
+
+- - - - - - - - - 
+
+#### ¡Pero antes!
+
+Es importante tener "incorporada" la diferencia entre:
+
+-  Ideation sketches
+-  Explorative sketches
+-  Explanatory sketches
+-  Persuasive sketches
+
+**Necesitamos llegar al *Explanatory sketch***
+
+Cuando trabajamos con Bootstrap, por defecto usamos una lógica de 12 columnas. Diagramamos con 12 columnas.
+
+Para adelantar esa lógica hay recursos como https://960.gs/
+
+Y en la primera parte, la superior, de esta infografía digital, consideren: 
+
+![titulo](https://user-images.githubusercontent.com/7999767/172179691-f336f99e-07e0-40a6-92ea-926d75f0e2e7.jpg)
+
+
+- - - - - - - - - 
+
 
 Al comenzar esta implementación vamos a poner mucha atención en cada gráfica figurativa, no figurativa y mixta que deba incluirse.
 
