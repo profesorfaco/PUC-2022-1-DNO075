@@ -39,11 +39,11 @@ Entre distintos recursos esta [960.gs](https://960.gs/), que ofrece una serie de
 
 Dentro del ZIP → dentro de la carpeta templates → dentro de la carpeta photoshop → pueden encontrar el archivo `960_grid_12_col.psd` con el que podrían su sketch.
 
-**3. Lo primero en el *explanatory sketch* de cada infografía digital**
+**3. Lo primero en cada *explanatory sketch***
 
 A primera vista debe quedar claro de qué trata la infografía digital a la que cualquiera podría llegar. Para ello, consideren:
 
-<img src="https://user-images.githubusercontent.com/7999767/172179691-f336f99e-07e0-40a6-92ea-926d75f0e2e7.jpg" width="400" hieght="400">
+<img src="https://user-images.githubusercontent.com/7999767/172179691-f336f99e-07e0-40a6-92ea-926d75f0e2e7.jpg" width="300" hieght="300">
 
 **4. Con un su *explanatory sketch* editado, corresponde hacer el cambio en el boceto grupal de la clase recién pasada**
 
