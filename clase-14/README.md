@@ -23,7 +23,7 @@ Para adelantar esa lógica hay recursos como https://960.gs/
 
 Y en la primera parte, la superior, de esta infografía digital, consideren: 
 
-![titulo](https://user-images.githubusercontent.com/7999767/172179691-f336f99e-07e0-40a6-92ea-926d75f0e2e7.jpg)
+<img src="https://user-images.githubusercontent.com/7999767/172179691-f336f99e-07e0-40a6-92ea-926d75f0e2e7.jpg" width="400" hieght="400">
 
 
 - - - - - - - - - 
