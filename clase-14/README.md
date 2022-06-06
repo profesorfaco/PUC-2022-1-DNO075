@@ -54,7 +54,9 @@ A primera vista debe quedar claro de qué trata la infografía digital a la que 
 
 - - - - - - - - - 
 
-**Con un buen *explanatory sketch*, recién podemos volver al plan original para la clase: Comenzar la implementación de una maqueta**
+**Con un buen *explanatory sketch*, recién podemos volver al plan original para la clase:** 
+
+### Tomar el boceto grupal final y comenzar a implementarlo con HTML, CSS, JavaScript y SVG
 
 - [Carnaval de Barranquilla](https://carnavaldebarranquilla.github.io/maqueta/)
 - Carnaval de Guaranda
