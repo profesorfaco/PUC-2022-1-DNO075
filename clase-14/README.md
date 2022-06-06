@@ -47,10 +47,10 @@ A primera vista debe quedar claro de qué trata la infografía digital a la que 
 
 **4. Con un su *explanatory sketch* editado, corresponde hacer el cambio en el boceto grupal de la clase recién pasada**
 
-- [Carnaval de Barranquilla](https://carnavaldebarranquilla.github.io/bocetos/)
-- [Carnaval de Guaranda](https://carnaval-de-guaranda.github.io/Bocetos/)
-- [Carnaval de la Tirana](https://carnaval-la-tirana.github.io/bocetos/)
-- [Carnaval de Oruro](https://orurocarnaval.github.io/boceto/)
+- [Bocetos del Carnaval de Barranquilla](https://carnavaldebarranquilla.github.io/bocetos/)
+- [Bocetos del Carnaval de Guaranda](https://carnaval-de-guaranda.github.io/Bocetos/)
+- [Bocetos del Carnaval de la Tirana](https://carnaval-la-tirana.github.io/bocetos/)
+- [Bocetos del Carnaval de Oruro](https://orurocarnaval.github.io/boceto/)
 
 - - - - - - - - - 
 
@@ -58,10 +58,10 @@ A primera vista debe quedar claro de qué trata la infografía digital a la que 
 
 ### Tomar el boceto grupal final y comenzar a implementarlo con HTML, CSS, JavaScript y SVG:
 
-- [Carnaval de Barranquilla](https://carnavaldebarranquilla.github.io/maqueta/)
-- Carnaval de Guaranda
-- [Carnaval de la Tirana](https://carnaval-la-tirana.github.io/maqueta/)
-- [Carnaval de Oruro](https://orurocarnaval.github.io/maqueta/)
+- [Maqueta del Carnaval de Barranquilla](https://carnavaldebarranquilla.github.io/maqueta/)
+- Maqueta del Carnaval de Guaranda
+- [Maqueta del Carnaval de la Tirana](https://carnaval-la-tirana.github.io/maqueta/)
+- [Maqueta del Carnaval de Oruro](https://orurocarnaval.github.io/maqueta/)
 
 En esta maqueta vamos a poner mucha atención en cada gráfica figurativa, no figurativa y mixta que deba incluirse.
 
