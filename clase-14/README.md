@@ -6,28 +6,51 @@ Hoy correspondía tomar el boceto grupal final y comenzar a implementarlo con HT
 
 - - - - - - - - - 
 
-#### ¡Pero antes!
+#### ¡Pero antes, algunos ajustes!
 
-Es importante tener "incorporada" la diferencia entre:
+**1. El *sketch***
 
--  Ideation sketches
--  Explorative sketches
--  Explanatory sketches
--  Persuasive sketches
+Quienes diseñamos tenemos que tener "incorporada" la diferencia entre:
 
-**Necesitamos llegar al *Explanatory sketch***
+-  *Ideation sketches*
+-  *Explorative sketches*
+-  *Explanatory sketches*
+-  *Persuasive sketches*
 
-Cuando trabajamos con Bootstrap, por defecto usamos una lógica de 12 columnas. Diagramamos con 12 columnas.
+Si aplicábamos la diferencia al trabajo de la clase recién pasada: 
 
-Para adelantar esa lógica hay recursos como https://960.gs/
+- los primeros bocetos individuales pudieron quedar a nivel de *ideation*; 
+- los segundos bocetos individuales pudieron avanzar al nivel de *explorative*; y 
+- el tecer boceto, que se resolvía grupalmente, tenía que **llegar al nivel de *explanatory***. 
 
-Y en la primera parte, la superior, de esta infografía digital, consideren: 
+> **Explanatory sketches are created to explain function, structure and form**. They communicate a design in a clear and neutral manner, focusing more on explaining the idea rather than selling it. Explanatory sketches must be readable to other people then those involved in the design process. The first feedback from the client usualy happens after reviewing these sketches. 
+
+El texto recién citado lo tomé de [*Basic Sketching Techniques for the Industrial Designer* de Thomas Valcke](https://drive.google.com/file/d/1WItWeLbkAvDxh5WTOKX5dq_4MPy7qIqy/view?usp=sharing)
+
+**2. El *explanatory sketch* para infografía digital**
+
+Desde la primera clase estamos trabajando con Bootstrap, un *frontend toolkit* que nos permite construir rápidamente páginas responsivas.
+
+La responsividad de Bootstra se basa en un lógica de tomar parte de las 12 columnas según determinadas pantallas. 
+
+Para ofrecer un sketch que nos explique funciones, estructura y forma, es necesario cuidar el trabajo con 12 columnas. 
+
+Entre distintos recursos esta [960.gs](https://960.gs/), que ofrece una serie de documentos para trabajar con columnas, que ustedes descargan como ZIP después de presionar el Big ol' DOWNLOAD button :)
+
+Dentro del ZIP → dentro de la carpeta templates → dentro de la carpeta photoshop → pueden encontrar el archivo `960_grid_12_col.psd` con el que podrían su sketch.
+
+**3. Lo primero en el *explanatory sketch* de cada infografía digital**
+
+A primera vista debe quedar claro de qué trata la infografía digital a la que cualquiera podría llegar. Para ello, consideren:
 
 <img src="https://user-images.githubusercontent.com/7999767/172179691-f336f99e-07e0-40a6-92ea-926d75f0e2e7.jpg" width="400" hieght="400">
+
+**4. Luego Jorge compartirá un video para que tenga referencia de cómo resolver un desafío de gráfica que es muy importante: El de los mapas**
 
 
 - - - - - - - - - 
 
+**Ahora sí, volvamos al plan original**
 
 Al comenzar esta implementación vamos a poner mucha atención en cada gráfica figurativa, no figurativa y mixta que deba incluirse.
 
