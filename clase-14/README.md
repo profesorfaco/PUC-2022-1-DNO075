@@ -52,9 +52,6 @@ A primera vista debe quedar claro de qué trata la infografía digital a la que 
 - [Carnaval de la Tirana](https://carnaval-la-tirana.github.io/bocetos/)
 - [Carnaval de Oruro](https://orurocarnaval.github.io/boceto/)
 
-**5. Luego el Profesor Jorge les compartirá un video para que tenga una referencia de cómo resolver un desafío de gráfica que es muy importante: El mapa**
-
-
 - - - - - - - - - 
 
 **Con un buen *explanatory sketch*, recién podemos volver al plan original para la clase: Comenzar la implementación de una maqueta**
@@ -64,7 +61,7 @@ A primera vista debe quedar claro de qué trata la infografía digital a la que 
 - [Carnaval de la Tirana](https://carnaval-la-tirana.github.io/maqueta/)
 - [Carnaval de Oruro](https://orurocarnaval.github.io/maqueta/)
 
-Al comenzar esta implementación vamos a poner mucha atención en cada gráfica figurativa, no figurativa y mixta que deba incluirse.
+En esta maqueta vamos a poner mucha atención en cada gráfica figurativa, no figurativa y mixta que deba incluirse.
 
 Por grupos, vamos a revisar:
 
@@ -83,11 +80,12 @@ Mientras avanzamos en tal revisión, los grupos que necesiten utilizar gráfica 
 - https://flourish.studio/
 - https://www.chartjs.org/
 
-En paralelo, los grups que quieran usar audio, video o animaciones: 
+En paralelo, los grupos que quieran usar audio, video o animaciones: 
 
 - podrían revisar [un artículo en MDN](https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 - podría averiguar sobre [LottieFiles](https://lottiefiles.com/)
 
+Luego el Profesor Jorge les compartirá un video para que tenga una referencia de **cómo resolver un desafío de gráfica que es muy importante: El mapa**
 
 - - - - - - - - - - - 
 
