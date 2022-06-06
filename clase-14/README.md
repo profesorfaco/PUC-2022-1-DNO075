@@ -57,7 +57,7 @@ A primera vista debe quedar claro de qué trata la infografía digital a la que 
 
 - - - - - - - - - 
 
-**Ahora podemos volver al plan original para la clase**
+**Con un buen *explanatory sketch*, recién podemos volver al plan original para la clase:**
 
 Al comenzar esta implementación vamos a poner mucha atención en cada gráfica figurativa, no figurativa y mixta que deba incluirse.
 
