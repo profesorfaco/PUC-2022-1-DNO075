@@ -2,11 +2,11 @@
 
 ### Clase 14 → 06/06/2022
 
-Hoy correspondía tomar el boceto grupal final y comenzar a implementarlo con HTML, CSS, JavaScript y SVG. 
+**Hoy correspondía tomar el boceto grupal final y comenzar a implementarlo con HTML, CSS, JavaScript y SVG**. 
 
 - - - - - - - - - 
 
-#### ¡Pero antes, algunos ajustes!
+#### ¡Pero antes, tenemos que hacer algunos ajustes!
 
 **1. El *sketch***
 
@@ -45,12 +45,19 @@ A primera vista debe quedar claro de qué trata la infografía digital a la que 
 
 <img src="https://user-images.githubusercontent.com/7999767/172179691-f336f99e-07e0-40a6-92ea-926d75f0e2e7.jpg" width="400" hieght="400">
 
-**4. Luego Jorge compartirá un video para que tenga referencia de cómo resolver un desafío de gráfica que es muy importante: El de los mapas**
+**4. Con un su *explanatory sketch* editado, corresponde hacer el cambio en el boceto grupal de la clase recién pasada**
+
+- https://carnaval-la-tirana.github.io/bocetos/
+- https://orurocarnaval.github.io/boceto/
+- https://carnaval-la-tirana.github.io/bocetos/
+- https://carnaval-de-guaranda.github.io/Bocetos/
+
+**5. Luego el Profesor Jorge les compartirá un video para que tenga una referencia de cómo resolver un desafío de gráfica que es muy importante: El mapa**
 
 
 - - - - - - - - - 
 
-**Ahora sí, volvamos al plan original**
+**Ahora podemos volver al plan original para la clase**
 
 Al comenzar esta implementación vamos a poner mucha atención en cada gráfica figurativa, no figurativa y mixta que deba incluirse.
 
